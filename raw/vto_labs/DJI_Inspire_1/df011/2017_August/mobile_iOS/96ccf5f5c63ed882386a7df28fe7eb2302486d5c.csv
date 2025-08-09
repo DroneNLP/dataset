@@ -1,0 +1,134 @@
+date,time,message
+8/3/2017,21:34.8,remove need upgrade groups
+8/3/2017,24:58.3,ConnectedToAircraft
+8/3/2017,24:58.6,"need upgrade m1300: 02.35.00.00, device version: 02.32.00.00"
+8/3/2017,24:58.6,need upgrade groups: (
+8/3/2017,24:58.6,"need upgrade m1400: 04.12.01.04, device version: 04.12.01.03"
+8/3/2017,24:58.6,need upgrade groups: (
+8/3/2017,24:58.6,upgrade state 1
+8/3/2017,24:58.6,upgrade state 1
+8/3/2017,26:59.4,remove need upgrade groups
+8/3/2017,26:59.4,DisconnectedWithAircraft
+8/3/2017,29:13.7,ConnectedToAircraft
+8/3/2017,29:14.0,"need upgrade m1300: 02.35.00.00, device version: 02.32.00.00"
+8/3/2017,29:14.0,need upgrade groups: (
+8/3/2017,29:14.0,"need upgrade m1400: 04.12.01.04, device version: 04.12.01.03"
+8/3/2017,29:14.0,need upgrade groups: (
+8/3/2017,33:05.1,remove need upgrade groups
+8/3/2017,33:05.1,DisconnectedWithAircraft
+8/3/2017,33:19.8,ConnectedToAircraft
+8/3/2017,33:20.1,"need upgrade m1300: 02.35.00.00, device version: 02.32.00.00"
+8/3/2017,33:20.1,need upgrade groups: (
+8/3/2017,33:20.1,"need upgrade m1400: 04.12.01.04, device version: 04.12.01.03"
+8/3/2017,33:20.1,need upgrade groups: (
+8/3/2017,41:15.5,remove need upgrade groups
+8/3/2017,41:15.5,DisconnectedWithAircraft
+8/3/2017,41:22.8,ConnectedToAircraft
+8/3/2017,41:23.2,"need upgrade m1300: 02.35.00.00, device version: 02.32.00.00"
+8/3/2017,41:23.2,need upgrade groups: (
+8/3/2017,41:23.2,"need upgrade m1400: 04.12.01.04, device version: 04.12.01.03"
+8/3/2017,41:23.2,need upgrade groups: (
+8/3/2017,42:16.2,remove need upgrade groups
+8/3/2017,42:16.2,DisconnectedWithAircraft
+8/3/2017,45:37.6,ConnectedToAircraft
+8/3/2017,45:37.9,"need upgrade m1300: 02.35.00.00, device version: 02.32.00.00"
+8/3/2017,45:37.9,need upgrade groups: (
+8/3/2017,45:37.9,"need upgrade m1400: 04.12.01.04, device version: 04.12.01.03"
+8/3/2017,45:37.9,need upgrade groups: (
+8/3/2017,48:11.6,"need upgrade m0900: 05.00.00.00, device version: 03.01.00.00"
+8/3/2017,48:11.6,need upgrade groups: (
+8/3/2017,48:11.7,"need upgrade m0306: 02.04.20.50, device version: 02.04.20.28"
+8/3/2017,48:11.7,need upgrade groups: (
+8/3/2017,48:12.0,"need upgrade m1300: 02.35.00.00, device version: 02.32.00.00"
+8/3/2017,48:12.0,need upgrade groups: (
+8/3/2017,48:12.0,"need upgrade m1400: 04.12.01.04, device version: 04.12.01.03"
+8/3/2017,48:12.0,need upgrade groups: (
+8/3/2017,48:12.0,"need upgrade m0900: 05.00.00.00, device version: 03.01.00.00"
+8/3/2017,48:12.0,need upgrade groups: (
+8/3/2017,48:12.0,"need upgrade m0306: 02.04.20.50, device version: 02.04.20.28"
+8/3/2017,48:12.0,need upgrade groups: (
+8/3/2017,51:54.6,"need upgrade m0400: 01.30.01.43, device version: 01.13.00.73"
+8/3/2017,51:54.6,need upgrade groups: (
+8/3/2017,51:54.7,"need upgrade m0100: 02.70.54.40, device version: 01.05.21.71"
+8/3/2017,51:54.7,need upgrade groups: (
+8/3/2017,51:54.7,"need upgrade m0800: 02.14.09.42, device version: 01.10.00.14"
+8/3/2017,51:54.7,need upgrade groups: (
+8/3/2017,51:55.6,"need upgrade m0306: 02.04.20.50, device version: 02.04.20.28"
+8/3/2017,51:55.6,need upgrade groups: (
+8/3/2017,52:01.4,remove need upgrade groups
+8/3/2017,52:01.4,DisconnectedWithAircraft
+8/3/2017,52:15.6,ConnectedToAircraft
+8/3/2017,52:16.0,"need upgrade m1300: 02.35.00.00, device version: 02.32.00.00"
+8/3/2017,52:16.0,need upgrade groups: (
+8/3/2017,52:16.0,"need upgrade m1400: 04.12.01.04, device version: 04.12.01.03"
+8/3/2017,52:16.0,need upgrade groups: (
+8/3/2017,52:16.2,"need upgrade m0306: 02.04.20.50, device version: 02.04.20.28"
+8/3/2017,52:16.2,need upgrade groups: (
+8/3/2017,52:16.4,"need upgrade m0100: 02.70.54.40, device version: 01.05.21.71"
+8/3/2017,52:16.4,need upgrade groups: (
+8/3/2017,52:16.7,"need upgrade m0900: 05.00.00.00, device version: 03.01.00.00"
+8/3/2017,52:16.7,need upgrade groups: (
+8/3/2017,52:16.7,"need upgrade m0306: 02.04.20.50, device version: 02.04.20.28"
+8/3/2017,52:16.7,need upgrade groups: (
+8/3/2017,56:22.9,"need upgrade m0100: 02.70.54.40, device version: 01.05.21.71"
+8/3/2017,56:22.9,need upgrade groups: (
+8/3/2017,56:23.1,"need upgrade m0100: 02.70.54.40, device version: 01.05.21.71"
+8/3/2017,56:23.1,need upgrade groups: (
+8/3/2017,56:23.1,"need upgrade m0400: 01.30.01.43, device version: 01.13.00.73"
+8/3/2017,56:23.1,need upgrade groups: (
+8/3/2017,56:23.1,"need upgrade m0800: 02.14.09.42, device version: 01.10.00.14"
+8/3/2017,56:23.1,need upgrade groups: (
+8/3/2017,56:24.0,"need upgrade m0900: 05.00.00.00, device version: 03.01.00.00"
+8/3/2017,56:24.0,need upgrade groups: (
+8/3/2017,56:24.0,"need upgrade m0306: 02.04.20.50, device version: 02.04.20.28"
+8/3/2017,56:24.0,need upgrade groups: (
+8/3/2017,56:40.3,"need upgrade m0100: 02.70.54.40, device version: 01.05.21.71"
+8/3/2017,56:40.3,need upgrade groups: (
+8/3/2017,56:42.1,"need upgrade m0400: 01.30.01.43, device version: 01.13.00.73"
+8/3/2017,56:42.1,need upgrade groups: (
+8/3/2017,56:42.1,"need upgrade m0800: 02.14.09.42, device version: 01.10.00.14"
+8/3/2017,56:42.1,need upgrade groups: (
+8/3/2017,56:42.2,"need upgrade m0306: 02.04.20.50, device version: 02.04.20.28"
+8/3/2017,56:42.2,need upgrade groups: (
+8/3/2017,57:18.5,"need upgrade m0100: 02.70.54.40, device version: 01.05.21.71"
+8/3/2017,57:18.5,need upgrade groups: (
+8/3/2017,57:21.0,"need upgrade m0100: 02.70.54.40, device version: 01.05.21.71"
+8/3/2017,57:21.0,need upgrade groups: (
+8/3/2017,57:21.0,"need upgrade m0800: 02.14.09.42, device version: 01.10.00.14"
+8/3/2017,57:21.0,need upgrade groups: (
+8/3/2017,57:21.4,"need upgrade m0306: 02.04.20.50, device version: 02.04.20.28"
+8/3/2017,57:21.4,need upgrade groups: (
+8/3/2017,57:26.7,"need upgrade m0100: 02.70.54.40, device version: 01.05.21.71"
+8/3/2017,57:26.7,need upgrade groups: (
+8/3/2017,57:27.0,"need upgrade m0100: 02.70.54.40, device version: 01.05.21.71"
+8/3/2017,57:27.0,need upgrade groups: (
+8/3/2017,57:27.0,"need upgrade m0800: 02.14.09.42, device version: 01.10.00.14"
+8/3/2017,57:27.0,need upgrade groups: (
+8/3/2017,57:27.5,"need upgrade m0400: 01.30.01.43, device version: 01.13.00.73"
+8/3/2017,57:27.5,need upgrade groups: (
+8/3/2017,57:27.9,"need upgrade m0900: 05.00.00.00, device version: 03.01.00.00"
+8/3/2017,57:27.9,need upgrade groups: (
+8/3/2017,57:27.9,"need upgrade m0306: 02.04.20.50, device version: 02.04.20.28"
+8/3/2017,57:27.9,need upgrade groups: (
+8/3/2017,01:19.2,"need upgrade m1300: 02.35.00.00, device version: 02.32.00.00"
+8/3/2017,01:19.2,need upgrade groups: (
+8/3/2017,01:19.2,"need upgrade m1400: 04.12.01.04, device version: 04.12.01.03"
+8/3/2017,01:19.2,need upgrade groups: (
+8/3/2017,01:19.2,"need upgrade m0306: 02.04.20.50, device version: 02.04.20.28"
+8/3/2017,01:19.2,need upgrade groups: (
+8/3/2017,01:19.2,"need upgrade m0100: 02.70.54.40, device version: 01.05.21.71"
+8/3/2017,01:19.2,need upgrade groups: (
+8/3/2017,01:19.2,"need upgrade m0800: 02.14.09.42, device version: 01.10.00.14"
+8/3/2017,01:19.2,need upgrade groups: (
+8/3/2017,01:19.2,"need upgrade m0400: 01.30.01.43, device version: 01.13.00.73"
+8/3/2017,01:19.2,need upgrade groups: (
+8/3/2017,01:19.2,"need upgrade m0900: 05.00.00.00, device version: 03.01.00.00"
+8/3/2017,01:19.2,need upgrade groups: (
+8/3/2017,01:19.2,"need upgrade m0306: 02.04.20.50, device version: 02.04.20.28"
+8/3/2017,01:19.2,need upgrade groups: (
+8/3/2017,03:09.6,remove need upgrade groups
+8/3/2017,03:09.6,DisconnectedWithAircraft
+8/3/2017,03:37.4,remove need upgrade groups
+8/3/2017,03:37.4,DisconnectedWithAircraft
+8/3/2017,21:01.7,remove need upgrade groups
+8/3/2017,21:01.7,DisconnectedWithAircraft

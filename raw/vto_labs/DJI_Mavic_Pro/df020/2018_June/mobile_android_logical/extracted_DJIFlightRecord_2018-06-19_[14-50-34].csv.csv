@@ -1,0 +1,9 @@
+drone_model,dataset,controller,source_file,date,time,message
+DJI_Mavic_Pro,df020,mobile_android_logical,DJIFlightRecord_2018-06-19_[14-50-34].csv,6/19/2018,50:35.2,Data Recorder File Index is 57.
+DJI_Mavic_Pro,df020,mobile_android_logical,DJIFlightRecord_2018-06-19_[14-50-34].csv,6/19/2018,50:37.1,Home Point Updated.
+DJI_Mavic_Pro,df020,mobile_android_logical,DJIFlightRecord_2018-06-19_[14-50-34].csv,6/19/2018,55:32.2,Obstacle Sensing will be disabled when aircraft is landing. Fly with caution.
+DJI_Mavic_Pro,df020,mobile_android_logical,DJIFlightRecord_2018-06-19_[14-50-34].csv,6/19/2018,52:06.3,Maximum flight distance reached. Adjust the distance in MC Settings if required.
+DJI_Mavic_Pro,df020,mobile_android_logical,DJIFlightRecord_2018-06-19_[14-50-34].csv,6/19/2018,52:08.2,Weak signal. Avoid blocking the antennas and keep the antennas parallel to and facing toward the aircraft during flight.
+DJI_Mavic_Pro,df020,mobile_android_logical,DJIFlightRecord_2018-06-19_[14-50-34].csv,6/19/2018,52:14.2,High wind velocity. Ensure the aircraft remains within your line of sight and fly with caution.
+DJI_Mavic_Pro,df020,mobile_android_logical,DJIFlightRecord_2018-06-19_[14-50-34].csv,6/19/2018,53:51.3,Maximum flight distance reached. Adjust the distance in MC Settings if required.
+DJI_Mavic_Pro,df020,mobile_android_logical,DJIFlightRecord_2018-06-19_[14-50-34].csv,6/19/2018,54:06.1,High wind velocity. Ensure the aircraft remains within your line of sight and fly with caution.

@@ -1,0 +1,3 @@
+drone_model,dataset,controller,source_file,date,time,message
+DJI_Mavic_Air,df048,mobile_android,19-04-2018-0K1DF313BD4PR1,19-04-2018-0K1DF313BD4PR1,11:39:46,Taking Off
+DJI_Mavic_Air,df048,mobile_android,19-04-2018-0K1DF313BD4PR1,19-04-2018-0K1DF313BD4PR1,11:40:33,Aircraft is returning to the Home Point. RTH Altitude is 30m. You can reset the RTH Altitude in Remote Controller Settings after cancelling RTH if necessary.

@@ -1,0 +1,5 @@
+drone_model,dataset,controller,source_file,date,time,message
+DJI_Inspire_1,df010,mobile_iOS,628-ef72a74ccca9f4a1c4a6f49bc4a3e20578bc13ca,2017-06-29,14:52:06,Taking Off
+DJI_Inspire_1,df010,mobile_iOS,628-ef72a74ccca9f4a1c4a6f49bc4a3e20578bc13ca,2017-06-29,14:52:08,Taking Off
+DJI_Inspire_1,df010,mobile_iOS,628-ef72a74ccca9f4a1c4a6f49bc4a3e20578bc13ca,2017-06-29,14:52:09,Home Point Recorded. RTH Altitude:  30m.
+DJI_Inspire_1,df010,mobile_iOS,628-ef72a74ccca9f4a1c4a6f49bc4a3e20578bc13ca,2017-06-29,15:02:26,Obstacle Avoided. Revise Flight Route

@@ -1,0 +1,7 @@
+drone_model,dataset,controller,source_file,date,time,message
+DJI_Phantom_4,df006,mobile_android_physical,DJIFlightRecord_2017-06-29_[12-39-25].csv,6/29/2017,39:26.6,Data Recorder File Index is 7.
+DJI_Phantom_4,df006,mobile_android_physical,DJIFlightRecord_2017-06-29_[12-39-25].csv,6/29/2017,42:53.7,Large Wind Velocity.
+DJI_Phantom_4,df006,mobile_android_physical,DJIFlightRecord_2017-06-29_[12-39-25].csv,6/29/2017,39:26.9,Taking off.
+DJI_Phantom_4,df006,mobile_android_physical,DJIFlightRecord_2017-06-29_[12-39-25].csv,6/29/2017,39:28.2,"Home Point Recorded, Return-to-Home Altitude:98FT."
+DJI_Phantom_4,df006,mobile_android_physical,DJIFlightRecord_2017-06-29_[12-39-25].csv,6/29/2017,49:59.2,Maximum Flight Altitude Reached.
+DJI_Phantom_4,df006,mobile_android_physical,DJIFlightRecord_2017-06-29_[12-39-25].csv,6/29/2017,52:00.8,Braking now! Return sticks to midpoints first.

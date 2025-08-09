@@ -1,0 +1,3 @@
+drone_model,dataset,controller,source_file,date,time,message
+DJI_Mavic_Air,df050,mobile_android,DJIFlightRecord_2018-04-19_[13-05-12].csv,4/19/2018,05:12.5,Data Recorder File Index is 15.
+DJI_Mavic_Air,df050,mobile_android,DJIFlightRecord_2018-04-19_[13-05-12].csv,4/19/2018,05:13.6,Remote controller assisted takeoff initiated.

@@ -1,0 +1,32 @@
+drone_model,dataset,controller,source_file,date,time,message
+DJI_Matrice_210,DF060,table_physical_intact,279-DJIFlightRecord_2018-06-20_[16-54-17].csv,6/20/2018,10:54:17.43 PM,Data Recorder File Index is 7.
+DJI_Matrice_210,DF060,table_physical_intact,279-DJIFlightRecord_2018-06-20_[16-54-17].csv,6/20/2018,10:54:18.75 PM,Remote controller assisted takeoff initiated.
+DJI_Matrice_210,DF060,table_physical_intact,279-DJIFlightRecord_2018-06-20_[16-54-17].csv,6/20/2018,10:54:24.51 PM,Home Point Updated.
+DJI_Matrice_210,DF060,table_physical_intact,279-DJIFlightRecord_2018-06-20_[16-54-17].csv,6/20/2018,10:54:24.51 PM,Home Point recorded. Return-to-Home Altitude:98FT.
+DJI_Matrice_210,DF060,table_physical_intact,279-DJIFlightRecord_2018-06-20_[16-54-17].csv,6/20/2018,10:55:08.53 PM,Propulsion output has been limited to ensure battery health.
+DJI_Matrice_210,DF060,table_physical_intact,279-DJIFlightRecord_2018-06-20_[16-54-17].csv,6/20/2018,10:59:22.79 PM,GPS Position Mismatch.
+DJI_Matrice_210,DF060,table_physical_intact,279-DJIFlightRecord_2018-06-20_[16-54-17].csv,6/20/2018,10:59:22.99 PM,GPS Position Mismatch.
+DJI_Matrice_210,DF060,table_physical_intact,279-DJIFlightRecord_2018-06-20_[16-54-17].csv,6/20/2018,10:59:23.09 PM,GPS Position Mismatch.
+DJI_Matrice_210,DF060,table_physical_intact,279-DJIFlightRecord_2018-06-20_[16-54-17].csv,6/20/2018,10:59:23.19 PM,GPS Position Mismatch.
+DJI_Matrice_210,DF060,table_physical_intact,279-DJIFlightRecord_2018-06-20_[16-54-17].csv,6/20/2018,10:59:32.78 PM,GPS Position Mismatch.
+DJI_Matrice_210,DF060,table_physical_intact,279-DJIFlightRecord_2018-06-20_[16-54-17].csv,6/20/2018,10:59:32.88 PM,GPS Position Mismatch.
+DJI_Matrice_210,DF060,table_physical_intact,279-DJIFlightRecord_2018-06-20_[16-54-17].csv,6/20/2018,10:59:32.98 PM,GPS Position Mismatch.
+DJI_Matrice_210,DF060,table_physical_intact,279-DJIFlightRecord_2018-06-20_[16-54-17].csv,6/20/2018,10:59:33.08 PM,GPS Position Mismatch.
+DJI_Matrice_210,DF060,table_physical_intact,279-DJIFlightRecord_2018-06-20_[16-54-17].csv,6/20/2018,10:59:33.19 PM,GPS Position Mismatch.
+DJI_Matrice_210,DF060,table_physical_intact,279-DJIFlightRecord_2018-06-20_[16-54-17].csv,6/20/2018,11:02:45.00 PM,GPS Position Mismatch.
+DJI_Matrice_210,DF060,table_physical_intact,279-DJIFlightRecord_2018-06-20_[16-54-17].csv,6/20/2018,11:02:45.10 PM,GPS Position Mismatch.
+DJI_Matrice_210,DF060,table_physical_intact,279-DJIFlightRecord_2018-06-20_[16-54-17].csv,6/20/2018,11:02:45.20 PM,GPS Position Mismatch.
+DJI_Matrice_210,DF060,table_physical_intact,279-DJIFlightRecord_2018-06-20_[16-54-17].csv,6/20/2018,11:02:45.30 PM,GPS Position Mismatch.
+DJI_Matrice_210,DF060,table_physical_intact,279-DJIFlightRecord_2018-06-20_[16-54-17].csv,6/20/2018,11:02:45.40 PM,GPS Position Mismatch.
+DJI_Matrice_210,DF060,table_physical_intact,279-DJIFlightRecord_2018-06-20_[16-54-17].csv,6/20/2018,11:03:55.80 PM,GPS Position Mismatch.
+DJI_Matrice_210,DF060,table_physical_intact,279-DJIFlightRecord_2018-06-20_[16-54-17].csv,6/20/2018,11:03:55.91 PM,GPS Position Mismatch.
+DJI_Matrice_210,DF060,table_physical_intact,279-DJIFlightRecord_2018-06-20_[16-54-17].csv,6/20/2018,11:03:56.01 PM,GPS Position Mismatch.
+DJI_Matrice_210,DF060,table_physical_intact,279-DJIFlightRecord_2018-06-20_[16-54-17].csv,6/20/2018,11:03:56.12 PM,GPS Position Mismatch.
+DJI_Matrice_210,DF060,table_physical_intact,279-DJIFlightRecord_2018-06-20_[16-54-17].csv,6/20/2018,11:03:56.14 PM,GPS Position Mismatch.
+DJI_Matrice_210,DF060,table_physical_intact,279-DJIFlightRecord_2018-06-20_[16-54-17].csv,6/20/2018,11:04:26.24 PM,GPS Position Mismatch.
+DJI_Matrice_210,DF060,table_physical_intact,279-DJIFlightRecord_2018-06-20_[16-54-17].csv,6/20/2018,11:04:26.26 PM,GPS Position Mismatch.
+DJI_Matrice_210,DF060,table_physical_intact,279-DJIFlightRecord_2018-06-20_[16-54-17].csv,6/20/2018,11:04:26.34 PM,GPS Position Mismatch.
+DJI_Matrice_210,DF060,table_physical_intact,279-DJIFlightRecord_2018-06-20_[16-54-17].csv,6/20/2018,11:04:26.45 PM,GPS Position Mismatch.
+DJI_Matrice_210,DF060,table_physical_intact,279-DJIFlightRecord_2018-06-20_[16-54-17].csv,6/20/2018,11:04:26.55 PM,GPS Position Mismatch.
+DJI_Matrice_210,DF060,table_physical_intact,279-DJIFlightRecord_2018-06-20_[16-54-17].csv,6/20/2018,11:05:30.67 PM,Obstacle Sensing will be disabled when aircraft is landing. Fly with caution.
+DJI_Matrice_210,DF060,table_physical_intact,279-DJIFlightRecord_2018-06-20_[16-54-17].csv,6/20/2018,11:05:30.67 PM,Aircraft is close to the Home Point. Initiating Return to Home will now trigger Auto Landing.

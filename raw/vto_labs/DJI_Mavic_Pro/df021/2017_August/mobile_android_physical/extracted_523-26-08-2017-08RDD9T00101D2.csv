@@ -1,0 +1,8 @@
+drone_model,dataset,controller,source_file,date,time,message
+DJI_Mavic_Pro,df021,mobile_android_physical,523-26-08-2017-08RDD9T00101D2,523-26-08-2017-08RDD9T00101D2,11:38:57,Forward Obstacle Sensing not Working
+DJI_Mavic_Pro,df021,mobile_android_physical,523-26-08-2017-08RDD9T00101D2,523-26-08-2017-08RDD9T00101D2,11:38:57,Ambient Light too Weak
+DJI_Mavic_Pro,df021,mobile_android_physical,523-26-08-2017-08RDD9T00101D2,523-26-08-2017-08RDD9T00101D2,11:39:58,Satellite positioning off. Fly with Caution.
+DJI_Mavic_Pro,df021,mobile_android_physical,523-26-08-2017-08RDD9T00101D2,523-26-08-2017-08RDD9T00101D2,11:41:13,Satellite positioning off. Fly with Caution.
+DJI_Mavic_Pro,df021,mobile_android_physical,523-26-08-2017-08RDD9T00101D2,523-26-08-2017-08RDD9T00101D2,11:41:23,Satellite positioning off. Fly with Caution.
+DJI_Mavic_Pro,df021,mobile_android_physical,523-26-08-2017-08RDD9T00101D2,523-26-08-2017-08RDD9T00101D2,11:44:01,Satellite positioning off. Fly with Caution.
+DJI_Mavic_Pro,df021,mobile_android_physical,523-26-08-2017-08RDD9T00101D2,523-26-08-2017-08RDD9T00101D2,11:44:16,Satellite positioning off. Fly with Caution.

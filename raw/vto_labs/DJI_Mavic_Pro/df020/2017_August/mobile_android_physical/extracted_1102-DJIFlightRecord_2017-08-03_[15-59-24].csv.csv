@@ -1,0 +1,10 @@
+drone_model,dataset,controller,source_file,date,time,message
+DJI_Mavic_Pro,df020,mobile_android_physical,1102-DJIFlightRecord_2017-08-03_[15-59-24].csv,8/3/2017,9:59:25.87 PM,Data Recorder File Index is 21.
+DJI_Mavic_Pro,df020,mobile_android_physical,1102-DJIFlightRecord_2017-08-03_[15-59-24].csv,8/3/2017,9:59:26.61 PM,Home Point Recorded.
+DJI_Mavic_Pro,df020,mobile_android_physical,1102-DJIFlightRecord_2017-08-03_[15-59-24].csv,8/3/2017,9:59:26.92 PM,Home Point Updated.
+DJI_Mavic_Pro,df020,mobile_android_physical,1102-DJIFlightRecord_2017-08-03_[15-59-24].csv,8/3/2017,9:59:27.13 PM,RTH Altitude: 65FT.
+DJI_Mavic_Pro,df020,mobile_android_physical,1102-DJIFlightRecord_2017-08-03_[15-59-24].csv,8/3/2017,9:59:33.29 PM,Landing Gear Raising.
+DJI_Mavic_Pro,df020,mobile_android_physical,1102-DJIFlightRecord_2017-08-03_[15-59-24].csv,8/3/2017,9:59:39.23 PM,Landing Gear Raised.
+DJI_Mavic_Pro,df020,mobile_android_physical,1102-DJIFlightRecord_2017-08-03_[15-59-24].csv,8/3/2017,10:07:02.11 PM,Downlink Lost.
+DJI_Mavic_Pro,df020,mobile_android_physical,1102-DJIFlightRecord_2017-08-03_[15-59-24].csv,8/3/2017,10:08:51.97 PM,Landing Gear Lowering.
+DJI_Mavic_Pro,df020,mobile_android_physical,1102-DJIFlightRecord_2017-08-03_[15-59-24].csv,8/3/2017,10:08:57.80 PM,Landing Gear Lowered.

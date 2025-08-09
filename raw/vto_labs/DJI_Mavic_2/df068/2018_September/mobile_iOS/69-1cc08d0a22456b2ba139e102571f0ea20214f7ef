@@ -1,0 +1,67 @@
+
+[2018-09-25 13:30:05.120]set upgrader to nil because need upgrade group count is 0.
+[2018-09-25 13:30:05.153]check upgrade for 0801
+[2018-09-25 13:30:05.154]no device info
+[2018-09-26 12:32:37.133]set upgrader to nil because need upgrade group count is 0.
+[2018-09-26 12:33:01.774]check upgrade for 0801
+[2018-09-26 12:33:01.776]no device info
+[2018-09-26 12:33:07.787]set upgrader to nil because need upgrade group count is 0.
+[2018-09-26 12:33:08.791]check upgrade for 0801
+[2018-09-26 12:33:08.792]no device info
+[2018-09-26 12:33:14.798]set upgrader to nil because need upgrade group count is 0.
+[2018-09-26 12:33:38.746]set upgrader to nil because need upgrade group count is 0.
+[2018-09-26 12:33:38.764]check upgrade for 1301
+[2018-09-26 12:33:38.766]no device info
+[2018-09-26 12:33:38.766]check upgrade for 0801
+[2018-09-26 12:33:38.766]no device info
+[2018-09-26 12:33:38.766]check upgrade for 1301
+[2018-09-26 12:33:38.767]no device info
+[2018-09-26 12:33:38.767]check upgrade for 0801
+[2018-09-26 12:33:38.767]no device info
+[2018-09-26 12:33:38.838]check upgrade for 1301
+[2018-09-26 12:33:38.840]can not get server version info
+[2018-09-26 12:33:40.879]check upgrade for 0801
+[2018-09-26 12:33:40.881]can not get server version info
+[2018-09-26 12:33:41.609]check upgrade for 2801
+[2018-09-26 12:33:41.612]can not get server version info
+[2018-09-26 12:33:42.499]check upgrade for 2801
+[2018-09-26 12:33:42.508]can not get server version info
+[2018-09-26 12:33:43.405]fetching version for wm240
+[2018-09-26 12:33:43.406]fetching version list using url :https://mydjiflight.dji.com/getfile/getallfile
+[2018-09-26 12:33:44.769]set upgrader to nil because need upgrade group count is 0.
+[2018-09-26 12:33:46.155]get version list result, errorCode:0, desc: (null), with URL: https://mydjiflight.dji.com/getfile/getallfile, data: [{"product_version":"01.00.0000","flow":"formal","released_time":"2018-08-23","release_note":{"en":"What’s New?\r\n•\tImproved firmware data safety. \r\n•\tAdded Hyperlapse mode, including four sub-modes: Free, Circle, Course Lock, and Waypoints. \r\n•\tAdded Dolly Zoom sub-mode for QuickShots (Mavic 2 Zoom only). \r\n•\tAdded Enhanced HDR and HyperLight shooting modes. \r\n•\tAdded Super Resolution sub-mode for Panorama. \r\n•\tAdded 2x digital zoom (Mavic 2 Zoom only. Available when recording video in 1080p 24/25/30 fps). \r\n•\tAdded Emergency RTH and Emergency Landing for Low Battery RTH.\r\n•\tAdjusted the low battery warning level to 25%. \r\n•\tImproved stability for POI by optimizing the way the location of the subject is measured (Mavic 2 Zoom only). \r\n•\tFixed the occasional issue in Panorama where the camera was unable to take a photo and improved the overall photo quality in Panorama.\r\n•\tFixed the issue where the aircraft would move unexpectedly due to compass interference. \r\n•\tFixed the occasional issue where the gimbal would not recenter after exiting QuickShots.\r\n•\tFixed the AE flicker issue (Mavic 2 Pro only) and green point issue (Mavic 2 Zoom only). Improved the overall photo quality of both Mavic 2 Pro/Zoom.\r\n•\tOptimized the performance of the Vision Systems. \r\n•\tAdded 2 m minimum flight altitude to ActiveTrack 2.0. \r\n•\tFixed the occasional issue in QuickShots where the camera was unable to record a video and improved the overall video quality in QuickShots.\r\nNotes:\r\nPlease note that there is no minimum flight altitude when the speed is fixed in the Free sub-mode of Hyperlapse. Be sure to fly with caution."}}]
+[2018-09-26 12:33:46.172]fetching cfg version:01.00.0000,product name:wm240, url:https://mydjiflight.dji.com/getfile/download
+[2018-09-26 12:33:46.577]set upgrader to nil because need upgrade group count is 0.
+[2018-09-26 12:33:46.891]fetching version for rc240
+[2018-09-26 12:33:46.892]fetching version list using url :https://mydjiflight.dji.com/getfile/getallfile
+[2018-09-26 12:33:47.617]set upgrader to nil because need upgrade group count is 0.
+[2018-09-26 12:33:47.669]get version list result, errorCode:0, desc: (null), with URL: https://mydjiflight.dji.com/getfile/getallfile, data: [{"product_version":"01.00.0000","flow":"formal","released_time":"2018-08-23","release_note":{"en":""}}]
+[2018-09-26 12:33:47.683]fetching cfg version:01.00.0000,product name:rc240, url:https://mydjiflight.dji.com/getfile/download
+[2018-09-26 12:33:48.462]fetching version for gl811
+[2018-09-26 12:33:48.463]fetching version list using url :https://mydjiflight.dji.com/getfile/getallfile
+[2018-09-26 12:33:49.335]get version list result, errorCode:0, desc: (null), with URL: https://mydjiflight.dji.com/getfile/getallfile, data: [{"product_version":"01.00.0100","flow":"formal","released_time":"2017-12-18","release_note":{"en":""}},{"product_version":"01.00.0200","flow":"formal","released_time":"2018-02-08","release_note":{"en":""}},{"product_version":"01.00.0300","flow":"formal","released_time":"2018-04-26","release_note":{"en":""}},{"product_version":"01.00.0400","flow":"formal","released_time":"2018-05-09","release_note":{"en":""}},{"product_version":"01.00.0500","flow":"formal","released_time":"2018-06-27","release_note":{"en":""}},{"product_version":"01.00.0600","flow":"formal","released_time":"2018-08-25","release_note":{"en":""}}]
+[2018-09-26 12:33:49.351]fetching cfg version:01.00.0600,product name:gl811, url:https://mydjiflight.dji.com/getfile/download
+[2018-09-26 12:33:50.576]fetching version for wm240
+[2018-09-26 12:33:50.577]fetching version list using url :https://mydjiflight.dji.com/getfile/getallfile
+[2018-09-26 12:33:51.471]get version list result, errorCode:0, desc: (null), with URL: https://mydjiflight.dji.com/getfile/getallfile, data: [{"product_version":"01.00.0000","flow":"formal","released_time":"2018-08-23","release_note":{"en":"What’s New?\r\n•\tImproved firmware data safety. \r\n•\tAdded Hyperlapse mode, including four sub-modes: Free, Circle, Course Lock, and Waypoints. \r\n•\tAdded Dolly Zoom sub-mode for QuickShots (Mavic 2 Zoom only). \r\n•\tAdded Enhanced HDR and HyperLight shooting modes. \r\n•\tAdded Super Resolution sub-mode for Panorama. \r\n•\tAdded 2x digital zoom (Mavic 2 Zoom only. Available when recording video in 1080p 24/25/30 fps). \r\n•\tAdded Emergency RTH and Emergency Landing for Low Battery RTH.\r\n•\tAdjusted the low battery warning level to 25%. \r\n•\tImproved stability for POI by optimizing the way the location of the subject is measured (Mavic 2 Zoom only). \r\n•\tFixed the occasional issue in Panorama where the camera was unable to take a photo and improved the overall photo quality in Panorama.\r\n•\tFixed the issue where the aircraft would move unexpectedly due to compass interference. \r\n•\tFixed the occasional issue where the gimbal would not recenter after exiting QuickShots.\r\n•\tFixed the AE flicker issue (Mavic 2 Pro only) and green point issue (Mavic 2 Zoom only). Improved the overall photo quality of both Mavic 2 Pro/Zoom.\r\n•\tOptimized the performance of the Vision Systems. \r\n•\tAdded 2 m minimum flight altitude to ActiveTrack 2.0. \r\n•\tFixed the occasional issue in QuickShots where the camera was unable to record a video and improved the overall video quality in QuickShots.\r\nNotes:\r\nPlease note that there is no minimum flight altitude when the speed is fixed in the Free sub-mode of Hyperlapse. Be sure to fly with caution."}}]
+[2018-09-26 12:33:51.487]fetching cfg version:01.00.0000,product name:wm240, url:https://mydjiflight.dji.com/getfile/download
+[2018-09-26 12:33:52.725]fetching version for rc240
+[2018-09-26 12:33:52.725]fetching version list using url :https://mydjiflight.dji.com/getfile/getallfile
+[2018-09-26 12:33:53.520]get version list result, errorCode:0, desc: (null), with URL: https://mydjiflight.dji.com/getfile/getallfile, data: [{"product_version":"01.00.0000","flow":"formal","released_time":"2018-08-23","release_note":{"en":""}}]
+[2018-09-26 12:33:53.538]fetching cfg version:01.00.0000,product name:rc240, url:https://mydjiflight.dji.com/getfile/download
+[2018-09-26 12:33:54.617]fetching version for gl811
+[2018-09-26 12:33:54.617]fetching version list using url :https://mydjiflight.dji.com/getfile/getallfile
+[2018-09-26 12:33:55.368]get version list result, errorCode:0, desc: (null), with URL: https://mydjiflight.dji.com/getfile/getallfile, data: [{"product_version":"01.00.0100","flow":"formal","released_time":"2017-12-18","release_note":{"en":""}},{"product_version":"01.00.0200","flow":"formal","released_time":"2018-02-08","release_note":{"en":""}},{"product_version":"01.00.0300","flow":"formal","released_time":"2018-04-26","release_note":{"en":""}},{"product_version":"01.00.0400","flow":"formal","released_time":"2018-05-09","release_note":{"en":""}},{"product_version":"01.00.0500","flow":"formal","released_time":"2018-06-27","release_note":{"en":""}},{"product_version":"01.00.0600","flow":"formal","released_time":"2018-08-25","release_note":{"en":""}}]
+[2018-09-26 12:33:55.387]fetching cfg version:01.00.0600,product name:gl811, url:https://mydjiflight.dji.com/getfile/download
+[2018-09-26 12:33:56.543]fetching cfg version:01.00.0500,product name:gl811, url:https://mydjiflight.dji.com/getfile/download
+[2018-09-26 12:33:57.861]fetching cfg version:01.00.0400,product name:gl811, url:https://mydjiflight.dji.com/getfile/download
+[2018-09-26 12:33:59.549]fetching cfg version:01.00.0300,product name:gl811, url:https://mydjiflight.dji.com/getfile/download
+[2018-09-26 12:34:00.742]fetching cfg version:01.00.0200,product name:gl811, url:https://mydjiflight.dji.com/getfile/download
+[2018-09-26 12:34:01.868]fetching cfg version:01.00.0100,product name:gl811, url:https://mydjiflight.dji.com/getfile/download
+[2018-09-26 12:34:02.945]check upgrade for 1301
+[2018-09-26 12:34:02.950]server pack version : 01.00.0000 , device pack version : 01.00.0000 , isBigger:0
+[2018-09-26 12:34:02.951]check upgrade for 0801
+[2018-09-26 12:34:02.956]server pack version : 01.00.0000 , device pack version : 01.00.0000 , isBigger:0
+[2018-09-26 12:34:08.948]set upgrader to nil because need upgrade group count is 0.
+[2018-09-26 12:48:25.157]set upgrader to nil because need upgrade group count is 0.
+[2018-09-26 12:48:31.198]set upgrader to nil because need upgrade group count is 0.

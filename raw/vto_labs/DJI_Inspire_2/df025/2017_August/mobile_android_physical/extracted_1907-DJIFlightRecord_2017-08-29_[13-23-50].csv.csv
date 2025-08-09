@@ -1,0 +1,3 @@
+drone_model,dataset,controller,source_file,date,time,message
+DJI_Inspire_2,df025,mobile_android_physical,1907-DJIFlightRecord_2017-08-29_[13-23-50].csv,8/29/2017,7:23:51.35 PM,Data Recorder File Index is 8.
+DJI_Inspire_2,df025,mobile_android_physical,1907-DJIFlightRecord_2017-08-29_[13-23-50].csv,8/29/2017,7:23:51.35 PM,Obstacle Avoidance Disabled. Landing gear lowered. Obstacle Avoidance Disabled.

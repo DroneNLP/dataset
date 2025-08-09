@@ -1,0 +1,25 @@
+drone_model,dataset,controller,source_file,date,time,message
+DJI_Phantom_3,df002,mobile_iOS_backup,428-b320c3b8bd0df220fbbe061f787297930b80b780,2017-06-29,10:13:32,Taking Off
+DJI_Phantom_3,df002,mobile_iOS_backup,428-b320c3b8bd0df220fbbe061f787297930b80b780,2017-06-29,10:14:52,Max Flight Distance Reached. Adjust in Main Controller Settings if necessary.
+DJI_Phantom_3,df002,mobile_iOS_backup,428-b320c3b8bd0df220fbbe061f787297930b80b780,2017-06-29,10:14:55,Aircraft out of Range
+DJI_Phantom_3,df002,mobile_iOS_backup,428-b320c3b8bd0df220fbbe061f787297930b80b780,2017-06-29,10:15:09,Aircraft out of Range
+DJI_Phantom_3,df002,mobile_iOS_backup,428-b320c3b8bd0df220fbbe061f787297930b80b780,2017-06-29,10:15:15,Aircraft out of Range
+DJI_Phantom_3,df002,mobile_iOS_backup,428-b320c3b8bd0df220fbbe061f787297930b80b780,2017-06-29,10:15:18,Aircraft out of Range
+DJI_Phantom_3,df002,mobile_iOS_backup,428-b320c3b8bd0df220fbbe061f787297930b80b780,2017-06-29,10:15:23,Aircraft out of Range
+DJI_Phantom_3,df002,mobile_iOS_backup,428-b320c3b8bd0df220fbbe061f787297930b80b780,2017-06-29,10:15:23,Aircraft out of Range
+DJI_Phantom_3,df002,mobile_iOS_backup,428-b320c3b8bd0df220fbbe061f787297930b80b780,2017-06-29,10:15:30,Aircraft out of Range
+DJI_Phantom_3,df002,mobile_iOS_backup,428-b320c3b8bd0df220fbbe061f787297930b80b780,2017-06-29,10:15:31,Aircraft out of Range
+DJI_Phantom_3,df002,mobile_iOS_backup,428-b320c3b8bd0df220fbbe061f787297930b80b780,2017-06-29,10:15:34,Aircraft out of Range
+DJI_Phantom_3,df002,mobile_iOS_backup,428-b320c3b8bd0df220fbbe061f787297930b80b780,2017-06-29,10:15:34,Aircraft out of Range
+DJI_Phantom_3,df002,mobile_iOS_backup,428-b320c3b8bd0df220fbbe061f787297930b80b780,2017-06-29,10:15:39,Cannot change current flight mode. Enable Multiple Flight Modes in Settings menu to change.
+DJI_Phantom_3,df002,mobile_iOS_backup,428-b320c3b8bd0df220fbbe061f787297930b80b780,2017-06-29,10:16:00,Max Flight Distance Reached. Adjust in Main Controller Settings if necessary.
+DJI_Phantom_3,df002,mobile_iOS_backup,428-b320c3b8bd0df220fbbe061f787297930b80b780,2017-06-29,10:16:55,Aircraft out of Range
+DJI_Phantom_3,df002,mobile_iOS_backup,428-b320c3b8bd0df220fbbe061f787297930b80b780,2017-06-29,10:17:04,Aircraft out of Range
+DJI_Phantom_3,df002,mobile_iOS_backup,428-b320c3b8bd0df220fbbe061f787297930b80b780,2017-06-29,10:17:28,Aircraft out of Range
+DJI_Phantom_3,df002,mobile_iOS_backup,428-b320c3b8bd0df220fbbe061f787297930b80b780,2017-06-29,10:17:32,Aircraft out of Range
+DJI_Phantom_3,df002,mobile_iOS_backup,428-b320c3b8bd0df220fbbe061f787297930b80b780,2017-06-29,10:17:43,Aircraft out of Range
+DJI_Phantom_3,df002,mobile_iOS_backup,428-b320c3b8bd0df220fbbe061f787297930b80b780,2017-06-29,10:18:10,Max Flight Distance Reached. Adjust in Main Controller Settings if necessary.
+DJI_Phantom_3,df002,mobile_iOS_backup,428-b320c3b8bd0df220fbbe061f787297930b80b780,2017-06-29,10:18:48,Cannot change current flight mode. Enable Multiple Flight Modes in Settings menu to change.
+DJI_Phantom_3,df002,mobile_iOS_backup,428-b320c3b8bd0df220fbbe061f787297930b80b780,2017-06-29,10:21:04,Returning to the Home Point
+DJI_Phantom_3,df002,mobile_iOS_backup,428-b320c3b8bd0df220fbbe061f787297930b80b780,2017-06-29,10:21:36,Returning to the Home Point
+DJI_Phantom_3,df002,mobile_iOS_backup,428-b320c3b8bd0df220fbbe061f787297930b80b780,2017-06-29,10:22:16,Landing Canceled

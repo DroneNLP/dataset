@@ -1,0 +1,5 @@
+drone_model,dataset,controller,source_file,date,time,message
+DJI_Mavic_Air,df048,mobile_android,DJIFlightRecord_2018-04-19_[11-39-45].csv,4/19/2018,39:47.1,Data Recorder File Index is 29.
+DJI_Mavic_Air,df048,mobile_android,DJIFlightRecord_2018-04-19_[11-39-45].csv,4/19/2018,39:47.1,Taking Off.
+DJI_Mavic_Air,df048,mobile_android,DJIFlightRecord_2018-04-19_[11-39-45].csv,4/19/2018,39:48.0,Home Point Updated.
+DJI_Mavic_Air,df048,mobile_android,DJIFlightRecord_2018-04-19_[11-39-45].csv,4/19/2018,40:32.8,Aircraft is returning to the Home Point. RTH Altitude is 30m. You can reset the RTH Altitude in Remote Controller Settings after cancelling RTH if necessary.

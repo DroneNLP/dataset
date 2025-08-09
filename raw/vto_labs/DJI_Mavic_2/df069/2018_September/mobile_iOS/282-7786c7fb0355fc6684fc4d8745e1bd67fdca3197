@@ -1,0 +1,4 @@
+Tue Sep 25 11:06:00 2018 [112] <notice> (0x16fc73000) -[MobileInstallationHelperService _moveAndUpdateOwnershipFromURL:toURL:withError:]: Probably the first upgrade to the new home directory structure. Moving /private/var/mobile/Library/MobileInstallation to /private/var/installd/Library/MobileInstallation
+Tue Sep 25 11:06:00 2018 [112] <notice> (0x16fc73000) -[MobileInstallationHelperService _writeMigrationFileToDiskAtURL:]: Migration successfully completed. Writing file at file:///private/var/installd/Library/MobileInstallation/RoleUserMigration.plist
+Tue Sep 25 11:06:00 2018 [112] <notice> (0x16fd8b000) -[MISystemAppDataContainerMigrator performMigrationWithError:]: Migrating system app data containers
+Tue Sep 25 11:06:00 2018 [112] <notice> (0x16fd8b000) -[MISystemAppDataContainerMigrator performMigrationWithError:]: Migration complete

@@ -1,0 +1,17 @@
+drone_model,dataset,controller,source_file,date,time,message
+DJI_Mavic_Pro,df019,mobile_android_physical,DJIFlightRecord_2017-08-29_[12-05-27].csv,8/29/2017,6:05:29.02 PM,Data Recorder File Index is 7.
+DJI_Mavic_Pro,df019,mobile_android_physical,DJIFlightRecord_2017-08-29_[12-05-27].csv,8/29/2017,6:05:29.13 PM,Taking off.
+DJI_Mavic_Pro,df019,mobile_android_physical,DJIFlightRecord_2017-08-29_[12-05-27].csv,6:05:30.16 PM,5m 59.3s,"""Home Point Recorded"
+DJI_Mavic_Pro,df019,mobile_android_physical,DJIFlightRecord_2017-08-29_[12-05-27].csv,6:05:30.16 PM,5m 59.3s,"Return-to-Home Altitude:98FT."""
+DJI_Mavic_Pro,df019,mobile_android_physical,DJIFlightRecord_2017-08-29_[12-05-27].csv,8/29/2017,6:08:35.47 PM,Tap the screen lightly to focus.
+DJI_Mavic_Pro,df019,mobile_android_physical,DJIFlightRecord_2017-08-29_[12-05-27].csv,8/29/2017,6:08:35.68 PM,Tap the screen lightly to focus.
+DJI_Mavic_Pro,df019,mobile_android_physical,DJIFlightRecord_2017-08-29_[12-05-27].csv,8/29/2017,6:10:24.40 PM,RTH: Preascending.
+DJI_Mavic_Pro,df019,mobile_android_physical,DJIFlightRecord_2017-08-29_[12-05-27].csv,8/29/2017,6:10:24.40 PM,Aircraft is returning to the Home Point. Minimum RTH Altitude is 30m. You can reset the RTH Altitude in Remote Controller Settings after cancelling RTH if necessary.
+DJI_Mavic_Pro,df019,mobile_android_physical,DJIFlightRecord_2017-08-29_[12-05-27].csv,8/29/2017,6:10:27.61 PM,RTH: Heading alignment.
+DJI_Mavic_Pro,df019,mobile_android_physical,DJIFlightRecord_2017-08-29_[12-05-27].csv,8/29/2017,6:10:29.37 PM,RTH: Ascending to RTH altitude.
+DJI_Mavic_Pro,df019,mobile_android_physical,DJIFlightRecord_2017-08-29_[12-05-27].csv,8/29/2017,6:10:36.09 PM,RTH: Cruise.
+DJI_Mavic_Pro,df019,mobile_android_physical,DJIFlightRecord_2017-08-29_[12-05-27].csv,8/29/2017,6:10:48.08 PM,Exited Visual Avoidance System.
+DJI_Mavic_Pro,df019,mobile_android_physical,DJIFlightRecord_2017-08-29_[12-05-27].csv,8/29/2017,6:11:10.78 PM,Precision LandingRectifying aircraft position.
+DJI_Mavic_Pro,df019,mobile_android_physical,DJIFlightRecord_2017-08-29_[12-05-27].csv,8/29/2017,6:11:31.79 PM,Ground Plain. Safe to Land.
+DJI_Mavic_Pro,df019,mobile_android_physical,DJIFlightRecord_2017-08-29_[12-05-27].csv,8/29/2017,6:11:32.10 PM,Ground Plain. Safe to Land.
+DJI_Mavic_Pro,df019,mobile_android_physical,DJIFlightRecord_2017-08-29_[12-05-27].csv,8/29/2017,6:11:35.09 PM,Precision LandingRectifying aircraft position.

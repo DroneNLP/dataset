@@ -1,0 +1,27 @@
+drone_model,dataset,controller,source_file,date,time,message
+DJI_Phantom_4,df005,mobile_android_backup,DJIFlightRecord_2017-06-29_[11-15-17].csv,6/29/2017,15:21.1,Data Recorder File Index is 4.
+DJI_Phantom_4,df005,mobile_android_backup,DJIFlightRecord_2017-06-29_[11-15-17].csv,6/29/2017,15:21.1,Motors Started.
+DJI_Phantom_4,df005,mobile_android_backup,DJIFlightRecord_2017-06-29_[11-15-17].csv,6/29/2017,15:23.7,Downlink Restored (after 0m 1.4s).
+DJI_Phantom_4,df005,mobile_android_backup,DJIFlightRecord_2017-06-29_[11-15-17].csv,6/29/2017,15:25.1,Downlink Restored (after 0m 0.9s).
+DJI_Phantom_4,df005,mobile_android_backup,DJIFlightRecord_2017-06-29_[11-15-17].csv,6/29/2017,15:27.7,Downlink Restored (after 0m 1.2s).
+DJI_Phantom_4,df005,mobile_android_backup,DJIFlightRecord_2017-06-29_[11-15-17].csv,6/29/2017,15:33.4,Downlink Restored (after 0m 1.1s).
+DJI_Phantom_4,df005,mobile_android_backup,DJIFlightRecord_2017-06-29_[11-15-17].csv,6/29/2017,15:34.4,Downlink Restored (after 0m 1s).
+DJI_Phantom_4,df005,mobile_android_backup,DJIFlightRecord_2017-06-29_[11-15-17].csv,6/29/2017,15:36.5,Downlink Restored (after 0m 1.6s).
+DJI_Phantom_4,df005,mobile_android_backup,DJIFlightRecord_2017-06-29_[11-15-17].csv,6/29/2017,15:38.9,Downlink Restored (after 0m 1.1s).
+DJI_Phantom_4,df005,mobile_android_backup,DJIFlightRecord_2017-06-29_[11-15-17].csv,6/29/2017,15:45.6,Downlink Restored (after 0m 1.2s).
+DJI_Phantom_4,df005,mobile_android_backup,DJIFlightRecord_2017-06-29_[11-15-17].csv,6/29/2017,16:13.0,Downlink Restored (after 0m 1.4s).
+DJI_Phantom_4,df005,mobile_android_backup,DJIFlightRecord_2017-06-29_[11-15-17].csv,6/29/2017,16:26.3,Downlink Restored (after 0m 1.2s).
+DJI_Phantom_4,df005,mobile_android_backup,DJIFlightRecord_2017-06-29_[11-15-17].csv,6/29/2017,16:30.2,Downlink Restored (after 0m 1s).
+DJI_Phantom_4,df005,mobile_android_backup,DJIFlightRecord_2017-06-29_[11-15-17].csv,6/29/2017,16:29.2,"Home Point Recorded, Return-to-Home Altitude:98FT."
+DJI_Phantom_4,df005,mobile_android_backup,DJIFlightRecord_2017-06-29_[11-15-17].csv,6/29/2017,15:22.3,Downlink Lost.
+DJI_Phantom_4,df005,mobile_android_backup,DJIFlightRecord_2017-06-29_[11-15-17].csv,6/29/2017,15:24.2,Downlink Lost.
+DJI_Phantom_4,df005,mobile_android_backup,DJIFlightRecord_2017-06-29_[11-15-17].csv,6/29/2017,15:26.5,Downlink Lost.
+DJI_Phantom_4,df005,mobile_android_backup,DJIFlightRecord_2017-06-29_[11-15-17].csv,6/29/2017,15:32.4,Downlink Lost.
+DJI_Phantom_4,df005,mobile_android_backup,DJIFlightRecord_2017-06-29_[11-15-17].csv,6/29/2017,15:34.9,Downlink Lost.
+DJI_Phantom_4,df005,mobile_android_backup,DJIFlightRecord_2017-06-29_[11-15-17].csv,6/29/2017,15:37.8,Downlink Lost.
+DJI_Phantom_4,df005,mobile_android_backup,DJIFlightRecord_2017-06-29_[11-15-17].csv,6/29/2017,15:43.7,Braking now! Return sticks to midpoints first.
+DJI_Phantom_4,df005,mobile_android_backup,DJIFlightRecord_2017-06-29_[11-15-17].csv,6/29/2017,16:25.0,Downlink Lost.
+DJI_Phantom_4,df005,mobile_android_backup,DJIFlightRecord_2017-06-29_[11-15-17].csv,6/29/2017,16:26.4,Braking now! Return sticks to midpoints first.
+DJI_Phantom_4,df005,mobile_android_backup,DJIFlightRecord_2017-06-29_[11-15-17].csv,6/29/2017,16:27.2,Braking now! Return sticks to midpoints first.
+DJI_Phantom_4,df005,mobile_android_backup,DJIFlightRecord_2017-06-29_[11-15-17].csv,6/29/2017,16:30.4,Braking now! Return sticks to midpoints first.
+DJI_Phantom_4,df005,mobile_android_backup,DJIFlightRecord_2017-06-29_[11-15-17].csv,6/29/2017,16:31.6,Braking now! Return sticks to midpoints first.

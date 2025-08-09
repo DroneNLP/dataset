@@ -1,0 +1,13 @@
+drone_model,dataset,controller,source_file,date,time,message
+DJI_Mavic_Air,df050,mobile_android,DJIFlightRecord_2018-04-19_[13-05-29].csv,4/19/2018,05:29.6,Data Recorder File Index is 15.
+DJI_Mavic_Air,df050,mobile_android,DJIFlightRecord_2018-04-19_[13-05-29].csv,4/19/2018,05:32.6,Home Point Updated.
+DJI_Mavic_Air,df050,mobile_android,DJIFlightRecord_2018-04-19_[13-05-29].csv,4/19/2018,05:32.6,Home Point recorded. Return-to-Home Altitude:98FT.
+DJI_Mavic_Air,df050,mobile_android,DJIFlightRecord_2018-04-19_[13-05-29].csv,4/19/2018,05:31.1,Remote controller assisted takeoff initiated.
+DJI_Mavic_Air,df050,mobile_android,DJIFlightRecord_2018-04-19_[13-05-29].csv,4/19/2018,08:48.2,SD card write speed is too slow. Not suitable for shooting a 4K video.
+DJI_Mavic_Air,df050,mobile_android,DJIFlightRecord_2018-04-19_[13-05-29].csv,4/19/2018,06:40.6,High wind velocity. Fly with caution.
+DJI_Mavic_Air,df050,mobile_android,DJIFlightRecord_2018-04-19_[13-05-29].csv,4/19/2018,06:50.6,High wind velocity. Fly with caution.
+DJI_Mavic_Air,df050,mobile_android,DJIFlightRecord_2018-04-19_[13-05-29].csv,4/19/2018,08:32.5,High wind velocity. Fly with caution.
+DJI_Mavic_Air,df050,mobile_android,DJIFlightRecord_2018-04-19_[13-05-29].csv,4/19/2018,09:26.6,High wind velocity. Fly with caution.
+DJI_Mavic_Air,df050,mobile_android,DJIFlightRecord_2018-04-19_[13-05-29].csv,4/19/2018,09:58.6,High wind velocity. Fly with caution.
+DJI_Mavic_Air,df050,mobile_android,DJIFlightRecord_2018-04-19_[13-05-29].csv,4/19/2018,11:08.5,High wind velocity. Fly with caution.
+DJI_Mavic_Air,df050,mobile_android,DJIFlightRecord_2018-04-19_[13-05-29].csv,4/19/2018,11:59.7,High wind velocity. Fly with caution.

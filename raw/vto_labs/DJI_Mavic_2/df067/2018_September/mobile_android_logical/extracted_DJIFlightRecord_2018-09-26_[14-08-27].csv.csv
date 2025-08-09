@@ -1,0 +1,9 @@
+drone_model,dataset,controller,source_file,date,time,message
+DJI_Mavic_2,df067,mobile_android_logical,DJIFlightRecord_2018-09-26_[14-08-27].csv,9/26/2018,08:27.8,Data Recorder File Index is 12.
+DJI_Mavic_2,df067,mobile_android_logical,DJIFlightRecord_2018-09-26_[14-08-27].csv,9/26/2018,08:35.0,Home Point Updated.
+DJI_Mavic_2,df067,mobile_android_logical,DJIFlightRecord_2018-09-26_[14-08-27].csv,9/26/2018,08:35.0,Home Point recorded. Return-to-Home Altitude:98FT.
+DJI_Mavic_2,df067,mobile_android_logical,DJIFlightRecord_2018-09-26_[14-08-27].csv,9/26/2018,10:04.9,Strong Remote Controller Interference.
+DJI_Mavic_2,df067,mobile_android_logical,DJIFlightRecord_2018-09-26_[14-08-27].csv,9/26/2018,10:10.5,"Braking now. Return sticks to midpoints, then continue flying."
+DJI_Mavic_2,df067,mobile_android_logical,DJIFlightRecord_2018-09-26_[14-08-27].csv,9/26/2018,11:43.2,Strong Remote Controller Interference.
+DJI_Mavic_2,df067,mobile_android_logical,DJIFlightRecord_2018-09-26_[14-08-27].csv,9/26/2018,12:14.9,Strong Remote Controller Interference.
+DJI_Mavic_2,df067,mobile_android_logical,DJIFlightRecord_2018-09-26_[14-08-27].csv,9/26/2018,12:42.3,Strong Remote Controller Interference.

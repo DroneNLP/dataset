@@ -1,0 +1,4 @@
+drone_model,dataset,controller,source_file,date,time,message
+DJI_Phantom_4_Pro_V2,df063,mobile_android_logical,DJIFlightRecord_2018-06-15_[11-17-44].csv,6/15/2018,5:17:45.65 PM,Data Recorder File Index is 5.
+DJI_Phantom_4_Pro_V2,df063,mobile_android_logical,DJIFlightRecord_2018-06-15_[11-17-44].csv,6/15/2018,5:17:46.78 PM,RTH Altitude: 65FT.
+DJI_Phantom_4_Pro_V2,df063,mobile_android_logical,DJIFlightRecord_2018-06-15_[11-17-44].csv,6/15/2018,5:18:22.78 PM,Landing.

@@ -1,0 +1,16 @@
+drone_model,dataset,controller,source_file,date,time,message
+DJI_Mavic_Pro,df019,mobile_ios,232-5db5baf8d4cc48901b09fa709b1def47276438c3,2017-08-29,11:49:33,Taking Off
+DJI_Mavic_Pro,df019,mobile_ios,232-5db5baf8d4cc48901b09fa709b1def47276438c3,2017-08-29,11:49:34,Taking Off
+DJI_Mavic_Pro,df019,mobile_ios,232-5db5baf8d4cc48901b09fa709b1def47276438c3,2017-08-29,11:49:35,Home Point Recorded. RTH Altitude:  30m.
+DJI_Mavic_Pro,df019,mobile_ios,232-5db5baf8d4cc48901b09fa709b1def47276438c3,2017-08-29,11:49:52,Landing
+DJI_Mavic_Pro,df019,mobile_ios,232-5db5baf8d4cc48901b09fa709b1def47276438c3,2017-08-29,11:49:52,Obstacle Avoidance will be disabled in landing.
+DJI_Mavic_Pro,df019,mobile_ios,232-5db5baf8d4cc48901b09fa709b1def47276438c3,2017-08-29,11:50:08,Ground Plain. Safe to Land.
+DJI_Mavic_Pro,df019,mobile_ios,232-5db5baf8d4cc48901b09fa709b1def47276438c3,2017-08-29,11:50:40,Taking Off
+DJI_Mavic_Pro,df019,mobile_ios,232-5db5baf8d4cc48901b09fa709b1def47276438c3,2017-08-29,11:50:41,Taking Off
+DJI_Mavic_Pro,df019,mobile_ios,232-5db5baf8d4cc48901b09fa709b1def47276438c3,2017-08-29,11:50:43,Home Point Recorded. RTH Altitude:  30m.
+DJI_Mavic_Pro,df019,mobile_ios,232-5db5baf8d4cc48901b09fa709b1def47276438c3,2017-08-29,11:53:00,Aircraft is returning to the Home Point. Minimum RTH Altitude is 98ft. You can reset the RTH Altitude in Remote Controller Settings after cancelling RTH.
+DJI_Mavic_Pro,df019,mobile_ios,232-5db5baf8d4cc48901b09fa709b1def47276438c3,2017-08-29,11:53:27,Obstacle Avoidance will be disabled in landing.
+DJI_Mavic_Pro,df019,mobile_ios,232-5db5baf8d4cc48901b09fa709b1def47276438c3,2017-08-29,11:53:56,Locating Landing Point
+DJI_Mavic_Pro,df019,mobile_ios,232-5db5baf8d4cc48901b09fa709b1def47276438c3,2017-08-29,11:54:08,Landing Canceled
+DJI_Mavic_Pro,df019,mobile_ios,232-5db5baf8d4cc48901b09fa709b1def47276438c3,2017-08-29,11:54:26,Forward Obstacle Sensing not Responding
+DJI_Mavic_Pro,df019,mobile_ios,232-5db5baf8d4cc48901b09fa709b1def47276438c3,2017-08-29,11:54:50,Obstacle Avoidance will be disabled in landing.

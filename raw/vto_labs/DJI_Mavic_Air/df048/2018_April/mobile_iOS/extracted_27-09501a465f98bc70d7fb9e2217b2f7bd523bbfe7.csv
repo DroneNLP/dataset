@@ -1,0 +1,10 @@
+drone_model,dataset,controller,source_file,date,time,message
+DJI_Mavic_Air,df048,mobile_iOS,27-09501a465f98bc70d7fb9e2217b2f7bd523bbfe7,2018-04-19,11:25:15,Home Point Recorded. RTH Altitude:  30m.
+DJI_Mavic_Air,df048,mobile_iOS,27-09501a465f98bc70d7fb9e2217b2f7bd523bbfe7,2018-04-19,11:26:34,In Flight
+DJI_Mavic_Air,df048,mobile_iOS,27-09501a465f98bc70d7fb9e2217b2f7bd523bbfe7,2018-04-19,11:26:34,In Flight
+DJI_Mavic_Air,df048,mobile_iOS,27-09501a465f98bc70d7fb9e2217b2f7bd523bbfe7,2018-04-19,11:26:42,In Flight
+DJI_Mavic_Air,df048,mobile_iOS,27-09501a465f98bc70d7fb9e2217b2f7bd523bbfe7,2018-04-19,11:26:44,In Flight
+DJI_Mavic_Air,df048,mobile_iOS,27-09501a465f98bc70d7fb9e2217b2f7bd523bbfe7,2018-04-19,11:26:55,In Flight
+DJI_Mavic_Air,df048,mobile_iOS,27-09501a465f98bc70d7fb9e2217b2f7bd523bbfe7,2018-04-19,11:26:55,In Flight
+DJI_Mavic_Air,df048,mobile_iOS,27-09501a465f98bc70d7fb9e2217b2f7bd523bbfe7,2018-04-19,11:27:00,In Flight
+DJI_Mavic_Air,df048,mobile_iOS,27-09501a465f98bc70d7fb9e2217b2f7bd523bbfe7,2018-04-19,11:27:47,Obstacle Avoidance will be disabled in landing.

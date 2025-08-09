@@ -1,0 +1,31 @@
+drone_model,dataset,controller,source_file,date,time,message
+DJI_Phantom_3,df001,mobile_android,20-06-2018,20-06-2018,08:20:05,Flight Mode Set to Attitude
+DJI_Phantom_3,df001,mobile_android,20-06-2018,20-06-2018,08:20:05,Set Flight Mode to GPS to fly safe
+DJI_Phantom_3,df001,mobile_android,20-06-2018,20-06-2018,08:20:52,Flight Mode Set to Attitude
+DJI_Phantom_3,df001,mobile_android,20-06-2018,20-06-2018,08:20:52,Set Flight Mode to GPS to fly safe
+DJI_Phantom_3,df001,mobile_android,20-06-2018,20-06-2018,08:21:02,Home Point Recorded
+DJI_Phantom_3,df001,mobile_android,20-06-2018,20-06-2018,08:21:27,Flight Mode Set to Attitude
+DJI_Phantom_3,df001,mobile_android,20-06-2018,20-06-2018,08:21:27,Set Flight Mode to GPS to fly safe
+DJI_Phantom_3,df001,mobile_android,20-06-2018,20-06-2018,08:59:36,Flight Mode Set to Attitude
+DJI_Phantom_3,df001,mobile_android,20-06-2018,20-06-2018,08:59:36,Set Flight Mode to GPS to fly safe
+DJI_Phantom_3,df001,mobile_android,20-06-2018,20-06-2018,08:59:54,Take off in P-Mode
+DJI_Phantom_3,df001,mobile_android,20-06-2018,20-06-2018,09:01:26,"Aircraft is in Attitude mode, so that it will not hover. Please fly with caution."
+DJI_Phantom_3,df001,mobile_android,20-06-2018,20-06-2018,09:01:27,Flight Mode Set to Attitude
+DJI_Phantom_3,df001,mobile_android,20-06-2018,20-06-2018,09:01:27,Set Flight Mode to GPS to fly safe
+DJI_Phantom_3,df001,mobile_android,20-06-2018,20-06-2018,09:01:28,Flight Mode Set to Attitude
+DJI_Phantom_3,df001,mobile_android,20-06-2018,20-06-2018,09:01:28,Set Flight Mode to GPS to fly safe
+DJI_Phantom_3,df001,mobile_android,20-06-2018,20-06-2018,09:01:28,Flight Mode Set to Attitude
+DJI_Phantom_3,df001,mobile_android,20-06-2018,20-06-2018,09:01:28,Set Flight Mode to GPS to fly safe
+DJI_Phantom_3,df001,mobile_android,20-06-2018,20-06-2018,09:01:28,Flight Mode Set to Attitude
+DJI_Phantom_3,df001,mobile_android,20-06-2018,20-06-2018,09:01:28,Set Flight Mode to GPS to fly safe
+DJI_Phantom_3,df001,mobile_android,20-06-2018,20-06-2018,09:02:06,Flight Mode Set to Attitude
+DJI_Phantom_3,df001,mobile_android,20-06-2018,20-06-2018,09:02:06,Set Flight Mode to GPS to fly safe
+DJI_Phantom_3,df001,mobile_android,20-06-2018,20-06-2018,09:02:08,Take off in P-Mode
+DJI_Phantom_3,df001,mobile_android,20-06-2018,20-06-2018,09:02:19,Battery Signal Error. Check battery connection.
+DJI_Phantom_3,df001,mobile_android,20-06-2018,20-06-2018,09:02:26,Battery Signal Error. Check battery connection.
+DJI_Phantom_3,df001,mobile_android,20-06-2018,20-06-2018,09:03:52,"Aircraft is in Attitude mode, so that it will not hover. Please fly with caution."
+DJI_Phantom_3,df001,mobile_android,20-06-2018,20-06-2018,09:03:55,Flight Mode Set to Attitude
+DJI_Phantom_3,df001,mobile_android,20-06-2018,20-06-2018,09:03:55,Set Flight Mode to GPS to fly safe
+DJI_Phantom_3,df001,mobile_android,20-06-2018,20-06-2018,09:04:09,Compass Stuck. Restart Aircraft. Contact DJI Support if this persists.
+DJI_Phantom_3,df001,mobile_android,20-06-2018,20-06-2018,09:05:30,Maximum Flight Distance Reached. Adjust distance in MC Settings if required.
+DJI_Phantom_3,df001,mobile_android,20-06-2018,20-06-2018,09:06:10,Maximum Flight Distance Reached. Adjust distance in MC Settings if required.

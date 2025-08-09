@@ -1,0 +1,13 @@
+drone_model,dataset,controller,source_file,date,time,message
+DJI_Mavic_2,df068,mobile_android,DJIFlightRecord_2018-09-26_[12-54-14].csv,9/26/2018,54:15.5,Data Recorder File Index is 7.
+DJI_Mavic_2,df068,mobile_android,DJIFlightRecord_2018-09-26_[12-54-14].csv,9/26/2018,54:33.6,Home Point Updated.
+DJI_Mavic_2,df068,mobile_android,DJIFlightRecord_2018-09-26_[12-54-14].csv,9/26/2018,54:33.6,Home Point recorded. Return-to-Home Altitude:98FT.
+DJI_Mavic_2,df068,mobile_android,DJIFlightRecord_2018-09-26_[12-54-14].csv,9/26/2018,56:12.8,"To take off in non-P mode, toggle Flight Mode Switch to another mode and then toggle it back."
+DJI_Mavic_2,df068,mobile_android,DJIFlightRecord_2018-09-26_[12-54-14].csv,9/26/2018,56:41.7,Switched to P (Positioning)-mode.
+DJI_Mavic_2,df068,mobile_android,DJIFlightRecord_2018-09-26_[12-54-14].csv,9/26/2018,56:42.3,Switched to T (Tripod)-mode.
+DJI_Mavic_2,df068,mobile_android,DJIFlightRecord_2018-09-26_[12-54-14].csv,9/26/2018,56:44.7,Switched to P (Positioning)-mode.
+DJI_Mavic_2,df068,mobile_android,DJIFlightRecord_2018-09-26_[12-54-14].csv,9/26/2018,56:45.0,Switched to S (Sport)-mode.
+DJI_Mavic_2,df068,mobile_android,DJIFlightRecord_2018-09-26_[12-54-14].csv,9/26/2018,54:57.0,Weak signal. Avoid blocking the antennas and keep the antennas parallel to and facing toward the aircraft during flight.
+DJI_Mavic_2,df068,mobile_android,DJIFlightRecord_2018-09-26_[12-54-14].csv,9/26/2018,55:12.6,Intelligent Flight Modes have not been enabled. Enable this option in Main Controller Settings if needed.
+DJI_Mavic_2,df068,mobile_android,DJIFlightRecord_2018-09-26_[12-54-14].csv,9/26/2018,55:32.0,Maximum flight distance reached. Adjust the distance in MC Settings if required.
+DJI_Mavic_2,df068,mobile_android,DJIFlightRecord_2018-09-26_[12-54-14].csv,9/26/2018,57:07.3,Weak signal. Avoid blocking the antennas and keep the antennas parallel to and facing toward the aircraft during flight.

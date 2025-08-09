@@ -1,0 +1,19 @@
+drone_model,dataset,controller,source_file,date,time,message
+DJI_Matrice_210,DF059,controller_tablet_intact,2441-DJIFlightRecord_2018-06-20_[16-10-24].csv,6/20/2018,10:10:25.47 PM,Data Recorder File Index is 17.
+DJI_Matrice_210,DF059,controller_tablet_intact,2441-DJIFlightRecord_2018-06-20_[16-10-24].csv,6/20/2018,10:10:31.47 PM,Home Point Updated.
+DJI_Matrice_210,DF059,controller_tablet_intact,2441-DJIFlightRecord_2018-06-20_[16-10-24].csv,6/20/2018,10:12:27.14 PM,GPS Position Mismatch.
+DJI_Matrice_210,DF059,controller_tablet_intact,2441-DJIFlightRecord_2018-06-20_[16-10-24].csv,6/20/2018,10:12:27.24 PM,GPS Position Mismatch.
+DJI_Matrice_210,DF059,controller_tablet_intact,2441-DJIFlightRecord_2018-06-20_[16-10-24].csv,6/20/2018,10:12:27.34 PM,GPS Position Mismatch.
+DJI_Matrice_210,DF059,controller_tablet_intact,2441-DJIFlightRecord_2018-06-20_[16-10-24].csv,6/20/2018,10:12:27.44 PM,GPS Position Mismatch.
+DJI_Matrice_210,DF059,controller_tablet_intact,2441-DJIFlightRecord_2018-06-20_[16-10-24].csv,6/20/2018,10:12:27.54 PM,GPS Position Mismatch.
+DJI_Matrice_210,DF059,controller_tablet_intact,2441-DJIFlightRecord_2018-06-20_[16-10-24].csv,6/20/2018,10:14:37.07 PM,GPS Position Mismatch.
+DJI_Matrice_210,DF059,controller_tablet_intact,2441-DJIFlightRecord_2018-06-20_[16-10-24].csv,6/20/2018,10:14:37.18 PM,GPS Position Mismatch.
+DJI_Matrice_210,DF059,controller_tablet_intact,2441-DJIFlightRecord_2018-06-20_[16-10-24].csv,6/20/2018,10:14:37.28 PM,GPS Position Mismatch.
+DJI_Matrice_210,DF059,controller_tablet_intact,2441-DJIFlightRecord_2018-06-20_[16-10-24].csv,6/20/2018,10:14:37.38 PM,GPS Position Mismatch.
+DJI_Matrice_210,DF059,controller_tablet_intact,2441-DJIFlightRecord_2018-06-20_[16-10-24].csv,6/20/2018,10:14:37.48 PM,GPS Position Mismatch.
+DJI_Matrice_210,DF059,controller_tablet_intact,2441-DJIFlightRecord_2018-06-20_[16-10-24].csv,6/20/2018,10:17:26.05 PM,GPS Position Mismatch.
+DJI_Matrice_210,DF059,controller_tablet_intact,2441-DJIFlightRecord_2018-06-20_[16-10-24].csv,6/20/2018,10:17:26.15 PM,GPS Position Mismatch.
+DJI_Matrice_210,DF059,controller_tablet_intact,2441-DJIFlightRecord_2018-06-20_[16-10-24].csv,6/20/2018,10:17:26.26 PM,GPS Position Mismatch.
+DJI_Matrice_210,DF059,controller_tablet_intact,2441-DJIFlightRecord_2018-06-20_[16-10-24].csv,6/20/2018,10:17:26.36 PM,GPS Position Mismatch.
+DJI_Matrice_210,DF059,controller_tablet_intact,2441-DJIFlightRecord_2018-06-20_[16-10-24].csv,6/20/2018,10:17:26.46 PM,GPS Position Mismatch.
+DJI_Matrice_210,DF059,controller_tablet_intact,2441-DJIFlightRecord_2018-06-20_[16-10-24].csv,6/20/2018,10:18:43.85 PM,"""Cannot switch flight mode. Turn on """"Multiple Flight Modes"""" to enable Atti and Sport Modes."""

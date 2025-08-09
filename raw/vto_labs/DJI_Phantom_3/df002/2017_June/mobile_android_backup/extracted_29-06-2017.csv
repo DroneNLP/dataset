@@ -1,0 +1,8 @@
+drone_model,dataset,controller,source_file,date,time,message
+DJI_Phantom_3,df002,mobile_android_backup,29-06-2017,29/06/2017,13:38:57,"Aircraft is in Attitude mode, so that it will not hover. Please fly with caution."
+DJI_Phantom_3,df002,mobile_android_backup,29-06-2017,29/06/2017,13:39:06,"Aircraft is in Attitude mode, so that it will not hover. Please fly with caution."
+DJI_Phantom_3,df002,mobile_android_backup,29-06-2017,29/06/2017,13:39:53,Home Point Recorded
+DJI_Phantom_3,df002,mobile_android_backup,29-06-2017,29/06/2017,13:39:53,Taking off
+DJI_Phantom_3,df002,mobile_android_backup,29-06-2017,29/06/2017,13:39:53,Return-to-Home Altitude:98FT
+DJI_Phantom_3,df002,mobile_android_backup,29-06-2017,29/06/2017,13:49:42,Low Power. Returning home
+DJI_Phantom_3,df002,mobile_android_backup,29-06-2017,29/06/2017,13:49:49,"Aircraft is in Attitude mode, so that it will not hover. Please fly with caution."

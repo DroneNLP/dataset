@@ -1,0 +1,8 @@
+drone_model,dataset,controller,source_file,date,time,message
+DJI_Inspire_1,df011,mobile_iOS,445-aede02c52ff4c2bbf8cd001fcf32f15576bdd7b2,2017-08-03,13:52:28,Landing Gear Raising
+DJI_Inspire_1,df011,mobile_iOS,445-aede02c52ff4c2bbf8cd001fcf32f15576bdd7b2,2017-08-03,13:52:34,Landing Gear Raised
+DJI_Inspire_1,df011,mobile_iOS,445-aede02c52ff4c2bbf8cd001fcf32f15576bdd7b2,2017-08-03,13:57:17,Command Timeout
+DJI_Inspire_1,df011,mobile_iOS,445-aede02c52ff4c2bbf8cd001fcf32f15576bdd7b2,2017-08-03,14:01:27,Low Power. Aircraft is returning to the Home Point.
+DJI_Inspire_1,df011,mobile_iOS,445-aede02c52ff4c2bbf8cd001fcf32f15576bdd7b2,2017-08-03,14:02:28,Low Power. Aircraft is returning to the Home Point.
+DJI_Inspire_1,df011,mobile_iOS,445-aede02c52ff4c2bbf8cd001fcf32f15576bdd7b2,2017-08-03,14:02:28,Landing Gear Lowering
+DJI_Inspire_1,df011,mobile_iOS,445-aede02c52ff4c2bbf8cd001fcf32f15576bdd7b2,2017-08-03,14:02:35,Landing Gear Lowered

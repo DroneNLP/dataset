@@ -1,0 +1,3 @@
+drone_model,dataset,controller,source_file,date,time,message
+DJI_Phantom_3,df001,mobile_iOS,641-f8a1ad9c4d773d2e7dcb96477de6ff844d0aade6,2018-06-19,13:18:49,Strong wireless interference. Please fly with caution.
+DJI_Phantom_3,df001,mobile_iOS,641-f8a1ad9c4d773d2e7dcb96477de6ff844d0aade6,2018-06-19,13:22:24,Landing

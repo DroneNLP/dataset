@@ -1,0 +1,305 @@
+
+[2017-08-03 13:21:34.809]remove need upgrade groups
+[2017-08-03 13:24:58.293]ConnectedToAircraft
+[2017-08-03 13:24:58.600]need upgrade m1300: 02.35.00.00, device version: 02.32.00.00
+[2017-08-03 13:24:58.601]need upgrade groups: (
+    "group name: RC\nproduct type: 769\n"
+)
+[2017-08-03 13:24:58.612]need upgrade m1400: 04.12.01.04, device version: 04.12.01.03
+[2017-08-03 13:24:58.613]need upgrade groups: (
+    "group name: RC\nproduct type: 769\n"
+)
+[2017-08-03 13:24:58.643]upgrade state 1
+[2017-08-03 13:24:58.650]upgrade state 1
+[2017-08-03 13:26:59.426]remove need upgrade groups
+[2017-08-03 13:26:59.426]DisconnectedWithAircraft
+[2017-08-03 13:29:13.714]ConnectedToAircraft
+[2017-08-03 13:29:14.032]need upgrade m1300: 02.35.00.00, device version: 02.32.00.00
+[2017-08-03 13:29:14.032]need upgrade groups: (
+    "group name: RC\nproduct type: 769\n"
+)
+[2017-08-03 13:29:14.034]need upgrade m1400: 04.12.01.04, device version: 04.12.01.03
+[2017-08-03 13:29:14.034]need upgrade groups: (
+    "group name: RC\nproduct type: 769\n"
+)
+[2017-08-03 13:33:05.131]remove need upgrade groups
+[2017-08-03 13:33:05.132]DisconnectedWithAircraft
+[2017-08-03 13:33:19.816]ConnectedToAircraft
+[2017-08-03 13:33:20.096]need upgrade m1300: 02.35.00.00, device version: 02.32.00.00
+[2017-08-03 13:33:20.096]need upgrade groups: (
+    "group name: RC\nproduct type: 769\n"
+)
+[2017-08-03 13:33:20.100]need upgrade m1400: 04.12.01.04, device version: 04.12.01.03
+[2017-08-03 13:33:20.100]need upgrade groups: (
+    "group name: RC\nproduct type: 769\n"
+)
+[2017-08-03 13:41:15.492]remove need upgrade groups
+[2017-08-03 13:41:15.493]DisconnectedWithAircraft
+[2017-08-03 13:41:22.825]ConnectedToAircraft
+[2017-08-03 13:41:23.205]need upgrade m1300: 02.35.00.00, device version: 02.32.00.00
+[2017-08-03 13:41:23.205]need upgrade groups: (
+    "group name: RC\nproduct type: 769\n"
+)
+[2017-08-03 13:41:23.207]need upgrade m1400: 04.12.01.04, device version: 04.12.01.03
+[2017-08-03 13:41:23.207]need upgrade groups: (
+    "group name: RC\nproduct type: 769\n"
+)
+[2017-08-03 13:42:16.230]remove need upgrade groups
+[2017-08-03 13:42:16.230]DisconnectedWithAircraft
+[2017-08-03 13:45:37.609]ConnectedToAircraft
+[2017-08-03 13:45:37.903]need upgrade m1300: 02.35.00.00, device version: 02.32.00.00
+[2017-08-03 13:45:37.904]need upgrade groups: (
+    "group name: RC\nproduct type: 769\n"
+)
+[2017-08-03 13:45:37.907]need upgrade m1400: 04.12.01.04, device version: 04.12.01.03
+[2017-08-03 13:45:37.907]need upgrade groups: (
+    "group name: RC\nproduct type: 769\n"
+)
+[2017-08-03 13:48:11.600]need upgrade m0900: 05.00.00.00, device version: 03.01.00.00
+[2017-08-03 13:48:11.600]need upgrade groups: (
+    "group name: RC\nproduct type: 769\n",
+    "group name: MC\nproduct type: 256\n"
+)
+[2017-08-03 13:48:11.693]need upgrade m0306: 02.04.20.50, device version: 02.04.20.28
+[2017-08-03 13:48:11.694]need upgrade groups: (
+    "group name: RC\nproduct type: 769\n",
+    "group name: MC\nproduct type: 256\n"
+)
+[2017-08-03 13:48:12.039]need upgrade m1300: 02.35.00.00, device version: 02.32.00.00
+[2017-08-03 13:48:12.039]need upgrade groups: (
+    "group name: RC\nproduct type: 769\n",
+    "group name: MC\nproduct type: 256\n"
+)
+[2017-08-03 13:48:12.040]need upgrade m1400: 04.12.01.04, device version: 04.12.01.03
+[2017-08-03 13:48:12.040]need upgrade groups: (
+    "group name: RC\nproduct type: 769\n",
+    "group name: MC\nproduct type: 256\n"
+)
+[2017-08-03 13:48:12.042]need upgrade m0900: 05.00.00.00, device version: 03.01.00.00
+[2017-08-03 13:48:12.042]need upgrade groups: (
+    "group name: RC\nproduct type: 769\n",
+    "group name: MC\nproduct type: 256\n"
+)
+[2017-08-03 13:48:12.043]need upgrade m0306: 02.04.20.50, device version: 02.04.20.28
+[2017-08-03 13:48:12.043]need upgrade groups: (
+    "group name: RC\nproduct type: 769\n",
+    "group name: MC\nproduct type: 256\n"
+)
+[2017-08-03 13:51:54.634]need upgrade m0400: 01.30.01.43, device version: 01.13.00.73
+[2017-08-03 13:51:54.634]need upgrade groups: (
+    "group name: RC\nproduct type: 769\n",
+    "group name: MC\nproduct type: 256\n",
+    "group name: Camera\nproduct type: 512\n"
+)
+[2017-08-03 13:51:54.700]need upgrade m0100: 02.70.54.40, device version: 01.05.21.71
+[2017-08-03 13:51:54.700]need upgrade groups: (
+    "group name: RC\nproduct type: 769\n",
+    "group name: MC\nproduct type: 256\n",
+    "group name: Camera\nproduct type: 512\n"
+)
+[2017-08-03 13:51:54.750]need upgrade m0800: 02.14.09.42, device version: 01.10.00.14
+[2017-08-03 13:51:54.750]need upgrade groups: (
+    "group name: RC\nproduct type: 769\n",
+    "group name: MC\nproduct type: 256\n",
+    "group name: Camera\nproduct type: 512\n"
+)
+[2017-08-03 13:51:55.553]need upgrade m0306: 02.04.20.50, device version: 02.04.20.28
+[2017-08-03 13:51:55.554]need upgrade groups: (
+    "group name: RC\nproduct type: 769\n",
+    "group name: MC\nproduct type: 256\n",
+    "group name: Camera\nproduct type: 512\n"
+)
+[2017-08-03 13:52:01.412]remove need upgrade groups
+[2017-08-03 13:52:01.412]DisconnectedWithAircraft
+[2017-08-03 13:52:15.570]ConnectedToAircraft
+[2017-08-03 13:52:15.988]need upgrade m1300: 02.35.00.00, device version: 02.32.00.00
+[2017-08-03 13:52:15.988]need upgrade groups: (
+    "group name: RC\nproduct type: 769\n"
+)
+[2017-08-03 13:52:15.991]need upgrade m1400: 04.12.01.04, device version: 04.12.01.03
+[2017-08-03 13:52:15.992]need upgrade groups: (
+    "group name: RC\nproduct type: 769\n"
+)
+[2017-08-03 13:52:16.179]need upgrade m0306: 02.04.20.50, device version: 02.04.20.28
+[2017-08-03 13:52:16.179]need upgrade groups: (
+    "group name: RC\nproduct type: 769\n",
+    "group name: MC\nproduct type: 256\n"
+)
+[2017-08-03 13:52:16.381]need upgrade m0100: 02.70.54.40, device version: 01.05.21.71
+[2017-08-03 13:52:16.381]need upgrade groups: (
+    "group name: RC\nproduct type: 769\n",
+    "group name: MC\nproduct type: 256\n",
+    "group name: Camera\nproduct type: 512\n"
+)
+[2017-08-03 13:52:16.723]need upgrade m0900: 05.00.00.00, device version: 03.01.00.00
+[2017-08-03 13:52:16.723]need upgrade groups: (
+    "group name: RC\nproduct type: 769\n",
+    "group name: MC\nproduct type: 256\n",
+    "group name: Camera\nproduct type: 512\n"
+)
+[2017-08-03 13:52:16.732]need upgrade m0306: 02.04.20.50, device version: 02.04.20.28
+[2017-08-03 13:52:16.732]need upgrade groups: (
+    "group name: RC\nproduct type: 769\n",
+    "group name: MC\nproduct type: 256\n",
+    "group name: Camera\nproduct type: 512\n"
+)
+[2017-08-03 13:56:22.888]need upgrade m0100: 02.70.54.40, device version: 01.05.21.71
+[2017-08-03 13:56:22.888]need upgrade groups: (
+    "group name: RC\nproduct type: 769\n",
+    "group name: Camera\nproduct type: 512\n"
+)
+[2017-08-03 13:56:23.095]need upgrade m0100: 02.70.54.40, device version: 01.05.21.71
+[2017-08-03 13:56:23.095]need upgrade groups: (
+    "group name: RC\nproduct type: 769\n",
+    "group name: Camera\nproduct type: 512\n"
+)
+[2017-08-03 13:56:23.112]need upgrade m0400: 01.30.01.43, device version: 01.13.00.73
+[2017-08-03 13:56:23.112]need upgrade groups: (
+    "group name: RC\nproduct type: 769\n",
+    "group name: Camera\nproduct type: 512\n"
+)
+[2017-08-03 13:56:23.131]need upgrade m0800: 02.14.09.42, device version: 01.10.00.14
+[2017-08-03 13:56:23.131]need upgrade groups: (
+    "group name: RC\nproduct type: 769\n",
+    "group name: Camera\nproduct type: 512\n"
+)
+[2017-08-03 13:56:24.008]need upgrade m0900: 05.00.00.00, device version: 03.01.00.00
+[2017-08-03 13:56:24.008]need upgrade groups: (
+    "group name: RC\nproduct type: 769\n",
+    "group name: Camera\nproduct type: 512\n",
+    "group name: MC\nproduct type: 256\n"
+)
+[2017-08-03 13:56:24.033]need upgrade m0306: 02.04.20.50, device version: 02.04.20.28
+[2017-08-03 13:56:24.033]need upgrade groups: (
+    "group name: RC\nproduct type: 769\n",
+    "group name: Camera\nproduct type: 512\n",
+    "group name: MC\nproduct type: 256\n"
+)
+[2017-08-03 13:56:40.272]need upgrade m0100: 02.70.54.40, device version: 01.05.21.71
+[2017-08-03 13:56:40.272]need upgrade groups: (
+    "group name: RC\nproduct type: 769\n",
+    "group name: Camera\nproduct type: 512\n"
+)
+[2017-08-03 13:56:42.055]need upgrade m0400: 01.30.01.43, device version: 01.13.00.73
+[2017-08-03 13:56:42.055]need upgrade groups: (
+    "group name: RC\nproduct type: 769\n",
+    "group name: Camera\nproduct type: 512\n"
+)
+[2017-08-03 13:56:42.140]need upgrade m0800: 02.14.09.42, device version: 01.10.00.14
+[2017-08-03 13:56:42.140]need upgrade groups: (
+    "group name: RC\nproduct type: 769\n",
+    "group name: Camera\nproduct type: 512\n"
+)
+[2017-08-03 13:56:42.215]need upgrade m0306: 02.04.20.50, device version: 02.04.20.28
+[2017-08-03 13:56:42.216]need upgrade groups: (
+    "group name: RC\nproduct type: 769\n",
+    "group name: Camera\nproduct type: 512\n",
+    "group name: MC\nproduct type: 256\n"
+)
+[2017-08-03 13:57:18.537]need upgrade m0100: 02.70.54.40, device version: 01.05.21.71
+[2017-08-03 13:57:18.537]need upgrade groups: (
+    "group name: RC\nproduct type: 769\n",
+    "group name: Camera\nproduct type: 512\n"
+)
+[2017-08-03 13:57:20.983]need upgrade m0100: 02.70.54.40, device version: 01.05.21.71
+[2017-08-03 13:57:20.983]need upgrade groups: (
+    "group name: RC\nproduct type: 769\n",
+    "group name: Camera\nproduct type: 512\n"
+)
+[2017-08-03 13:57:21.001]need upgrade m0800: 02.14.09.42, device version: 01.10.00.14
+[2017-08-03 13:57:21.001]need upgrade groups: (
+    "group name: RC\nproduct type: 769\n",
+    "group name: Camera\nproduct type: 512\n"
+)
+[2017-08-03 13:57:21.407]need upgrade m0306: 02.04.20.50, device version: 02.04.20.28
+[2017-08-03 13:57:21.407]need upgrade groups: (
+    "group name: RC\nproduct type: 769\n",
+    "group name: Camera\nproduct type: 512\n",
+    "group name: MC\nproduct type: 256\n"
+)
+[2017-08-03 13:57:26.728]need upgrade m0100: 02.70.54.40, device version: 01.05.21.71
+[2017-08-03 13:57:26.728]need upgrade groups: (
+    "group name: RC\nproduct type: 769\n",
+    "group name: Camera\nproduct type: 512\n"
+)
+[2017-08-03 13:57:26.977]need upgrade m0100: 02.70.54.40, device version: 01.05.21.71
+[2017-08-03 13:57:26.977]need upgrade groups: (
+    "group name: RC\nproduct type: 769\n",
+    "group name: Camera\nproduct type: 512\n"
+)
+[2017-08-03 13:57:27.010]need upgrade m0800: 02.14.09.42, device version: 01.10.00.14
+[2017-08-03 13:57:27.011]need upgrade groups: (
+    "group name: RC\nproduct type: 769\n",
+    "group name: Camera\nproduct type: 512\n"
+)
+[2017-08-03 13:57:27.546]need upgrade m0400: 01.30.01.43, device version: 01.13.00.73
+[2017-08-03 13:57:27.546]need upgrade groups: (
+    "group name: RC\nproduct type: 769\n",
+    "group name: Camera\nproduct type: 512\n"
+)
+[2017-08-03 13:57:27.859]need upgrade m0900: 05.00.00.00, device version: 03.01.00.00
+[2017-08-03 13:57:27.859]need upgrade groups: (
+    "group name: RC\nproduct type: 769\n",
+    "group name: Camera\nproduct type: 512\n",
+    "group name: MC\nproduct type: 256\n"
+)
+[2017-08-03 13:57:27.886]need upgrade m0306: 02.04.20.50, device version: 02.04.20.28
+[2017-08-03 13:57:27.887]need upgrade groups: (
+    "group name: RC\nproduct type: 769\n",
+    "group name: Camera\nproduct type: 512\n",
+    "group name: MC\nproduct type: 256\n"
+)
+[2017-08-03 14:01:19.197]need upgrade m1300: 02.35.00.00, device version: 02.32.00.00
+[2017-08-03 14:01:19.197]need upgrade groups: (
+    "group name: RC\nproduct type: 769\n",
+    "group name: Camera\nproduct type: 512\n",
+    "group name: MC\nproduct type: 256\n"
+)
+[2017-08-03 14:01:19.201]need upgrade m1400: 04.12.01.04, device version: 04.12.01.03
+[2017-08-03 14:01:19.201]need upgrade groups: (
+    "group name: RC\nproduct type: 769\n",
+    "group name: Camera\nproduct type: 512\n",
+    "group name: MC\nproduct type: 256\n"
+)
+[2017-08-03 14:01:19.207]need upgrade m0306: 02.04.20.50, device version: 02.04.20.28
+[2017-08-03 14:01:19.207]need upgrade groups: (
+    "group name: RC\nproduct type: 769\n",
+    "group name: Camera\nproduct type: 512\n",
+    "group name: MC\nproduct type: 256\n"
+)
+[2017-08-03 14:01:19.214]need upgrade m0100: 02.70.54.40, device version: 01.05.21.71
+[2017-08-03 14:01:19.214]need upgrade groups: (
+    "group name: RC\nproduct type: 769\n",
+    "group name: Camera\nproduct type: 512\n",
+    "group name: MC\nproduct type: 256\n"
+)
+[2017-08-03 14:01:19.215]need upgrade m0800: 02.14.09.42, device version: 01.10.00.14
+[2017-08-03 14:01:19.215]need upgrade groups: (
+    "group name: RC\nproduct type: 769\n",
+    "group name: Camera\nproduct type: 512\n",
+    "group name: MC\nproduct type: 256\n"
+)
+[2017-08-03 14:01:19.216]need upgrade m0400: 01.30.01.43, device version: 01.13.00.73
+[2017-08-03 14:01:19.216]need upgrade groups: (
+    "group name: RC\nproduct type: 769\n",
+    "group name: Camera\nproduct type: 512\n",
+    "group name: MC\nproduct type: 256\n"
+)
+[2017-08-03 14:01:19.217]need upgrade m0900: 05.00.00.00, device version: 03.01.00.00
+[2017-08-03 14:01:19.217]need upgrade groups: (
+    "group name: RC\nproduct type: 769\n",
+    "group name: Camera\nproduct type: 512\n",
+    "group name: MC\nproduct type: 256\n"
+)
+[2017-08-03 14:01:19.219]need upgrade m0306: 02.04.20.50, device version: 02.04.20.28
+[2017-08-03 14:01:19.219]need upgrade groups: (
+    "group name: RC\nproduct type: 769\n",
+    "group name: Camera\nproduct type: 512\n",
+    "group name: MC\nproduct type: 256\n"
+)
+[2017-08-03 14:03:09.580]remove need upgrade groups
+[2017-08-03 14:03:09.580]DisconnectedWithAircraft
+[2017-08-03 14:03:37.434]remove need upgrade groups
+[2017-08-03 14:03:37.435]DisconnectedWithAircraft
+[2017-08-03 14:21:01.669]remove need upgrade groups
+[2017-08-03 14:21:01.669]DisconnectedWithAircraft

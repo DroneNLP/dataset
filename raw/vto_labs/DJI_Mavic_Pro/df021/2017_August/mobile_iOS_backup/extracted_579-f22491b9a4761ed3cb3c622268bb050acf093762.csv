@@ -1,0 +1,7 @@
+drone_model,dataset,controller,source_file,date,time,message
+DJI_Mavic_Pro,df021,mobile_iOS_backup,579-f22491b9a4761ed3cb3c622268bb050acf093762,2017-08-29,12:44:40,Taking Off
+DJI_Mavic_Pro,df021,mobile_iOS_backup,579-f22491b9a4761ed3cb3c622268bb050acf093762,2017-08-29,12:44:42,Taking Off
+DJI_Mavic_Pro,df021,mobile_iOS_backup,579-f22491b9a4761ed3cb3c622268bb050acf093762,2017-08-29,12:44:43,Home Point Recorded. RTH Altitude:  30m.
+DJI_Mavic_Pro,df021,mobile_iOS_backup,579-f22491b9a4761ed3cb3c622268bb050acf093762,2017-08-29,12:47:35,Tap the screen lightly to focus.
+DJI_Mavic_Pro,df021,mobile_iOS_backup,579-f22491b9a4761ed3cb3c622268bb050acf093762,2017-08-29,12:57:30,Obstacle Avoided. Revise Flight Route
+DJI_Mavic_Pro,df021,mobile_iOS_backup,579-f22491b9a4761ed3cb3c622268bb050acf093762,2017-08-29,12:57:52,Obstacle Avoidance will be disabled in landing.

@@ -1,0 +1,13 @@
+drone_model,dataset,controller,source_file,date,time,message
+DJI_Inspire_2,df027,mobile_android_logical,20-06-2018-095XE1600202GT,20/06/2018,09:11:05,Obstacle Avoidance disabled.
+DJI_Inspire_2,df027,mobile_android_logical,20-06-2018-095XE1600202GT,20/06/2018,09:11:05,Landing gear lowered. Obstacle Avoidance has been disabled.
+DJI_Inspire_2,df027,mobile_android_logical,20-06-2018-095XE1600202GT,20/06/2018,09:11:06,Landing Gear Raising…
+DJI_Inspire_2,df027,mobile_android_logical,20-06-2018-095XE1600202GT,20/06/2018,09:11:12,Landing Gear Raised
+DJI_Inspire_2,df027,mobile_android_logical,20-06-2018-095XE1600202GT,20/06/2018,09:11:54,Gimbal Pitch Limit Reached
+DJI_Inspire_2,df027,mobile_android_logical,20-06-2018-095XE1600202GT,20/06/2018,09:13:49,Gimbal Roll Limit Reached
+DJI_Inspire_2,df027,mobile_android_logical,20-06-2018-095XE1600202GT,20/06/2018,09:14:29,Gimbal Pitch Limit Reached
+DJI_Inspire_2,df027,mobile_android_logical,20-06-2018-095XE1600202GT,20/06/2018,09:14:34,Obstacle Sensing will be disabled when aircraft is landing. Fly with caution.
+DJI_Inspire_2,df027,mobile_android_logical,20-06-2018-095XE1600202GT,20/06/2018,09:14:35,Landing Gear Lowering
+DJI_Inspire_2,df027,mobile_android_logical,20-06-2018-095XE1600202GT,20/06/2018,09:14:36,Obstacle Avoidance disabled.
+DJI_Inspire_2,df027,mobile_android_logical,20-06-2018-095XE1600202GT,20/06/2018,09:14:36,Landing gear lowered. Obstacle Avoidance has been disabled.
+DJI_Inspire_2,df027,mobile_android_logical,20-06-2018-095XE1600202GT,20/06/2018,09:14:42,Landing Gear Lowered

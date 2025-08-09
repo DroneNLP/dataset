@@ -1,0 +1,9 @@
+drone_model,dataset,controller,source_file,date,time,message
+DJI_Inspire_2,df026,mobile_iOS_backup,204-560cc346fe8920a0c1073fa451fa5a085eb256dd,2017-08-29,13:30:41,Taking Off
+DJI_Inspire_2,df026,mobile_iOS_backup,204-560cc346fe8920a0c1073fa451fa5a085eb256dd,2017-08-29,13:30:43,Taking Off
+DJI_Inspire_2,df026,mobile_iOS_backup,204-560cc346fe8920a0c1073fa451fa5a085eb256dd,2017-08-29,13:30:44,Home Point Recorded. RTH Altitude:  30m.
+DJI_Inspire_2,df026,mobile_iOS_backup,204-560cc346fe8920a0c1073fa451fa5a085eb256dd,2017-08-29,13:30:48,Landing gear lowered.Obstacle Avoidance Disabled.
+DJI_Inspire_2,df026,mobile_iOS_backup,204-560cc346fe8920a0c1073fa451fa5a085eb256dd,2017-08-29,13:38:52,Current RTH route will pass a No-Fly zone. Pay attention to the aircraft's position to avoid RTH failure.
+DJI_Inspire_2,df026,mobile_iOS_backup,204-560cc346fe8920a0c1073fa451fa5a085eb256dd,2017-08-29,13:38:53,Compass Error. Exit P-GPS Mode
+DJI_Inspire_2,df026,mobile_iOS_backup,204-560cc346fe8920a0c1073fa451fa5a085eb256dd,2017-08-29,13:38:54,In Flight
+DJI_Inspire_2,df026,mobile_iOS_backup,204-560cc346fe8920a0c1073fa451fa5a085eb256dd,2017-08-29,13:41:19,Max Flight Distance Reached. Adjust in Main Controller Settings if necessary.

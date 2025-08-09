@@ -1,0 +1,9 @@
+drone_model,dataset,controller,source_file,date,time,message
+DJI_Inspire_2,df026,mobile_iOS_backup,412-af225c5c93fca15e23a5ef7264f68772be28f5cb,2017-08-29,13:44:09,The remaining battery is only enough for RTH. Return home now.
+DJI_Inspire_2,df026,mobile_iOS_backup,412-af225c5c93fca15e23a5ef7264f68772be28f5cb,2017-08-29,13:44:12,Low Power. Aircraft is returning to the Home Point.
+DJI_Inspire_2,df026,mobile_iOS_backup,412-af225c5c93fca15e23a5ef7264f68772be28f5cb,2017-08-29,13:44:27,Fly with caution and ensure the aircraft remains within your line of sight.
+DJI_Inspire_2,df026,mobile_iOS_backup,412-af225c5c93fca15e23a5ef7264f68772be28f5cb,2017-08-29,13:45:33,The remaining battery is only enough for RTH. Return home now.
+DJI_Inspire_2,df026,mobile_iOS_backup,412-af225c5c93fca15e23a5ef7264f68772be28f5cb,2017-08-29,13:45:41,Obstacle Avoidance will be disabled in landing.
+DJI_Inspire_2,df026,mobile_iOS_backup,412-af225c5c93fca15e23a5ef7264f68772be28f5cb,2017-08-29,13:45:41,Landing gear lowered.Obstacle Avoidance Disabled.
+DJI_Inspire_2,df026,mobile_iOS_backup,412-af225c5c93fca15e23a5ef7264f68772be28f5cb,2017-08-29,13:46:22,Landing Protection Activated. Aircraft will decelerate during landing.
+DJI_Inspire_2,df026,mobile_iOS_backup,412-af225c5c93fca15e23a5ef7264f68772be28f5cb,2017-08-29,13:46:28,Ground Plain. Safe to Land.

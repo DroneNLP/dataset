@@ -1,0 +1,5 @@
+date,time,message_type,message
+2018-06-19,17:16:08,Tips,Taking Off
+2018-06-19,17:20:10,Warning,Max Flight Altitude Reached. Adjust in Main Controller Settings if necessary
+2018-06-19,17:21:42,Warning,Compass Error. Exit P-GPS Mode
+2018-06-19,17:23:13,Tips,Landing

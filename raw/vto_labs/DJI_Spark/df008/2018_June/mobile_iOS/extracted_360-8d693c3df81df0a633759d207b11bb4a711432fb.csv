@@ -1,0 +1,4 @@
+drone_model,dataset,controller,source_file,date,time,message
+DJI_Spark,df008,mobile_iOS,360-8d693c3df81df0a633759d207b11bb4a711432fb,2018-06-19,12:07:40,Home Point Recorded. RTH Altitude:  30m.
+DJI_Spark,df008,mobile_iOS,360-8d693c3df81df0a633759d207b11bb4a711432fb,2018-06-19,12:09:10,Fly with caution and ensure the aircraft remains within your line of sight.
+DJI_Spark,df008,mobile_iOS,360-8d693c3df81df0a633759d207b11bb4a711432fb,2018-06-19,12:09:39,Aircraft close to Home Point. \go home\ shifts to \landing\.

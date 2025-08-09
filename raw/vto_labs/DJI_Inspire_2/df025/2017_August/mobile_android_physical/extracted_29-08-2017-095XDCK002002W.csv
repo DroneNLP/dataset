@@ -1,0 +1,12 @@
+drone_model,dataset,controller,source_file,date,time,message
+DJI_Inspire_2,df025,mobile_android_physical,29-08-2017-095XDCK002002W,29/08/2017,13:17:53,Strong wireless interference. Please fly with caution.
+DJI_Inspire_2,df025,mobile_android_physical,29-08-2017-095XDCK002002W,29/08/2017,13:18:11,Strong wireless interference. Please fly with caution.
+DJI_Inspire_2,df025,mobile_android_physical,29-08-2017-095XDCK002002W,29/08/2017,13:18:11,Obstacle Avoidance Disabled.
+DJI_Inspire_2,df025,mobile_android_physical,29-08-2017-095XDCK002002W,29/08/2017,13:18:11,Landing gear lowered. Obstacle Avoidance Disabled.
+DJI_Inspire_2,df025,mobile_android_physical,29-08-2017-095XDCK002002W,29/08/2017,13:18:12,Landing Gear Raising
+DJI_Inspire_2,df025,mobile_android_physical,29-08-2017-095XDCK002002W,29/08/2017,13:18:19,Landing Gear Raised
+DJI_Inspire_2,df025,mobile_android_physical,29-08-2017-095XDCK002002W,29/08/2017,13:18:21,Motors Started
+DJI_Inspire_2,df025,mobile_android_physical,29-08-2017-095XDCK002002W,29/08/2017,13:21:44,Strong wireless interference. Please fly with caution.
+DJI_Inspire_2,df025,mobile_android_physical,29-08-2017-095XDCK002002W,29/08/2017,13:22:56,Strong wireless interference. Please fly with caution.
+DJI_Inspire_2,df025,mobile_android_physical,29-08-2017-095XDCK002002W,29/08/2017,13:23:03,Landing Gear Lowering
+DJI_Inspire_2,df025,mobile_android_physical,29-08-2017-095XDCK002002W,29/08/2017,13:23:09,Landing Gear Lowered

@@ -1,0 +1,8 @@
+drone_model,dataset,controller,source_file,date,time,message
+DJI_Mavic_2,df068,mobile_android,10-10-2017,10-10-2017,09:55:18,"Aircraft is in Attitude mode, so that it will not hover. Please fly with caution."
+DJI_Mavic_2,df068,mobile_android,10-10-2017,10-10-2017,09:55:35,Home Point Recorded
+DJI_Mavic_2,df068,mobile_android,10-10-2017,10-10-2017,10:02:25,Taking off
+DJI_Mavic_2,df068,mobile_android,10-10-2017,10-10-2017,10:02:25,Return-to-Home Altitude:65FT
+DJI_Mavic_2,df068,mobile_android,10-10-2017,10-10-2017,10:02:25,Home Point Recorded
+DJI_Mavic_2,df068,mobile_android,10-10-2017,10-10-2017,10:04:12,Large Wind Velocity. Fly with caution.
+DJI_Mavic_2,df068,mobile_android,10-10-2017,10-10-2017,10:07:46,Landing

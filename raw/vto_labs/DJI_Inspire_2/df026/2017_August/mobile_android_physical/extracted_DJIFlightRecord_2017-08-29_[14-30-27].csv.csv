@@ -1,0 +1,80 @@
+drone_model,dataset,controller,source_file,date,time,message
+DJI_Inspire_2,df026,mobile_android_physical,DJIFlightRecord_2017-08-29_[14-30-27].csv,8/29/2017,8:30:28.89 PM,Data Recorder File Index is 5.
+DJI_Inspire_2,df026,mobile_android_physical,DJIFlightRecord_2017-08-29_[14-30-27].csv,8/29/2017,8:30:28.89 PM,Motors Started.
+DJI_Inspire_2,df026,mobile_android_physical,DJIFlightRecord_2017-08-29_[14-30-27].csv,8/29/2017,8:30:33.89 PM,Motors Started.
+DJI_Inspire_2,df026,mobile_android_physical,DJIFlightRecord_2017-08-29_[14-30-27].csv,8/29/2017,8:30:33.99 PM,Downlink Lost.
+DJI_Inspire_2,df026,mobile_android_physical,DJIFlightRecord_2017-08-29_[14-30-27].csv,8/29/2017,8:30:34.10 PM,Downlink Restored (after 0m 1.5s).
+DJI_Inspire_2,df026,mobile_android_physical,DJIFlightRecord_2017-08-29_[14-30-27].csv,8/29/2017,8:30:44.90 PM,Obstacle Avoidance Disabled. Landing gear lowered. Obstacle Avoidance Disabled.
+DJI_Inspire_2,df026,mobile_android_physical,DJIFlightRecord_2017-08-29_[14-30-27].csv,8:30:46.68 PM,0m 17.5s,"""Landing Gear Raising.; Home Point Recorded"
+DJI_Inspire_2,df026,mobile_android_physical,DJIFlightRecord_2017-08-29_[14-30-27].csv,8:30:46.68 PM,0m 17.5s,"Return-to-Home Altitude:98FT."""
+DJI_Inspire_2,df026,mobile_android_physical,DJIFlightRecord_2017-08-29_[14-30-27].csv,8/29/2017,8:30:47.53 PM,Home Point Updated.
+DJI_Inspire_2,df026,mobile_android_physical,DJIFlightRecord_2017-08-29_[14-30-27].csv,8/29/2017,8:30:55.16 PM,Landing Gear Raised.
+DJI_Inspire_2,df026,mobile_android_physical,DJIFlightRecord_2017-08-29_[14-30-27].csv,8/29/2017,8:31:08.23 PM,Strong wireless interference. Please fly with caution.
+DJI_Inspire_2,df026,mobile_android_physical,DJIFlightRecord_2017-08-29_[14-30-27].csv,8/29/2017,8:31:18.36 PM,GPS Position Mismatch.
+DJI_Inspire_2,df026,mobile_android_physical,DJIFlightRecord_2017-08-29_[14-30-27].csv,8/29/2017,8:31:18.47 PM,GPS Position Mismatch.
+DJI_Inspire_2,df026,mobile_android_physical,DJIFlightRecord_2017-08-29_[14-30-27].csv,8/29/2017,8:31:18.67 PM,GPS Position Mismatch.
+DJI_Inspire_2,df026,mobile_android_physical,DJIFlightRecord_2017-08-29_[14-30-27].csv,8/29/2017,8:31:21.47 PM,GPS Position Mismatch.
+DJI_Inspire_2,df026,mobile_android_physical,DJIFlightRecord_2017-08-29_[14-30-27].csv,8/29/2017,8:31:21.68 PM,GPS Position Mismatch.
+DJI_Inspire_2,df026,mobile_android_physical,DJIFlightRecord_2017-08-29_[14-30-27].csv,8/29/2017,8:31:21.88 PM,GPS Position Mismatch.
+DJI_Inspire_2,df026,mobile_android_physical,DJIFlightRecord_2017-08-29_[14-30-27].csv,8/29/2017,8:31:21.99 PM,GPS Position Mismatch.
+DJI_Inspire_2,df026,mobile_android_physical,DJIFlightRecord_2017-08-29_[14-30-27].csv,8/29/2017,8:31:22.09 PM,GPS Position Mismatch.
+DJI_Inspire_2,df026,mobile_android_physical,DJIFlightRecord_2017-08-29_[14-30-27].csv,8/29/2017,8:31:48.18 PM,GPS Position Mismatch.
+DJI_Inspire_2,df026,mobile_android_physical,DJIFlightRecord_2017-08-29_[14-30-27].csv,8/29/2017,8:31:48.40 PM,GPS Position Mismatch.
+DJI_Inspire_2,df026,mobile_android_physical,DJIFlightRecord_2017-08-29_[14-30-27].csv,8/29/2017,8:31:48.50 PM,GPS Position Mismatch.
+DJI_Inspire_2,df026,mobile_android_physical,DJIFlightRecord_2017-08-29_[14-30-27].csv,8/29/2017,8:31:48.61 PM,GPS Position Mismatch.
+DJI_Inspire_2,df026,mobile_android_physical,DJIFlightRecord_2017-08-29_[14-30-27].csv,8/29/2017,8:32:32.74 PM,Strong wireless interference. Please fly with caution.
+DJI_Inspire_2,df026,mobile_android_physical,DJIFlightRecord_2017-08-29_[14-30-27].csv,8/29/2017,8:33:26.69 PM,Downlink Lost.
+DJI_Inspire_2,df026,mobile_android_physical,DJIFlightRecord_2017-08-29_[14-30-27].csv,8/29/2017,8:34:14.52 PM,GPS Position Mismatch.
+DJI_Inspire_2,df026,mobile_android_physical,DJIFlightRecord_2017-08-29_[14-30-27].csv,8/29/2017,8:34:14.62 PM,GPS Position Mismatch.
+DJI_Inspire_2,df026,mobile_android_physical,DJIFlightRecord_2017-08-29_[14-30-27].csv,8/29/2017,8:34:14.83 PM,GPS Position Mismatch.
+DJI_Inspire_2,df026,mobile_android_physical,DJIFlightRecord_2017-08-29_[14-30-27].csv,8/29/2017,8:34:14.93 PM,GPS Position Mismatch.
+DJI_Inspire_2,df026,mobile_android_physical,DJIFlightRecord_2017-08-29_[14-30-27].csv,8/29/2017,8:34:17.12 PM,GPS Position Mismatch.
+DJI_Inspire_2,df026,mobile_android_physical,DJIFlightRecord_2017-08-29_[14-30-27].csv,8/29/2017,8:34:17.32 PM,GPS Position Mismatch.
+DJI_Inspire_2,df026,mobile_android_physical,DJIFlightRecord_2017-08-29_[14-30-27].csv,8/29/2017,8:34:17.43 PM,GPS Position Mismatch.
+DJI_Inspire_2,df026,mobile_android_physical,DJIFlightRecord_2017-08-29_[14-30-27].csv,8/29/2017,8:34:17.53 PM,GPS Position Mismatch.
+DJI_Inspire_2,df026,mobile_android_physical,DJIFlightRecord_2017-08-29_[14-30-27].csv,8/29/2017,8:34:35.53 PM,GPS Position Mismatch.
+DJI_Inspire_2,df026,mobile_android_physical,DJIFlightRecord_2017-08-29_[14-30-27].csv,8/29/2017,8:34:35.74 PM,GPS Position Mismatch.
+DJI_Inspire_2,df026,mobile_android_physical,DJIFlightRecord_2017-08-29_[14-30-27].csv,8/29/2017,8:34:35.96 PM,GPS Position Mismatch.
+DJI_Inspire_2,df026,mobile_android_physical,DJIFlightRecord_2017-08-29_[14-30-27].csv,8/29/2017,8:34:36.08 PM,GPS Position Mismatch.
+DJI_Inspire_2,df026,mobile_android_physical,DJIFlightRecord_2017-08-29_[14-30-27].csv,8/29/2017,8:34:36.29 PM,GPS Position Mismatch.
+DJI_Inspire_2,df026,mobile_android_physical,DJIFlightRecord_2017-08-29_[14-30-27].csv,8/29/2017,8:34:42.24 PM,Large Wind Velocity.
+DJI_Inspire_2,df026,mobile_android_physical,DJIFlightRecord_2017-08-29_[14-30-27].csv,8/29/2017,8:34:53.34 PM,Large Wind Velocity.
+DJI_Inspire_2,df026,mobile_android_physical,DJIFlightRecord_2017-08-29_[14-30-27].csv,8/29/2017,8:35:15.27 PM,Large Wind Velocity.
+DJI_Inspire_2,df026,mobile_android_physical,DJIFlightRecord_2017-08-29_[14-30-27].csv,8/29/2017,8:35:22.29 PM,Yaw Error.
+DJI_Inspire_2,df026,mobile_android_physical,DJIFlightRecord_2017-08-29_[14-30-27].csv,8/29/2017,8:35:22.50 PM,Yaw Error.
+DJI_Inspire_2,df026,mobile_android_physical,DJIFlightRecord_2017-08-29_[14-30-27].csv,8/29/2017,8:35:22.60 PM,Yaw Error.
+DJI_Inspire_2,df026,mobile_android_physical,DJIFlightRecord_2017-08-29_[14-30-27].csv,8/29/2017,8:35:22.71 PM,Yaw Error.
+DJI_Inspire_2,df026,mobile_android_physical,DJIFlightRecord_2017-08-29_[14-30-27].csv,8/29/2017,8:35:22.81 PM,Yaw Error.
+DJI_Inspire_2,df026,mobile_android_physical,DJIFlightRecord_2017-08-29_[14-30-27].csv,8/29/2017,8:35:23.02 PM,Yaw Error.
+DJI_Inspire_2,df026,mobile_android_physical,DJIFlightRecord_2017-08-29_[14-30-27].csv,8/29/2017,8:35:23.13 PM,Yaw Error.
+DJI_Inspire_2,df026,mobile_android_physical,DJIFlightRecord_2017-08-29_[14-30-27].csv,8/29/2017,8:35:23.23 PM,Yaw Error.
+DJI_Inspire_2,df026,mobile_android_physical,DJIFlightRecord_2017-08-29_[14-30-27].csv,8/29/2017,8:35:23.44 PM,Yaw Error.
+DJI_Inspire_2,df026,mobile_android_physical,DJIFlightRecord_2017-08-29_[14-30-27].csv,8/29/2017,8:35:23.65 PM,Yaw Error.
+DJI_Inspire_2,df026,mobile_android_physical,DJIFlightRecord_2017-08-29_[14-30-27].csv,8/29/2017,8:35:23.86 PM,Yaw Error.
+DJI_Inspire_2,df026,mobile_android_physical,DJIFlightRecord_2017-08-29_[14-30-27].csv,8/29/2017,8:35:24.17 PM,Yaw Error.
+DJI_Inspire_2,df026,mobile_android_physical,DJIFlightRecord_2017-08-29_[14-30-27].csv,8/29/2017,8:35:24.42 PM,Yaw Error.
+DJI_Inspire_2,df026,mobile_android_physical,DJIFlightRecord_2017-08-29_[14-30-27].csv,8/29/2017,8:35:24.72 PM,Yaw Error.
+DJI_Inspire_2,df026,mobile_android_physical,DJIFlightRecord_2017-08-29_[14-30-27].csv,8/29/2017,8:35:24.94 PM,Yaw Error.
+DJI_Inspire_2,df026,mobile_android_physical,DJIFlightRecord_2017-08-29_[14-30-27].csv,8/29/2017,8:35:25.04 PM,Yaw Error.
+DJI_Inspire_2,df026,mobile_android_physical,DJIFlightRecord_2017-08-29_[14-30-27].csv,8/29/2017,8:35:25.25 PM,Yaw Error.
+DJI_Inspire_2,df026,mobile_android_physical,DJIFlightRecord_2017-08-29_[14-30-27].csv,8/29/2017,8:35:25.46 PM,Magnetic Filed Interference. Exit P-GPS Mode.; Yaw Error.
+DJI_Inspire_2,df026,mobile_android_physical,DJIFlightRecord_2017-08-29_[14-30-27].csv,8/29/2017,8:35:25.66 PM,Yaw Error.
+DJI_Inspire_2,df026,mobile_android_physical,DJIFlightRecord_2017-08-29_[14-30-27].csv,8/29/2017,8:35:25.87 PM,Yaw Error.
+DJI_Inspire_2,df026,mobile_android_physical,DJIFlightRecord_2017-08-29_[14-30-27].csv,8/29/2017,8:35:25.98 PM,Yaw Error.
+DJI_Inspire_2,df026,mobile_android_physical,DJIFlightRecord_2017-08-29_[14-30-27].csv,8/29/2017,8:35:26.19 PM,Yaw Error.
+DJI_Inspire_2,df026,mobile_android_physical,DJIFlightRecord_2017-08-29_[14-30-27].csv,8/29/2017,8:35:26.29 PM,Yaw Error.
+DJI_Inspire_2,df026,mobile_android_physical,DJIFlightRecord_2017-08-29_[14-30-27].csv,8/29/2017,8:35:26.39 PM,Yaw Error.
+DJI_Inspire_2,df026,mobile_android_physical,DJIFlightRecord_2017-08-29_[14-30-27].csv,8/29/2017,8:35:26.50 PM,Yaw Error.
+DJI_Inspire_2,df026,mobile_android_physical,DJIFlightRecord_2017-08-29_[14-30-27].csv,8/29/2017,8:35:26.71 PM,Yaw Error.
+DJI_Inspire_2,df026,mobile_android_physical,DJIFlightRecord_2017-08-29_[14-30-27].csv,8/29/2017,8:35:26.91 PM,Yaw Error.
+DJI_Inspire_2,df026,mobile_android_physical,DJIFlightRecord_2017-08-29_[14-30-27].csv,8/29/2017,8:35:27.02 PM,Yaw Error.
+DJI_Inspire_2,df026,mobile_android_physical,DJIFlightRecord_2017-08-29_[14-30-27].csv,8/29/2017,8:35:43.38 PM,GPS Position Mismatch.
+DJI_Inspire_2,df026,mobile_android_physical,DJIFlightRecord_2017-08-29_[14-30-27].csv,8/29/2017,8:35:43.59 PM,GPS Position Mismatch.
+DJI_Inspire_2,df026,mobile_android_physical,DJIFlightRecord_2017-08-29_[14-30-27].csv,8/29/2017,8:35:43.69 PM,GPS Position Mismatch.
+DJI_Inspire_2,df026,mobile_android_physical,DJIFlightRecord_2017-08-29_[14-30-27].csv,8/29/2017,8:36:08.50 PM,GPS Position Mismatch.
+DJI_Inspire_2,df026,mobile_android_physical,DJIFlightRecord_2017-08-29_[14-30-27].csv,8/29/2017,8:36:08.60 PM,GPS Position Mismatch.
+DJI_Inspire_2,df026,mobile_android_physical,DJIFlightRecord_2017-08-29_[14-30-27].csv,8/29/2017,8:36:08.81 PM,GPS Position Mismatch.
+DJI_Inspire_2,df026,mobile_android_physical,DJIFlightRecord_2017-08-29_[14-30-27].csv,8/29/2017,8:36:08.91 PM,GPS Position Mismatch.
+DJI_Inspire_2,df026,mobile_android_physical,DJIFlightRecord_2017-08-29_[14-30-27].csv,8/29/2017,8:36:21.44 PM,GPS Position Mismatch.
+DJI_Inspire_2,df026,mobile_android_physical,DJIFlightRecord_2017-08-29_[14-30-27].csv,8/29/2017,8:36:24.92 PM,Downlink Lost.
+DJI_Inspire_2,df026,mobile_android_physical,DJIFlightRecord_2017-08-29_[14-30-27].csv,8/29/2017,8:36:25.66 PM,Downlink Lost.

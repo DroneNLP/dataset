@@ -1,0 +1,11 @@
+drone_model,dataset,controller,source_file,date,time,message
+DJI_Phantom_4,df006,mobile_iOS_backup,341-770870d94bc057cfdf7ecf6b66e058d4e27c7c92,2017-06-29,14:35:17,Taking Off
+DJI_Phantom_4,df006,mobile_iOS_backup,341-770870d94bc057cfdf7ecf6b66e058d4e27c7c92,2017-06-29,14:35:18,Taking Off
+DJI_Phantom_4,df006,mobile_iOS_backup,341-770870d94bc057cfdf7ecf6b66e058d4e27c7c92,2017-06-29,14:35:19,Home Point Recorded. RTH Altitude:  30m.
+DJI_Phantom_4,df006,mobile_iOS_backup,341-770870d94bc057cfdf7ecf6b66e058d4e27c7c92,2017-06-29,14:45:20,Obstacle Avoided. Revise Flight Route
+DJI_Phantom_4,df006,mobile_iOS_backup,341-770870d94bc057cfdf7ecf6b66e058d4e27c7c92,2017-06-29,14:45:21,Obstacle Avoided. Revise Flight Route
+DJI_Phantom_4,df006,mobile_iOS_backup,341-770870d94bc057cfdf7ecf6b66e058d4e27c7c92,2017-06-29,14:45:28,Obstacle Avoided. Revise Flight Route
+DJI_Phantom_4,df006,mobile_iOS_backup,341-770870d94bc057cfdf7ecf6b66e058d4e27c7c92,2017-06-29,14:45:41,Obstacle Avoided. Revise Flight Route
+DJI_Phantom_4,df006,mobile_iOS_backup,341-770870d94bc057cfdf7ecf6b66e058d4e27c7c92,2017-06-29,14:45:49,Obstacle Avoided. Revise Flight Route
+DJI_Phantom_4,df006,mobile_iOS_backup,341-770870d94bc057cfdf7ecf6b66e058d4e27c7c92,2017-06-29,14:45:57,Obstacle Avoided. Revise Flight Route
+DJI_Phantom_4,df006,mobile_iOS_backup,341-770870d94bc057cfdf7ecf6b66e058d4e27c7c92,2017-06-29,14:49:08,Obstacle Avoided. Revise Flight Route

@@ -1,0 +1,216 @@
+date,time,message
+2017-06-28,14:21:23.238,remove need upgrade groups
+2017-06-28,14:23:16.156,remove need upgrade groups
+2017-06-28,14:23:16.157,DisconnectedWithAircraft
+2017-06-28,14:23:25.951,upgrade state 1
+2017-06-28,14:25:37.878,remove need upgrade groups
+2017-06-28,14:25:37.878,DisconnectedWithAircraft
+2017-06-28,14:25:40.921,upgrade state 1
+2017-06-29,09:54:18.858,remove need upgrade groups
+2017-06-29,09:54:24.838,ConnectedToAircraft
+2017-06-29,09:54:29.281,upgrade state 1
+2017-06-29,09:54:29.293,upgrade state 1
+2017-06-29,10:03:57.361,remove need upgrade groups
+2017-06-29,10:03:57.362,DisconnectedWithAircraft
+2017-06-29,10:04:30.711,ConnectedToAircraft
+2017-06-29,10:07:22.559,remove need upgrade groups
+2017-06-29,10:07:22.560,DisconnectedWithAircraft
+2017-06-29,10:07:39.603,remove need upgrade groups
+2017-06-29,10:07:39.604,DisconnectedWithAircraft
+2017-06-29,10:09:25.324,remove need upgrade groups
+2017-06-29,10:09:26.616,ConnectedToAircraft
+2017-06-29,10:09:26.942,"need upgrade m0700: 01.00.09.65, device version: 01.00.09.14"
+2017-06-29,10:09:26.942,need upgrade groups: (
+,,
+,,
+2017-06-29,10:09:26.950,upgrade state 2
+2017-06-29,10:09:27.012,"need upgrade m0900: 00.01.01.01, device version: 00.01.00.09"
+2017-06-29,10:09:27.013,need upgrade groups: (
+,,
+,,
+,,
+2017-06-29,10:09:27.017,"need upgrade m0306: 02.04.20.50, device version: 02.04.20.22"
+2017-06-29,10:09:27.017,need upgrade groups: (
+,,
+,,
+,,
+2017-06-29,10:09:27.021,"need upgrade m0306: 02.04.20.50, device version: 02.04.20.22"
+2017-06-29,10:09:27.021,need upgrade groups: (
+,,
+,,
+,,
+2017-06-29,10:09:27.033,"need upgrade m1101: 02.00.00.33, device version: 02.00.00.32"
+2017-06-29,10:09:27.033,need upgrade groups: (
+,,
+,,
+,,
+2017-06-29,10:09:27.380,"need upgrade m2700: 01.00.09.62, device version: 01.00.09.14"
+2017-06-29,10:09:27.381,need upgrade groups: (
+,,
+,,
+,,
+,,
+2017-06-29,10:09:27.384,"need upgrade m1400: 04.01.01.00, device version: 04.01.00.10"
+2017-06-29,10:09:27.384,need upgrade groups: (
+,,
+,,
+,,
+,,
+,,
+2017-06-29,10:09:27.417,"need upgrade m0306: 02.04.20.50, device version: 02.04.20.22"
+2017-06-29,10:09:27.417,need upgrade groups: (
+,,
+,,
+,,
+,,
+,,
+2017-06-29,10:09:27.797,"need upgrade m1101: 02.00.00.33, device version: 02.00.00.32"
+2017-06-29,10:09:27.797,need upgrade groups: (
+,,
+,,
+,,
+,,
+,,
+2017-06-29,10:10:53.198,remove need upgrade groups
+2017-06-29,10:10:53.199,DisconnectedWithAircraft
+2017-06-29,10:11:58.819,remove need upgrade groups
+2017-06-29,10:11:58.822,DisconnectedWithAircraft
+2017-06-29,10:12:25.905,remove need upgrade groups
+2017-06-29,10:12:25.906,DisconnectedWithAircraft
+2017-06-29,10:12:32.973,ConnectedToAircraft
+2017-06-29,10:12:33.669,"need upgrade m2700: 01.00.09.62, device version: 01.00.09.14"
+2017-06-29,10:12:33.669,need upgrade groups: (
+,,
+,,
+2017-06-29,10:12:33.670,"need upgrade m1400: 04.01.01.00, device version: 04.01.00.10"
+2017-06-29,10:12:33.670,need upgrade groups: (
+,,
+,,
+,,
+2017-06-29,10:12:33.670,"need upgrade m0700: 01.00.09.65, device version: 01.00.09.14"
+2017-06-29,10:12:33.671,need upgrade groups: (
+,,
+,,
+,,
+,,
+2017-06-29,10:12:33.671,"need upgrade m0900: 00.01.01.01, device version: 00.01.00.09"
+2017-06-29,10:12:33.671,need upgrade groups: (
+,,
+,,
+,,
+,,
+,,
+2017-06-29,10:12:33.671,"need upgrade m0306: 02.04.20.50, device version: 02.04.20.22"
+2017-06-29,10:12:33.672,need upgrade groups: (
+,,
+,,
+,,
+,,
+,,
+2017-06-29,10:12:33.672,"need upgrade m0306: 02.04.20.50, device version: 02.04.20.22"
+2017-06-29,10:12:33.672,need upgrade groups: (
+,,
+,,
+,,
+,,
+,,
+2017-06-29,10:12:33.673,"need upgrade m1101: 02.00.00.33, device version: 02.00.00.32"
+2017-06-29,10:12:33.673,need upgrade groups: (
+,,
+,,
+,,
+,,
+,,
+2017-06-29,10:12:33.854,"need upgrade m0700: 01.00.09.65, device version: 01.00.09.14"
+2017-06-29,10:12:33.854,need upgrade groups: (
+,,
+,,
+,,
+,,
+,,
+2017-06-29,10:12:33.866,"need upgrade m0900: 00.01.01.01, device version: 00.01.00.09"
+2017-06-29,10:12:33.866,need upgrade groups: (
+,,
+,,
+,,
+,,
+,,
+2017-06-29,10:12:33.882,"need upgrade m0306: 02.04.20.50, device version: 02.04.20.22"
+2017-06-29,10:12:33.882,need upgrade groups: (
+,,
+,,
+,,
+,,
+,,
+2017-06-29,10:12:33.889,"need upgrade m0306: 02.04.20.50, device version: 02.04.20.22"
+2017-06-29,10:12:33.889,need upgrade groups: (
+,,
+,,
+,,
+,,
+,,
+2017-06-29,10:12:34.160,"need upgrade m2700: 01.00.09.62, device version: 01.00.09.14"
+2017-06-29,10:12:34.160,need upgrade groups: (
+,,
+,,
+,,
+,,
+,,
+2017-06-29,10:12:34.167,"need upgrade m1400: 04.01.01.00, device version: 04.01.00.10"
+2017-06-29,10:12:34.167,need upgrade groups: (
+,,
+,,
+,,
+,,
+,,
+2017-06-29,10:12:34.671,"need upgrade m1101: 02.00.00.33, device version: 02.00.00.32"
+2017-06-29,10:12:34.671,need upgrade groups: (
+,,
+,,
+,,
+,,
+,,
+2017-06-29,10:12:39.902,remove need upgrade groups
+2017-06-29,10:12:39.903,DisconnectedWithAircraft
+2017-06-29,10:12:46.718,ConnectedToAircraft
+2017-06-29,10:12:46.866,"need upgrade m0700: 01.00.09.65, device version: 01.00.09.14"
+2017-06-29,10:12:46.866,need upgrade groups: (
+,,
+,,
+2017-06-29,10:12:46.915,"need upgrade m0900: 00.01.01.01, device version: 00.01.00.09"
+2017-06-29,10:12:46.916,need upgrade groups: (
+,,
+,,
+,,
+2017-06-29,10:12:46.950,"need upgrade m0306: 02.04.20.50, device version: 02.04.20.22"
+2017-06-29,10:12:46.950,need upgrade groups: (
+,,
+,,
+,,
+2017-06-29,10:12:46.953,"need upgrade m0306: 02.04.20.50, device version: 02.04.20.22"
+2017-06-29,10:12:46.953,need upgrade groups: (
+,,
+,,
+,,
+2017-06-29,10:12:46.955,"need upgrade m1101: 02.00.00.33, device version: 02.00.00.32"
+2017-06-29,10:12:46.955,need upgrade groups: (
+,,
+,,
+,,
+2017-06-29,10:12:47.124,"need upgrade m2700: 01.00.09.62, device version: 01.00.09.14"
+2017-06-29,10:12:47.124,need upgrade groups: (
+,,
+,,
+,,
+,,
+2017-06-29,10:12:47.142,"need upgrade m1400: 04.01.01.00, device version: 04.01.00.10"
+2017-06-29,10:12:47.142,need upgrade groups: (
+,,
+,,
+,,
+,,
+,,
+2017-06-29,10:24:48.799,remove need upgrade groups
+2017-06-29,10:24:48.800,DisconnectedWithAircraft
+2017-06-29,10:25:05.819,remove need upgrade groups
+2017-06-29,10:25:05.819,DisconnectedWithAircraft

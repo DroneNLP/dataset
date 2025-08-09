@@ -1,0 +1,14 @@
+drone_model,dataset,controller,source_file,date,time,message
+DJI_Inspire_2,df027,mobile_iOS_backup,136-3b7fb9a45d7aa654750301065186aadd5c02cdef,2017-08-29,13:58:35,Taking Off
+DJI_Inspire_2,df027,mobile_iOS_backup,136-3b7fb9a45d7aa654750301065186aadd5c02cdef,2017-08-29,13:58:37,Taking Off
+DJI_Inspire_2,df027,mobile_iOS_backup,136-3b7fb9a45d7aa654750301065186aadd5c02cdef,2017-08-29,13:58:38,Home Point Recorded. RTH Altitude:  30m.
+DJI_Inspire_2,df027,mobile_iOS_backup,136-3b7fb9a45d7aa654750301065186aadd5c02cdef,2017-08-29,13:58:42,Landing gear lowered.Obstacle Avoidance Disabled.
+DJI_Inspire_2,df027,mobile_iOS_backup,136-3b7fb9a45d7aa654750301065186aadd5c02cdef,2017-08-29,13:59:59,Max Flight Altitude Reached. Adjust in Main Controller Settings if necessary
+DJI_Inspire_2,df027,mobile_iOS_backup,136-3b7fb9a45d7aa654750301065186aadd5c02cdef,2017-08-29,14:00:03,Subject too Small. Get Closer and retry
+DJI_Inspire_2,df027,mobile_iOS_backup,136-3b7fb9a45d7aa654750301065186aadd5c02cdef,2017-08-29,14:00:50,Max Flight Distance Reached. Adjust in Main Controller Settings if necessary.
+DJI_Inspire_2,df027,mobile_iOS_backup,136-3b7fb9a45d7aa654750301065186aadd5c02cdef,2017-08-29,14:00:57,Aircraft is returning to the Home Point. Minimum RTH Altitude is 30m. You can reset the RTH Altitude in Remote Controller Settings after cancelling RTH.
+DJI_Inspire_2,df027,mobile_iOS_backup,136-3b7fb9a45d7aa654750301065186aadd5c02cdef,2017-08-29,14:01:05,Max Flight Altitude Reached. Adjust in Main Controller Settings if necessary
+DJI_Inspire_2,df027,mobile_iOS_backup,136-3b7fb9a45d7aa654750301065186aadd5c02cdef,2017-08-29,14:01:25,Obstacle Avoidance will be disabled in landing.
+DJI_Inspire_2,df027,mobile_iOS_backup,136-3b7fb9a45d7aa654750301065186aadd5c02cdef,2017-08-29,14:01:25,Landing gear lowered.Obstacle Avoidance Disabled.
+DJI_Inspire_2,df027,mobile_iOS_backup,136-3b7fb9a45d7aa654750301065186aadd5c02cdef,2017-08-29,14:01:53,Landing Protection Activated. Aircraft will decelerate during landing.
+DJI_Inspire_2,df027,mobile_iOS_backup,136-3b7fb9a45d7aa654750301065186aadd5c02cdef,2017-08-29,14:01:59,Ground Plain. Safe to Land.

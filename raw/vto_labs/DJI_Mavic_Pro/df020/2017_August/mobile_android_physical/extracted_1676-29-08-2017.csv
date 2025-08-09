@@ -1,0 +1,5 @@
+drone_model,dataset,controller,source_file,date,time,message
+DJI_Mavic_Pro,df020,mobile_android_physical,1676-29-08-2017,1676/29/08,12:30:56,Tap the screen lightly to focus.
+DJI_Mavic_Pro,df020,mobile_android_physical,1676-29-08-2017,1676/29/08,12:31:07,Taking off
+DJI_Mavic_Pro,df020,mobile_android_physical,1676-29-08-2017,1676/29/08,12:31:07,Strong Interference Now. Fly with caution.
+DJI_Mavic_Pro,df020,mobile_android_physical,1676-29-08-2017,1676/29/08,12:38:32,Ground Plain. Safe to Land.

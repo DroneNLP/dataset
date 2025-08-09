@@ -1,0 +1,7 @@
+drone_model,dataset,controller,source_file,date,time,message
+DJI_Phantom_4_Pro_V2,df063,mobile_android_logical,DJIFlightRecord_2018-06-19_[15-34-56].csv,6/19/2018,34:57.2,Data Recorder File Index is 2.
+DJI_Phantom_4_Pro_V2,df063,mobile_android_logical,DJIFlightRecord_2018-06-19_[15-34-56].csv,6/19/2018,34:58.9,Home Point Updated.
+DJI_Phantom_4_Pro_V2,df063,mobile_android_logical,DJIFlightRecord_2018-06-19_[15-34-56].csv,6/19/2018,34:58.9,Home Point recorded. Return-to-Home Altitude:98FT.
+DJI_Phantom_4_Pro_V2,df063,mobile_android_logical,DJIFlightRecord_2018-06-19_[15-34-56].csv,6/19/2018,35:27.9,Downlink Restored (after 0m 11.3s).
+DJI_Phantom_4_Pro_V2,df063,mobile_android_logical,DJIFlightRecord_2018-06-19_[15-34-56].csv,6/19/2018,39:36.3,Aircraft is close to the Home Point. Initiating Return to Home will now trigger Auto Landing.
+DJI_Phantom_4_Pro_V2,df063,mobile_android_logical,DJIFlightRecord_2018-06-19_[15-34-56].csv,6/19/2018,35:19.2,Downlink Lost.

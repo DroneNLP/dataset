@@ -1,0 +1,8 @@
+drone_model,dataset,controller,source_file,date,time,message
+DJI_Matrice_210,DF060,table_physical_intact,833-14-06-2018-095XF4200202G5,833-14-06-2018-095XF4200202G5,17:01:26,Intelligent Flight Modes have not been enabled. Enable this option in Main Controller Settings if needed.
+DJI_Matrice_210,DF060,table_physical_intact,833-14-06-2018-095XF4200202G5,833-14-06-2018-095XF4200202G5,17:01:32,Intelligent Flight Modes have not been enabled. Enable this option in Main Controller Settings if needed.
+DJI_Matrice_210,DF060,table_physical_intact,833-14-06-2018-095XF4200202G5,833-14-06-2018-095XF4200202G5,17:01:41,Remote controller assisted takeoff initiated.
+DJI_Matrice_210,DF060,table_physical_intact,833-14-06-2018-095XF4200202G5,833-14-06-2018-095XF4200202G5,17:02:24,Remote controller assisted takeoff initiated.
+DJI_Matrice_210,DF060,table_physical_intact,833-14-06-2018-095XF4200202G5,833-14-06-2018-095XF4200202G5,17:07:15,Gimbal Yaw Limit Reached
+DJI_Matrice_210,DF060,table_physical_intact,833-14-06-2018-095XF4200202G5,833-14-06-2018-095XF4200202G5,17:07:28,Gimbal Yaw Limit Reached
+DJI_Matrice_210,DF060,table_physical_intact,833-14-06-2018-095XF4200202G5,833-14-06-2018-095XF4200202G5,17:07:38,Gimbal Yaw Limit Reached

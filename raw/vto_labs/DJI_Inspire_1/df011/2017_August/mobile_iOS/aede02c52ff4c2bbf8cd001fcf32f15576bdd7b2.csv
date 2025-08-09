@@ -1,0 +1,8 @@
+date,time,message_type,message
+2017-08-03,13:52:28,,Landing Gear Raising
+2017-08-03,13:52:34,,Landing Gear Raised
+2017-08-03,13:57:17,Warning,Command Timeout
+2017-08-03,14:01:27,Tips,Low Power. Aircraft is returning to the Home Point.
+2017-08-03,14:02:28,Tips,Low Power. Aircraft is returning to the Home Point.
+2017-08-03,14:02:28,,Landing Gear Lowering
+2017-08-03,14:02:35,,Landing Gear Lowered

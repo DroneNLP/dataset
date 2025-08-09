@@ -1,0 +1,7 @@
+drone_model,dataset,controller,source_file,date,time,message
+DJI_Phantom_4_Pro_V2,df063,mobile_android_logical,19-06-2018-11VKF5500202D4,19/06/2018,15:33:55,Weak GPS signal. Aircraft is in Attitude mode and hovering may be unstable. Fly with caution.
+DJI_Phantom_4_Pro_V2,df063,mobile_android_logical,19-06-2018-11VKF5500202D4,19/06/2018,15:34:06,Weak GPS signal. Aircraft is in Attitude mode and hovering may be unstable. Fly with caution.
+DJI_Phantom_4_Pro_V2,df063,mobile_android_logical,19-06-2018-11VKF5500202D4,19/06/2018,15:34:25,Weak GPS signal. Aircraft is in Attitude mode and hovering may be unstable. Fly with caution.
+DJI_Phantom_4_Pro_V2,df063,mobile_android_logical,19-06-2018-11VKF5500202D4,19/06/2018,15:34:39,Home Point recorded. Return-to-Home Altitude:98FT
+DJI_Phantom_4_Pro_V2,df063,mobile_android_logical,19-06-2018-11VKF5500202D4,19/06/2018,15:34:59,Home Point recorded. Return-to-Home Altitude:98FT
+DJI_Phantom_4_Pro_V2,df063,mobile_android_logical,19-06-2018-11VKF5500202D4,19/06/2018,15:39:36,Aircraft is close to the Home Point. Initiating Return to Home will now trigger Auto Landing.

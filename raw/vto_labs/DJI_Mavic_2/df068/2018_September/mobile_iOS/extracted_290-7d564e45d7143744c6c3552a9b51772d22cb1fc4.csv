@@ -1,0 +1,5 @@
+drone_model,dataset,controller,source_file,date,time,message
+DJI_Mavic_2,df068,mobile_iOS,290-7d564e45d7143744c6c3552a9b51772d22cb1fc4,2018-09-26,12:36:59,Home Point Recorded. RTH Altitude:  30m.
+DJI_Mavic_2,df068,mobile_iOS,290-7d564e45d7143744c6c3552a9b51772d22cb1fc4,2018-09-26,12:39:31,Max Flight Altitude Reached. Adjust in Main Controller Settings if necessary
+DJI_Mavic_2,df068,mobile_iOS,290-7d564e45d7143744c6c3552a9b51772d22cb1fc4,2018-09-26,12:43:51,Home Point Recorded. RTH Altitude:  30m.
+DJI_Mavic_2,df068,mobile_iOS,290-7d564e45d7143744c6c3552a9b51772d22cb1fc4,2018-09-26,12:45:15,Max Flight Distance Reached. Adjust in Main Controller Settings if necessary.

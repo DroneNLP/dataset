@@ -1,0 +1,8 @@
+drone_model,dataset,controller,source_file,date,time,message
+DJI_Matrice_210,DF060,table_physical_intact,835-20-06-2018-095XF4200202G5,835-20-06-2018-095XF4200202G5,16:53:55,Home Point recorded. Return-to-Home Altitude:98FT
+DJI_Matrice_210,DF060,table_physical_intact,835-20-06-2018-095XF4200202G5,835-20-06-2018-095XF4200202G5,16:54:18,Remote controller assisted takeoff initiated.
+DJI_Matrice_210,DF060,table_physical_intact,835-20-06-2018-095XF4200202G5,835-20-06-2018-095XF4200202G5,16:54:24,Home Point recorded. Return-to-Home Altitude:98FT
+DJI_Matrice_210,DF060,table_physical_intact,835-20-06-2018-095XF4200202G5,835-20-06-2018-095XF4200202G5,16:55:08,Propulsion output has been limited to ensure battery health.
+DJI_Matrice_210,DF060,table_physical_intact,835-20-06-2018-095XF4200202G5,835-20-06-2018-095XF4200202G5,17:05:30,Aircraft is close to the Home Point. Initiating Return to Home will now trigger Auto Landing.
+DJI_Matrice_210,DF060,table_physical_intact,835-20-06-2018-095XF4200202G5,835-20-06-2018-095XF4200202G5,17:05:30,Obstacle Sensing will be disabled when aircraft is landing. Fly with caution.
+DJI_Matrice_210,DF060,table_physical_intact,835-20-06-2018-095XF4200202G5,835-20-06-2018-095XF4200202G5,17:06:12,Gimbal Pitch Limit Reached

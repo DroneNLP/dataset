@@ -1,0 +1,5 @@
+drone_model,dataset,controller,source_file,date,time,message
+DJI_Mavic_2,df069,mobile_android,26-09-2018-163DF950013K93,26-09-2018-163DF950013K93,13:26:23,Mobile device version too old to support HD image transmission and the image transmission mode has been switch to normal mode.
+DJI_Mavic_2,df069,mobile_android,26-09-2018-163DF950013K93,26-09-2018-163DF950013K93,13:30:11,Intelligent Flight Modes have not been enabled. Enable this option in Main Controller Settings if needed.
+DJI_Mavic_2,df069,mobile_android,26-09-2018-163DF950013K93,26-09-2018-163DF950013K93,13:31:02,Home Point recorded. Return-to-Home Altitude:98FT
+DJI_Mavic_2,df069,mobile_android,26-09-2018-163DF950013K93,26-09-2018-163DF950013K93,13:39:43,Strong Remote Controller Interference

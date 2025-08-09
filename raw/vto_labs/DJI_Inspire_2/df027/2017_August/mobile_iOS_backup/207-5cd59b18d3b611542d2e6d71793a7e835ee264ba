@@ -1,0 +1,1883 @@
+
+[2017-08-26 16:32:14.171]need upgrade groups: (
+    "group name: MC\nproduct type: 16777481\n"
+)
+[2017-08-26 16:32:14.193]handle state init => download_init
+[2017-08-26 16:32:16.203]need upgrade groups: (
+    "group name: MC\nproduct type: 16777481\n"
+)
+[2017-08-26 16:32:16.206]need upgrade groups: (
+    "group name: MC\nproduct type: 16777481\n"
+)
+[2017-08-26 16:32:16.684]handle state download_init => downloading
+[2017-08-26 16:32:16.742]download pack version: 01.01.0010
+[2017-08-26 16:32:16.792]start download wm620_0801_v01.00.00.82_20170601.pro.fw.sig
+[2017-08-26 16:32:17.161]start download pack http://pro-dji-service-usa-cdn.aasky.net/firmware_file/a3af7cc5-620e-4450-8c82-08836cea0de2/wm620_0801_v01.00.00.82_20170601.pro.fw.sig?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIITWQE7WYGWJGNYQ%2F20170826%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20170826T223217Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=a44aba7b7afdc238f1d23d1fd7b7125b7af10f117d60b472899fd9f2f262995b
+[2017-08-26 16:32:38.361]start download completed wm620_0801_v01.00.00.82_20170601.pro.fw.sig
+[2017-08-26 16:32:38.362]start download wm620_0900_v01.06.00.00_20170608.pro.fw.sig
+[2017-08-26 16:32:38.705]start download pack http://pro-dji-service-usa-cdn.aasky.net/firmware_file/f83d6951-dfd9-4ce2-a8d7-93659e359eef/wm620_0900_v01.06.00.00_20170608.pro.fw.sig?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIITWQE7WYGWJGNYQ%2F20170826%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20170826T223238Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=b0c166e55d2f4d22a18c46cae63b354d0c12d815bbc56352291464cd05605d43
+[2017-08-26 16:32:38.789]start download completed wm620_0900_v01.06.00.00_20170608.pro.fw.sig
+[2017-08-26 16:32:38.790]start download wm620_0305_v34.10.00.21_20160621.pro.fw.sig
+[2017-08-26 16:32:39.128]start download pack http://pro-dji-service-usa-cdn.aasky.net/firmware_file/7842623d-9bc8-4315-b0fd-bef957da7bde/7263a553135df3208d73340466580433.sig?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIITWQE7WYGWJGNYQ%2F20170826%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20170826T223239Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=c980f1e16d08cdcd9fa626876d06152615e5bec31db699ac4975c93a6de0d52a
+[2017-08-26 16:32:39.201]start download completed wm620_0305_v34.10.00.21_20160621.pro.fw.sig
+[2017-08-26 16:32:39.205]start download wm620_0306_v03.02.35.05_20170525.pro.fw.sig
+[2017-08-26 16:32:39.564]start download pack http://pro-dji-service-usa-cdn.aasky.net/firmware_file/e07022e9-484a-4bda-a522-82d66c3b1d2e/wm620_0306_v03.02.35.05_20170525.pro.fw.sig?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIITWQE7WYGWJGNYQ%2F20170826%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20170826T223239Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=4bd49a8029a9673198794afb6b952622c98e7c8ded958fb077e9f709c0ea6a9d
+[2017-08-26 16:32:40.141]start download completed wm620_0306_v03.02.35.05_20170525.pro.fw.sig
+[2017-08-26 16:32:40.141]start download wm620_0905_v01.00.01.04_20170527.pro.fw.sig
+[2017-08-26 16:32:40.472]start download pack http://pro-dji-service-usa-cdn.aasky.net/firmware_file/0c8d5f2e-4f2a-4ba7-bd60-01df9da7b886/wm620_0905_v01.00.01.04_20170527.pro.fw.sig?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIITWQE7WYGWJGNYQ%2F20170826%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20170826T223240Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=c69f7b52737e91342e0d123b801e164625e310f5dee11435b210aca7e5e64427
+[2017-08-26 16:32:41.000]start download completed wm620_0905_v01.00.01.04_20170527.pro.fw.sig
+[2017-08-26 16:32:41.001]start download wm620_1200_v01.02.00.46_20160918.pro.fw.sig
+[2017-08-26 16:32:41.377]start download pack http://pro-dji-service-usa-cdn.aasky.net/firmware_file/47641c69-c28e-44da-ac84-905407385aea/73fd6499a7e9f3e46d500ccd4a1a8264.sig?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIITWQE7WYGWJGNYQ%2F20170826%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20170826T223241Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=19f11b7b50b7613036bfb1928d556f4c954702d9771e9eb15f3308dc8b8e04d2
+[2017-08-26 16:32:41.446]start download completed wm620_1200_v01.02.00.46_20160918.pro.fw.sig
+[2017-08-26 16:32:41.448]start download wm620_1201_v01.02.00.46_20160918.pro.fw.sig
+[2017-08-26 16:32:41.797]start download pack http://pro-dji-service-usa-cdn.aasky.net/firmware_file/aa58ac8f-df45-42cd-92a8-aa0c5a31d2fc/0fbce076080edb5c669d1edbc46f49b7.sig?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIITWQE7WYGWJGNYQ%2F20170826%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20170826T223241Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=3e03cc491e5c1877367139f00005d11b9d47c5008e6feb64fb369cab305e2560
+[2017-08-26 16:32:41.891]start download completed wm620_1201_v01.02.00.46_20160918.pro.fw.sig
+[2017-08-26 16:32:41.893]start download wm620_1202_v01.02.00.46_20160918.pro.fw.sig
+[2017-08-26 16:32:42.245]start download pack http://pro-dji-service-usa-cdn.aasky.net/firmware_file/fecae501-10bb-470f-8e36-88fb20ba7bff/89ea36d1c31943de34b027bfacc82e1b.sig?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIITWQE7WYGWJGNYQ%2F20170826%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20170826T223242Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=2b6628e7257a1a96af9b379c3660784c345d537e1d9fef516b6577877c842b3c
+[2017-08-26 16:32:42.322]start download completed wm620_1202_v01.02.00.46_20160918.pro.fw.sig
+[2017-08-26 16:32:42.326]start download wm620_1203_v01.02.00.46_20160918.pro.fw.sig
+[2017-08-26 16:32:42.697]start download pack http://pro-dji-service-usa-cdn.aasky.net/firmware_file/e68a3c87-3a8b-49fb-90d0-f5b6c80beb4b/e1d580d4577dadc2e268f49169bfd9f2.sig?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIITWQE7WYGWJGNYQ%2F20170826%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20170826T223242Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=ae3cfa0a71f3b3809adb8babaa15c13170bf0af4c0e20086618429da501a644b
+[2017-08-26 16:32:42.773]start download completed wm620_1203_v01.02.00.46_20160918.pro.fw.sig
+[2017-08-26 16:32:42.776]start download wm620_0400_v01.00.00.32_20170329_gb02.pro.fw.sig
+[2017-08-26 16:32:43.130]start download pack http://pro-dji-service-usa-cdn.aasky.net/firmware_file/4b407e45-1683-4ee8-b97c-b0ae5ff8b36f/wm620_0400_v01.00.00.32_20170329_gb02.pro.fw.sig?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIITWQE7WYGWJGNYQ%2F20170826%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20170826T223243Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=1afd9e13f4c87f91e39b048fe49e7ba75239e609491763d57479f084456b5d5e
+[2017-08-26 16:32:43.254]start download completed wm620_0400_v01.00.00.32_20170329_gb02.pro.fw.sig
+[2017-08-26 16:32:43.257]start download wm620_0400_v01.00.00.77_20170410_gb01.pro.fw.sig
+[2017-08-26 16:32:43.625]start download pack http://pro-dji-service-usa-cdn.aasky.net/firmware_file/d0c821b4-f18e-4a8e-982b-eeaf0d110a47/wm620_0400_v01.00.00.77_20170410_gb01.pro.fw.sig?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIITWQE7WYGWJGNYQ%2F20170826%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20170826T223243Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=7cd8c4c1dbd6e51f6b56dd0ac1ef0d0061792ac5df5a55b50fd2b6a53791d495
+[2017-08-26 16:32:43.763]start download completed wm620_0400_v01.00.00.77_20170410_gb01.pro.fw.sig
+[2017-08-26 16:32:43.764]start download wm620_0401_v01.06.19.17_20170510.pro.fw.sig
+[2017-08-26 16:32:44.107]start download pack http://pro-dji-service-usa-cdn.aasky.net/firmware_file/29598db6-8dfb-40ed-8743-cd5a0f0a8b36/wm620_0401_v01.06.19.17_20170510.pro.fw.sig?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIITWQE7WYGWJGNYQ%2F20170826%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20170826T223244Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=693f310f6b731a7f0a0fcc4cdef883144dde592c9b13f2e14cfb40d3d754a00c
+[2017-08-26 16:32:44.171]start download completed wm620_0401_v01.06.19.17_20170510.pro.fw.sig
+[2017-08-26 16:32:44.173]start download wm620_0404_v00.00.00.27_20170126.pro.fw.sig
+[2017-08-26 16:32:44.537]start download pack http://pro-dji-service-usa-cdn.aasky.net/firmware_file/54cfe8da-067a-4bbc-964d-482e069e5b50/wm620_0404_v00.00.00.27_20170126.pro.fw.sig?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIITWQE7WYGWJGNYQ%2F20170826%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20170826T223244Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=288e265dcdc79d120edd352010330ed2b9e08bc9c9322e7b7cbdb9257538a61b
+[2017-08-26 16:32:44.641]start download completed wm620_0404_v00.00.00.27_20170126.pro.fw.sig
+[2017-08-26 16:32:44.642]start download wm620_0500_v01.00.01.15_20170426.pro.fw.sig
+[2017-08-26 16:32:44.990]start download pack http://pro-dji-service-usa-cdn.aasky.net/firmware_file/85972484-89c1-465d-8ee4-b120df491c27/wm620_0500_v01.00.01.15_20170426.pro.fw.sig?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIITWQE7WYGWJGNYQ%2F20170826%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20170826T223244Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=3aeed72b4973231f2dfc6a78acbcc983efdc4ff850dbd3f11d592ac4f75910e5
+[2017-08-26 16:32:45.070]start download completed wm620_0500_v01.00.01.15_20170426.pro.fw.sig
+[2017-08-26 16:32:45.073]start download wm620_0501_v00.01.00.09_20160805.pro.fw.sig
+[2017-08-26 16:32:45.459]start download pack http://pro-dji-service-usa-cdn.aasky.net/firmware_file/698591df-a6cc-4ba3-bbc9-5c442a2343e8/1a7545bc076aab58897a3b7bc9b69bf9.sig?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIITWQE7WYGWJGNYQ%2F20170826%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20170826T223245Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=01dc661009f4aa48f29c5e568c3362cb5321f493b184fb1d93278a1c9c5b313f
+[2017-08-26 16:32:45.527]start download completed wm620_0501_v00.01.00.09_20160805.pro.fw.sig
+[2017-08-26 16:32:45.531]start download wm620_1101_v01.00.00.41_20170415.pro.fw.sig
+[2017-08-26 16:32:45.898]start download pack http://pro-dji-service-usa-cdn.aasky.net/firmware_file/18885266-d1d8-4cea-9279-1530262bac12/wm620_1101_v01.00.00.41_20170415.pro.fw.sig?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIITWQE7WYGWJGNYQ%2F20170826%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20170826T223245Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=04031908e32c75049ed27d074680a0a0fb519d4f7da84f320aac8a38722f9f9b
+[2017-08-26 16:32:45.971]start download completed wm620_1101_v01.00.00.41_20170415.pro.fw.sig
+[2017-08-26 16:32:45.974]start download wm620_1100_v01.00.00.41_20170415.pro.fw.sig
+[2017-08-26 16:32:46.335]start download pack http://pro-dji-service-usa-cdn.aasky.net/firmware_file/9b7ac6c0-10c2-498c-9ecc-6e895ca4390c/wm620_1100_v01.00.00.41_20170415.pro.fw.sig?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIITWQE7WYGWJGNYQ%2F20170826%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20170826T223246Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=a633c7cb7ce387efabf5d43208253f6a820529badb2476747de39049a4ea904c
+[2017-08-26 16:32:46.393]start download completed wm620_1100_v01.00.00.41_20170415.pro.fw.sig
+[2017-08-26 16:32:46.395]start download wm620_0100_v01.06.15.82_20170619.pro.fw.sig
+[2017-08-26 16:32:46.786]start download pack http://pro-dji-service-usa-cdn.aasky.net/firmware_file/e35e0d4a-913e-4027-be41-c03923598a94/wm620_0100_v01.06.15.82_20170619.pro.fw.sig?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIITWQE7WYGWJGNYQ%2F20170826%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20170826T223246Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=a6bd52ed554b36d0858516d95f21176018c6c849fbe6ffdc732eb7014cfda896
+[2017-08-26 16:32:55.177]start download completed wm620_0100_v01.06.15.82_20170619.pro.fw.sig
+[2017-08-26 16:32:55.178]start download wm620_0104_v00.12.02.24_20170531_ln01.pro.fw.sig
+[2017-08-26 16:32:55.536]start download pack http://pro-dji-service-usa-cdn.aasky.net/firmware_file/660c03cf-09a1-41cf-94c8-6ae6a9ad4ac0/wm620_0104_v00.12.02.24_20170531_ln01.pro.fw.sig?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIITWQE7WYGWJGNYQ%2F20170826%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20170826T223255Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=f332f8ae754bd77d42697db1983466145f620a5c5258438cbf95422db060ecb2
+[2017-08-26 16:32:55.601]start download completed wm620_0104_v00.12.02.24_20170531_ln01.pro.fw.sig
+[2017-08-26 16:32:55.602]start download wm620_0104_v00.09.01.85_20161221_ln02.pro.fw.sig
+[2017-08-26 16:32:55.947]start download pack http://pro-dji-service-usa-cdn.aasky.net/firmware_file/535b58a6-5657-47fd-90d7-aacf7a575000/wm620_0104_v00.09.01.85_20161221_ln02.pro.fw.sig?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIITWQE7WYGWJGNYQ%2F20170826%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20170826T223255Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=d85fcbd6cd2f71a876b2fa06714b9e6e4af6c6e5e0051c4bfa6259ce78f2b3a2
+[2017-08-26 16:32:56.030]start download completed wm620_0104_v00.09.01.85_20161221_ln02.pro.fw.sig
+[2017-08-26 16:32:56.032]start download wm620_0106_v01.37.51.00_20170620.pro.fw.sig
+[2017-08-26 16:32:56.387]start download pack http://pro-dji-service-usa-cdn.aasky.net/firmware_file/1527ad01-9c2d-4b36-a3fd-d4684b108016/wm620_0106_v01.37.51.00_20170620.pro.fw.sig?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIITWQE7WYGWJGNYQ%2F20170826%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20170826T223256Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=8bc2bce8d4dd90e6d6ae04bdc39aefad841f8c00a56aaf14a8981a8a45411af8
+[2017-08-26 16:33:14.686]start download completed wm620_0106_v01.37.51.00_20170620.pro.fw.sig
+[2017-08-26 16:33:14.687]start download wm620_0805_v01.01.00.74_20170612.pro.fw.sig
+[2017-08-26 16:33:15.052]start download pack http://pro-dji-service-usa-cdn.aasky.net/firmware_file/fa949f9f-6c6b-4449-b3f7-7fde3001ebba/wm620_0805_v01.01.00.74_20170612.pro.fw.sig?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIITWQE7WYGWJGNYQ%2F20170826%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20170826T223315Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=e77d888902bba0334e2122c74ff6301aa02f366add88c38c1198f253b7640762
+[2017-08-26 16:33:17.227]start download completed wm620_0805_v01.01.00.74_20170612.pro.fw.sig
+[2017-08-26 16:33:17.228]start download wm620_0804_v00.01.02.05_20161103.pro.fw.sig
+[2017-08-26 16:33:17.666]start download pack http://pro-dji-service-usa-cdn.aasky.net/firmware_file/6ea64967-73f5-43ac-9d90-1ce41064950a/e33b02e8752812ac122068a5583eac73.sig?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIITWQE7WYGWJGNYQ%2F20170826%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20170826T223317Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=82ed6c9a773c8b7fc488f9533a5387966a037dde6a81299dbcfa68ac41758887
+[2017-08-26 16:33:17.782]start download completed wm620_0804_v00.01.02.05_20161103.pro.fw.sig
+[2017-08-26 16:33:17.785]start download wm620_0803_v00.00.02.03_20170417.pro.fw.sig
+[2017-08-26 16:33:18.165]start download pack http://pro-dji-service-usa-cdn.aasky.net/firmware_file/48c3bf74-aea6-4ea9-bbb2-70d8d60bf01a/wm620_0803_v00.00.02.03_20170417.pro.fw.sig?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIITWQE7WYGWJGNYQ%2F20170826%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20170826T223318Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=c56754a425843636ae65010750df9818f131e4867aa6629e72106ffdca9c624a
+[2017-08-26 16:33:18.297]start download completed wm620_0803_v00.00.02.03_20170417.pro.fw.sig
+[2017-08-26 16:33:18.299]start download wm620_0802_v00.02.00.00_20170522.pro.fw.sig
+[2017-08-26 16:33:18.683]start download pack http://pro-dji-service-usa-cdn.aasky.net/firmware_file/b2682874-a11f-4227-8e49-588805ed2b35/wm620_0802_v00.02.00.00_20170522.pro.fw.sig?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIITWQE7WYGWJGNYQ%2F20170826%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20170826T223318Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=bf8bc1c06f657ff05d826a4d07ebb72170fb0d2d9846486e0982d5fec2d0aab5
+[2017-08-26 16:33:29.559]start download completed wm620_0802_v00.02.00.00_20170522.pro.fw.sig
+[2017-08-26 16:33:31.946]handle state downloading => upgradable
+[2017-08-26 16:34:23.232]handle state upgradable => upgrading
+[2017-08-26 16:34:23.282]version compare resulsts: (
+    "group name: MC\nproduct type: 16777481\n"
+)
+[2017-08-26 16:34:23.282]versions: (
+    "0200 : 4.1.7, loader: (null)"
+)
+[2017-08-26 16:34:23.282]start upgrade 01.01.0010
+[2017-08-26 16:34:23.282]set callback: <__NSStackBlock__: 0x16dedeb80>
+[2017-08-26 16:34:23.282]upgrade modelType: 16777481
+[2017-08-26 16:34:23.282]group need upgrade: 1
+[2017-08-26 16:34:23.287]verify pack
+[2017-08-26 16:34:25.982]upgrade group: group name: MC
+product type: 16777481
+
+[2017-08-26 16:34:25.983]set progress handler: <__NSStackBlock__: 0x16e33ed28>
+[2017-08-26 16:34:25.983]tar firwmares: {
+[2017-08-26 16:34:25.983]/private/var/mobile/Containers/Data/Application/0628A148-5221-4E27-A9AB-6AA7EFD08C03/tmp/F2593A396A3D8EE89E5505309BE6210A/wm620_0801_v01.00.00.82_20170601.pro.fw.sig, size 56680480
+[2017-08-26 16:34:25.984]/private/var/mobile/Containers/Data/Application/0628A148-5221-4E27-A9AB-6AA7EFD08C03/tmp/F2593A396A3D8EE89E5505309BE6210A/wm620_0900_v01.06.00.00_20170608.pro.fw.sig, size 79840
+[2017-08-26 16:34:25.984]/private/var/mobile/Containers/Data/Application/0628A148-5221-4E27-A9AB-6AA7EFD08C03/tmp/F2593A396A3D8EE89E5505309BE6210A/wm620_0305_v34.10.00.21_20160621.pro.fw.sig, size 55328
+[2017-08-26 16:34:25.984]/private/var/mobile/Containers/Data/Application/0628A148-5221-4E27-A9AB-6AA7EFD08C03/tmp/F2593A396A3D8EE89E5505309BE6210A/wm620_0306_v03.02.35.05_20170525.pro.fw.sig, size 1559840
+[2017-08-26 16:34:25.985]/private/var/mobile/Containers/Data/Application/0628A148-5221-4E27-A9AB-6AA7EFD08C03/tmp/F2593A396A3D8EE89E5505309BE6210A/wm620_0905_v01.00.01.04_20170527.pro.fw.sig, size 1463296
+[2017-08-26 16:34:25.986]/private/var/mobile/Containers/Data/Application/0628A148-5221-4E27-A9AB-6AA7EFD08C03/tmp/F2593A396A3D8EE89E5505309BE6210A/wm620_1200_v01.02.00.46_20160918.pro.fw.sig, size 42528
+[2017-08-26 16:34:25.986]/private/var/mobile/Containers/Data/Application/0628A148-5221-4E27-A9AB-6AA7EFD08C03/tmp/F2593A396A3D8EE89E5505309BE6210A/wm620_1201_v01.02.00.46_20160918.pro.fw.sig, size 42528
+[2017-08-26 16:34:25.987]/private/var/mobile/Containers/Data/Application/0628A148-5221-4E27-A9AB-6AA7EFD08C03/tmp/F2593A396A3D8EE89E5505309BE6210A/wm620_1202_v01.02.00.46_20160918.pro.fw.sig, size 42528
+[2017-08-26 16:34:25.987]/private/var/mobile/Containers/Data/Application/0628A148-5221-4E27-A9AB-6AA7EFD08C03/tmp/F2593A396A3D8EE89E5505309BE6210A/wm620_1203_v01.02.00.46_20160918.pro.fw.sig, size 42528
+[2017-08-26 16:34:25.988]/private/var/mobile/Containers/Data/Application/0628A148-5221-4E27-A9AB-6AA7EFD08C03/tmp/F2593A396A3D8EE89E5505309BE6210A/wm620_0400_v01.00.00.32_20170329_gb02.pro.fw.sig, size 264480
+[2017-08-26 16:34:25.989]/private/var/mobile/Containers/Data/Application/0628A148-5221-4E27-A9AB-6AA7EFD08C03/tmp/F2593A396A3D8EE89E5505309BE6210A/wm620_0400_v01.00.00.77_20170410_gb01.pro.fw.sig, size 279456
+[2017-08-26 16:34:25.989]/private/var/mobile/Containers/Data/Application/0628A148-5221-4E27-A9AB-6AA7EFD08C03/tmp/F2593A396A3D8EE89E5505309BE6210A/wm620_0401_v01.06.19.17_20170510.pro.fw.sig, size 30112
+[2017-08-26 16:34:25.990]/private/var/mobile/Containers/Data/Application/0628A148-5221-4E27-A9AB-6AA7EFD08C03/tmp/F2593A396A3D8EE89E5505309BE6210A/wm620_0404_v00.00.00.27_20170126.pro.fw.sig, size 88288
+[2017-08-26 16:34:25.990]/private/var/mobile/Containers/Data/Application/0628A148-5221-4E27-A9AB-6AA7EFD08C03/tmp/F2593A396A3D8EE89E5505309BE6210A/wm620_0500_v01.00.01.15_20170426.pro.fw.sig, size 55840
+[2017-08-26 16:34:25.991]/private/var/mobile/Containers/Data/Application/0628A148-5221-4E27-A9AB-6AA7EFD08C03/tmp/F2593A396A3D8EE89E5505309BE6210A/wm620_0501_v00.01.00.09_20160805.pro.fw.sig, size 8576
+[2017-08-26 16:34:25.991]/private/var/mobile/Containers/Data/Application/0628A148-5221-4E27-A9AB-6AA7EFD08C03/tmp/F2593A396A3D8EE89E5505309BE6210A/wm620_1101_v01.00.00.41_20170415.pro.fw.sig, size 22400
+[2017-08-26 16:34:25.991]/private/var/mobile/Containers/Data/Application/0628A148-5221-4E27-A9AB-6AA7EFD08C03/tmp/F2593A396A3D8EE89E5505309BE6210A/wm620_1100_v01.00.00.41_20170415.pro.fw.sig, size 22400
+[2017-08-26 16:34:25.992]/private/var/mobile/Containers/Data/Application/0628A148-5221-4E27-A9AB-6AA7EFD08C03/tmp/F2593A396A3D8EE89E5505309BE6210A/wm620_0100_v01.06.15.82_20170619.pro.fw.sig, size 22984480
+[2017-08-26 16:34:25.992]/private/var/mobile/Containers/Data/Application/0628A148-5221-4E27-A9AB-6AA7EFD08C03/tmp/F2593A396A3D8EE89E5505309BE6210A/wm620_0104_v00.12.02.24_20170531_ln01.pro.fw.sig, size 32192
+[2017-08-26 16:34:25.992]/private/var/mobile/Containers/Data/Application/0628A148-5221-4E27-A9AB-6AA7EFD08C03/tmp/F2593A396A3D8EE89E5505309BE6210A/wm620_0104_v00.09.01.85_20161221_ln02.pro.fw.sig, size 61472
+[2017-08-26 16:34:25.993]/private/var/mobile/Containers/Data/Application/0628A148-5221-4E27-A9AB-6AA7EFD08C03/tmp/F2593A396A3D8EE89E5505309BE6210A/wm620_0106_v01.37.51.00_20170620.pro.fw.sig, size 41707808
+[2017-08-26 16:34:25.993]/private/var/mobile/Containers/Data/Application/0628A148-5221-4E27-A9AB-6AA7EFD08C03/tmp/F2593A396A3D8EE89E5505309BE6210A/wm620_0805_v01.01.00.74_20170612.pro.fw.sig, size 2939360
+[2017-08-26 16:34:25.993]/private/var/mobile/Containers/Data/Application/0628A148-5221-4E27-A9AB-6AA7EFD08C03/tmp/F2593A396A3D8EE89E5505309BE6210A/wm620_0804_v00.01.02.05_20161103.pro.fw.sig, size 25792
+[2017-08-26 16:34:25.993]/private/var/mobile/Containers/Data/Application/0628A148-5221-4E27-A9AB-6AA7EFD08C03/tmp/F2593A396A3D8EE89E5505309BE6210A/wm620_0803_v00.00.02.03_20170417.pro.fw.sig, size 61888
+[2017-08-26 16:34:25.994]/private/var/mobile/Containers/Data/Application/0628A148-5221-4E27-A9AB-6AA7EFD08C03/tmp/F2593A396A3D8EE89E5505309BE6210A/wm620_0802_v00.02.00.00_20170522.pro.fw.sig, size 10724160
+[2017-08-26 16:34:25.994]/private/var/mobile/Containers/Data/Application/0628A148-5221-4E27-A9AB-6AA7EFD08C03/tmp/F2593A396A3D8EE89E5505309BE6210A/01.01.0010.cfg.sig, size 5376
+[2017-08-26 16:34:25.994]}
+[2017-08-26 16:34:27.339]upgrader state: 1, progress: 0.00
+[2017-08-26 16:34:27.339]group upgrader state: 1, progress: 0.00
+[2017-08-26 16:34:27.339]upgrade manager state 1, progress: 0.000000
+[2017-08-26 16:34:27.629]upgrade manager state 1, progress: 0.000000
+[2017-08-26 16:34:27.643]receive length 980
+[2017-08-26 16:34:27.644]upgrade manager state 2, progress: 0.000000
+[2017-08-26 16:34:29.023]upgrade manager state 2, progress: 0.002813
+[2017-08-26 16:34:30.432]upgrader state: 2, progress: 0.01
+[2017-08-26 16:34:30.434]group upgrader state: 2, progress: 0.01
+[2017-08-26 16:34:30.435]upgrade manager state 2, progress: 0.005626
+[2017-08-26 16:34:31.825]upgrade manager state 2, progress: 0.008440
+[2017-08-26 16:34:33.225]upgrade manager state 2, progress: 0.011253
+[2017-08-26 16:34:33.916]upgrader state: 2, progress: 0.01
+[2017-08-26 16:34:33.917]group upgrader state: 2, progress: 0.01
+[2017-08-26 16:34:34.594]upgrade manager state 2, progress: 0.014066
+[2017-08-26 16:34:35.946]upgrade manager state 2, progress: 0.016879
+[2017-08-26 16:34:37.327]upgrader state: 2, progress: 0.02
+[2017-08-26 16:34:37.327]group upgrader state: 2, progress: 0.02
+[2017-08-26 16:34:37.327]upgrade manager state 2, progress: 0.019692
+[2017-08-26 16:34:38.701]upgrade manager state 2, progress: 0.022505
+[2017-08-26 16:34:40.005]upgrade manager state 2, progress: 0.025319
+[2017-08-26 16:34:40.651]upgrader state: 2, progress: 0.03
+[2017-08-26 16:34:40.652]group upgrader state: 2, progress: 0.03
+[2017-08-26 16:34:41.341]upgrade manager state 2, progress: 0.028132
+[2017-08-26 16:34:42.747]upgrade manager state 2, progress: 0.030945
+[2017-08-26 16:34:44.101]upgrader state: 2, progress: 0.03
+[2017-08-26 16:34:44.102]group upgrader state: 2, progress: 0.03
+[2017-08-26 16:34:44.103]upgrade manager state 2, progress: 0.033758
+[2017-08-26 16:34:45.451]upgrade manager state 2, progress: 0.036571
+[2017-08-26 16:34:46.819]upgrade manager state 2, progress: 0.039384
+[2017-08-26 16:34:47.529]upgrader state: 2, progress: 0.04
+[2017-08-26 16:34:47.536]group upgrader state: 2, progress: 0.04
+[2017-08-26 16:34:48.180]upgrade manager state 2, progress: 0.042198
+[2017-08-26 16:34:49.529]upgrade manager state 2, progress: 0.045011
+[2017-08-26 16:34:50.903]upgrader state: 2, progress: 0.05
+[2017-08-26 16:34:50.905]group upgrader state: 2, progress: 0.05
+[2017-08-26 16:34:50.905]upgrade manager state 2, progress: 0.047824
+[2017-08-26 16:34:52.283]upgrade manager state 2, progress: 0.050637
+[2017-08-26 16:34:53.606]upgrade manager state 2, progress: 0.053450
+[2017-08-26 16:34:54.226]upgrader state: 2, progress: 0.05
+[2017-08-26 16:34:54.227]group upgrader state: 2, progress: 0.05
+[2017-08-26 16:34:54.920]upgrade manager state 2, progress: 0.056264
+[2017-08-26 16:34:56.250]upgrade manager state 2, progress: 0.059077
+[2017-08-26 16:34:57.633]upgrader state: 2, progress: 0.06
+[2017-08-26 16:34:57.635]group upgrader state: 2, progress: 0.06
+[2017-08-26 16:34:57.635]upgrade manager state 2, progress: 0.061890
+[2017-08-26 16:34:59.006]upgrade manager state 2, progress: 0.064703
+[2017-08-26 16:35:00.394]upgrade manager state 2, progress: 0.067516
+[2017-08-26 16:35:01.082]upgrader state: 2, progress: 0.07
+[2017-08-26 16:35:01.083]group upgrader state: 2, progress: 0.07
+[2017-08-26 16:35:01.785]upgrade manager state 2, progress: 0.070329
+[2017-08-26 16:35:03.152]upgrade manager state 2, progress: 0.073143
+[2017-08-26 16:35:04.550]upgrader state: 2, progress: 0.08
+[2017-08-26 16:35:04.551]group upgrader state: 2, progress: 0.08
+[2017-08-26 16:35:04.553]upgrade manager state 2, progress: 0.075956
+[2017-08-26 16:35:05.904]upgrade manager state 2, progress: 0.078769
+[2017-08-26 16:35:07.282]upgrade manager state 2, progress: 0.081582
+[2017-08-26 16:35:07.967]upgrader state: 2, progress: 0.08
+[2017-08-26 16:35:07.970]group upgrader state: 2, progress: 0.08
+[2017-08-26 16:35:08.681]upgrade manager state 2, progress: 0.084395
+[2017-08-26 16:35:10.021]upgrade manager state 2, progress: 0.087208
+[2017-08-26 16:35:11.423]upgrader state: 2, progress: 0.09
+[2017-08-26 16:35:11.424]group upgrader state: 2, progress: 0.09
+[2017-08-26 16:35:11.425]upgrade manager state 2, progress: 0.090022
+[2017-08-26 16:35:12.824]upgrade manager state 2, progress: 0.092835
+[2017-08-26 16:35:14.253]upgrade manager state 2, progress: 0.095648
+[2017-08-26 16:35:14.890]upgrader state: 2, progress: 0.10
+[2017-08-26 16:35:14.891]group upgrader state: 2, progress: 0.10
+[2017-08-26 16:35:15.595]upgrade manager state 2, progress: 0.098461
+[2017-08-26 16:35:16.987]upgrade manager state 2, progress: 0.101274
+[2017-08-26 16:35:18.424]upgrader state: 2, progress: 0.10
+[2017-08-26 16:35:18.425]group upgrader state: 2, progress: 0.10
+[2017-08-26 16:35:18.426]upgrade manager state 2, progress: 0.104088
+[2017-08-26 16:35:19.840]upgrade manager state 2, progress: 0.106901
+[2017-08-26 16:35:21.236]upgrade manager state 2, progress: 0.109714
+[2017-08-26 16:35:21.938]upgrader state: 2, progress: 0.11
+[2017-08-26 16:35:21.939]group upgrader state: 2, progress: 0.11
+[2017-08-26 16:35:22.627]upgrade manager state 2, progress: 0.112527
+[2017-08-26 16:35:24.017]upgrade manager state 2, progress: 0.115340
+[2017-08-26 16:35:25.376]upgrader state: 2, progress: 0.12
+[2017-08-26 16:35:25.377]group upgrader state: 2, progress: 0.12
+[2017-08-26 16:35:25.377]upgrade manager state 2, progress: 0.118153
+[2017-08-26 16:35:26.750]upgrade manager state 2, progress: 0.120967
+[2017-08-26 16:35:28.120]upgrade manager state 2, progress: 0.123780
+[2017-08-26 16:35:28.804]upgrader state: 2, progress: 0.13
+[2017-08-26 16:35:28.806]group upgrader state: 2, progress: 0.13
+[2017-08-26 16:35:29.504]upgrade manager state 2, progress: 0.126593
+[2017-08-26 16:35:30.862]upgrade manager state 2, progress: 0.129406
+[2017-08-26 16:35:32.216]upgrader state: 2, progress: 0.13
+[2017-08-26 16:35:32.217]group upgrader state: 2, progress: 0.13
+[2017-08-26 16:35:32.218]upgrade manager state 2, progress: 0.132219
+[2017-08-26 16:35:33.641]upgrade manager state 2, progress: 0.135032
+[2017-08-26 16:35:35.028]upgrade manager state 2, progress: 0.137846
+[2017-08-26 16:35:35.727]upgrader state: 2, progress: 0.14
+[2017-08-26 16:35:35.730]group upgrader state: 2, progress: 0.14
+[2017-08-26 16:35:36.389]upgrade manager state 2, progress: 0.140659
+[2017-08-26 16:35:37.754]upgrade manager state 2, progress: 0.143472
+[2017-08-26 16:35:39.164]upgrader state: 2, progress: 0.15
+[2017-08-26 16:35:39.165]group upgrader state: 2, progress: 0.15
+[2017-08-26 16:35:39.165]upgrade manager state 2, progress: 0.146285
+[2017-08-26 16:35:41.152]upgrade manager state 2, progress: 0.149098
+[2017-08-26 16:35:42.537]upgrader state: 2, progress: 0.15
+[2017-08-26 16:35:42.540]group upgrader state: 2, progress: 0.15
+[2017-08-26 16:35:42.540]upgrade manager state 2, progress: 0.151912
+[2017-08-26 16:35:43.851]upgrade manager state 2, progress: 0.154725
+[2017-08-26 16:35:45.227]upgrade manager state 2, progress: 0.157538
+[2017-08-26 16:35:45.918]upgrader state: 2, progress: 0.16
+[2017-08-26 16:35:45.919]group upgrader state: 2, progress: 0.16
+[2017-08-26 16:35:46.604]upgrade manager state 2, progress: 0.160351
+[2017-08-26 16:35:47.961]upgrade manager state 2, progress: 0.163164
+[2017-08-26 16:35:49.349]upgrader state: 2, progress: 0.17
+[2017-08-26 16:35:49.350]group upgrader state: 2, progress: 0.17
+[2017-08-26 16:35:49.351]upgrade manager state 2, progress: 0.165977
+[2017-08-26 16:35:50.648]upgrade manager state 2, progress: 0.168791
+[2017-08-26 16:35:52.039]upgrade manager state 2, progress: 0.171604
+[2017-08-26 16:35:52.719]upgrader state: 2, progress: 0.17
+[2017-08-26 16:35:52.721]group upgrader state: 2, progress: 0.17
+[2017-08-26 16:35:53.432]upgrade manager state 2, progress: 0.174417
+[2017-08-26 16:35:54.790]upgrade manager state 2, progress: 0.177230
+[2017-08-26 16:35:56.165]upgrader state: 2, progress: 0.18
+[2017-08-26 16:35:56.166]group upgrader state: 2, progress: 0.18
+[2017-08-26 16:35:56.167]upgrade manager state 2, progress: 0.180043
+[2017-08-26 16:35:57.572]upgrade manager state 2, progress: 0.182857
+[2017-08-26 16:35:58.955]upgrade manager state 2, progress: 0.185670
+[2017-08-26 16:35:59.649]upgrader state: 2, progress: 0.19
+[2017-08-26 16:35:59.652]group upgrader state: 2, progress: 0.19
+[2017-08-26 16:36:00.324]upgrade manager state 2, progress: 0.188483
+[2017-08-26 16:36:01.646]upgrade manager state 2, progress: 0.191296
+[2017-08-26 16:36:03.009]upgrader state: 2, progress: 0.19
+[2017-08-26 16:36:03.010]group upgrader state: 2, progress: 0.19
+[2017-08-26 16:36:03.011]upgrade manager state 2, progress: 0.194109
+[2017-08-26 16:36:04.351]upgrade manager state 2, progress: 0.196922
+[2017-08-26 16:36:05.723]upgrade manager state 2, progress: 0.199736
+[2017-08-26 16:36:05.867]start send upgrade finished pack
+[2017-08-26 16:36:06.545]check sum data: <6455fd89 004e7a89 b534bde4 356f2bfa>
+[2017-08-26 16:36:09.946]sub module info: modueID: 0x28, firmwareVersion: 00.00.00.00, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:36:09.947]push upgrade progress: 1%
+[2017-08-26 16:36:09.947]upgrader state: 3, progress: 0.21
+[2017-08-26 16:36:09.947]group upgrader state: 3, progress: 0.21
+[2017-08-26 16:36:09.947]upgrade manager state 3, progress: 0.208000
+[2017-08-26 16:36:11.879]sub module info: modueID: 0x28, firmwareVersion: 00.00.00.00, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:36:11.879]push upgrade progress: 1%
+[2017-08-26 16:36:11.880]upgrade manager state 3, progress: 0.208000
+[2017-08-26 16:36:13.885]sub module info: modueID: 0x28, firmwareVersion: 00.00.00.00, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:36:13.886]push upgrade progress: 2%
+[2017-08-26 16:36:13.886]upgrader state: 3, progress: 0.22
+[2017-08-26 16:36:13.887]group upgrader state: 3, progress: 0.22
+[2017-08-26 16:36:13.887]upgrade manager state 3, progress: 0.216000
+[2017-08-26 16:36:15.887]sub module info: modueID: 0x28, firmwareVersion: 00.00.00.00, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:36:15.887]push upgrade progress: 3%
+[2017-08-26 16:36:15.887]upgrade manager state 3, progress: 0.224000
+[2017-08-26 16:36:17.882]sub module info: modueID: 0x28, firmwareVersion: 00.00.00.00, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:36:17.882]push upgrade progress: 4%
+[2017-08-26 16:36:17.882]upgrader state: 3, progress: 0.23
+[2017-08-26 16:36:17.883]group upgrader state: 3, progress: 0.23
+[2017-08-26 16:36:17.883]upgrade manager state 3, progress: 0.232000
+[2017-08-26 16:36:18.385]sub module info: modueID: 0x28, firmwareVersion: 00.00.00.00, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:36:18.385]push upgrade progress: 7%
+[2017-08-26 16:36:20.390]sub module info: modueID: 0x28, firmwareVersion: 00.00.00.00, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:36:20.391]push upgrade progress: 7%
+[2017-08-26 16:36:20.391]upgrade manager state 3, progress: 0.256000
+[2017-08-26 16:36:21.393]sub module info: modueID: 0x28, firmwareVersion: 00.00.00.00, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:36:21.393]push upgrade progress: 7%
+[2017-08-26 16:36:21.394]upgrader state: 3, progress: 0.26
+[2017-08-26 16:36:21.394]group upgrader state: 3, progress: 0.26
+[2017-08-26 16:36:21.394]upgrade manager state 3, progress: 0.256000
+[2017-08-26 16:36:23.388]sub module info: modueID: 0x28, firmwareVersion: 00.00.00.00, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:36:23.388]push upgrade progress: 7%
+[2017-08-26 16:36:23.388]upgrade manager state 3, progress: 0.256000
+[2017-08-26 16:36:24.388]sub module info: modueID: 0x28, firmwareVersion: 00.00.00.00, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:36:24.388]push upgrade progress: 8%
+[2017-08-26 16:36:26.396]sub module info: modueID: 0x28, firmwareVersion: 00.00.00.00, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:36:26.397]push upgrade progress: 8%
+[2017-08-26 16:36:26.397]upgrader state: 3, progress: 0.26
+[2017-08-26 16:36:26.398]group upgrader state: 3, progress: 0.26
+[2017-08-26 16:36:26.398]upgrade manager state 3, progress: 0.264000
+[2017-08-26 16:36:27.389]sub module info: modueID: 0x28, firmwareVersion: 00.00.00.00, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:36:27.390]push upgrade progress: 9%
+[2017-08-26 16:36:29.387]sub module info: modueID: 0x28, firmwareVersion: 00.00.00.00, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:36:29.389]push upgrade progress: 9%
+[2017-08-26 16:36:29.389]upgrade manager state 3, progress: 0.272000
+[2017-08-26 16:36:30.390]sub module info: modueID: 0x28, firmwareVersion: 00.00.00.00, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:36:30.391]push upgrade progress: 10%
+[2017-08-26 16:36:30.391]upgrader state: 3, progress: 0.28
+[2017-08-26 16:36:30.391]group upgrader state: 3, progress: 0.28
+[2017-08-26 16:36:30.391]upgrade manager state 3, progress: 0.280000
+[2017-08-26 16:36:32.385]sub module info: modueID: 0x28, firmwareVersion: 00.00.00.00, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:36:32.386]push upgrade progress: 10%
+[2017-08-26 16:36:32.386]upgrade manager state 3, progress: 0.280000
+[2017-08-26 16:36:33.394]sub module info: modueID: 0x28, firmwareVersion: 00.00.00.00, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:36:33.394]push upgrade progress: 11%
+[2017-08-26 16:36:33.394]upgrader state: 3, progress: 0.29
+[2017-08-26 16:36:33.394]group upgrader state: 3, progress: 0.29
+[2017-08-26 16:36:33.394]upgrade manager state 3, progress: 0.288000
+[2017-08-26 16:36:33.569]sub module info: modueID: 0x28, firmwareVersion: 00.00.00.00, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:36:33.570]push upgrade progress: 15%
+[2017-08-26 16:36:35.561]sub module info: modueID: 0x28, firmwareVersion: 00.00.00.00, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:36:35.561]push upgrade progress: 15%
+[2017-08-26 16:36:35.561]upgrade manager state 3, progress: 0.320000
+[2017-08-26 16:36:37.565]sub module info: modueID: 0x28, firmwareVersion: 00.00.00.00, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:36:37.565]push upgrade progress: 16%
+[2017-08-26 16:36:37.565]upgrader state: 3, progress: 0.33
+[2017-08-26 16:36:37.565]group upgrader state: 3, progress: 0.33
+[2017-08-26 16:36:37.566]upgrade manager state 3, progress: 0.328000
+[2017-08-26 16:36:39.569]sub module info: modueID: 0x28, firmwareVersion: 00.00.00.00, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:36:39.569]push upgrade progress: 17%
+[2017-08-26 16:36:39.570]upgrade manager state 3, progress: 0.336000
+[2017-08-26 16:36:41.561]sub module info: modueID: 0x28, firmwareVersion: 00.00.00.00, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:36:41.561]push upgrade progress: 18%
+[2017-08-26 16:36:41.562]upgrader state: 3, progress: 0.34
+[2017-08-26 16:36:41.562]group upgrader state: 3, progress: 0.34
+[2017-08-26 16:36:41.562]upgrade manager state 3, progress: 0.344000
+[2017-08-26 16:36:43.572]sub module info: modueID: 0x28, firmwareVersion: 00.00.00.00, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:36:43.573]push upgrade progress: 19%
+[2017-08-26 16:36:43.573]upgrade manager state 3, progress: 0.352000
+[2017-08-26 16:36:45.562]sub module info: modueID: 0x28, firmwareVersion: 00.00.00.00, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:36:45.563]push upgrade progress: 20%
+[2017-08-26 16:36:45.563]upgrader state: 3, progress: 0.36
+[2017-08-26 16:36:45.563]group upgrader state: 3, progress: 0.36
+[2017-08-26 16:36:45.563]upgrade manager state 3, progress: 0.360000
+[2017-08-26 16:36:47.413]sub module info: modueID: 0x28, firmwareVersion: 00.00.00.00, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:36:47.414]push upgrade progress: 20%
+[2017-08-26 16:36:47.414]upgrade manager state 3, progress: 0.360000
+[2017-08-26 16:36:47.598]sub module info: modueID: 0x28, firmwareVersion: 01.00.00.82, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:36:47.598]push upgrade progress: 20%
+[2017-08-26 16:36:47.707]Reboot notify from 8, current device type:8, upgrade step: 5
+[2017-08-26 16:36:47.712]Reboot notify from 8, current device type:8, upgrade step: 5
+[2017-08-26 16:36:47.712]Reboot notify from 8, current device type:8, upgrade step: 5
+[2017-08-26 16:36:49.069]wating connect state 0 => 1
+[2017-08-26 16:36:51.814]upgrader state: 3, progress: 0.36
+[2017-08-26 16:36:51.814]group upgrader state: 3, progress: 0.36
+[2017-08-26 16:36:51.814]upgrade manager state 3, progress: 0.361333
+[2017-08-26 16:36:53.809]upgrade manager state 3, progress: 0.364000
+[2017-08-26 16:36:54.809]upgrade manager state 3, progress: 0.365333
+[2017-08-26 16:36:55.810]upgrader state: 3, progress: 0.37
+[2017-08-26 16:36:55.810]group upgrader state: 3, progress: 0.37
+[2017-08-26 16:36:55.810]upgrade manager state 3, progress: 0.366667
+[2017-08-26 16:36:57.809]upgrade manager state 3, progress: 0.369333
+[2017-08-26 16:36:59.809]upgrader state: 3, progress: 0.37
+[2017-08-26 16:36:59.809]group upgrader state: 3, progress: 0.37
+[2017-08-26 16:36:59.809]upgrade manager state 3, progress: 0.372000
+[2017-08-26 16:37:01.809]upgrade manager state 3, progress: 0.374667
+[2017-08-26 16:37:02.809]upgrader state: 3, progress: 0.38
+[2017-08-26 16:37:03.809]group upgrader state: 3, progress: 0.38
+[2017-08-26 16:37:03.809]upgrade manager state 3, progress: 0.377333
+[2017-08-26 16:37:05.809]upgrade manager state 3, progress: 0.380000
+[2017-08-26 16:37:06.809]upgrader state: 3, progress: 0.38
+[2017-08-26 16:37:07.808]group upgrader state: 3, progress: 0.38
+[2017-08-26 16:37:07.809]upgrade manager state 3, progress: 0.382667
+[2017-08-26 16:37:09.722]connect service
+[2017-08-26 16:37:09.722]wating connect state 1 => 0
+[2017-08-26 16:37:09.809]upgrade manager state 3, progress: 0.385333
+[2017-08-26 16:37:10.809]upgrader state: 3, progress: 0.39
+[2017-08-26 16:37:10.810]group upgrader state: 3, progress: 0.39
+[2017-08-26 16:37:11.809]upgrade manager state 3, progress: 0.388000
+[2017-08-26 16:37:12.810]upgrade manager state 3, progress: 0.389333
+[2017-08-26 16:37:14.809]upgrader state: 3, progress: 0.39
+[2017-08-26 16:37:14.809]group upgrader state: 3, progress: 0.39
+[2017-08-26 16:37:14.810]upgrade manager state 3, progress: 0.392000
+[2017-08-26 16:37:16.809]upgrade manager state 3, progress: 0.394667
+[2017-08-26 16:37:18.810]upgrader state: 3, progress: 0.40
+[2017-08-26 16:37:18.810]group upgrader state: 3, progress: 0.40
+[2017-08-26 16:37:18.811]upgrade manager state 3, progress: 0.397333
+[2017-08-26 16:37:20.811]upgrade manager state 3, progress: 0.400000
+[2017-08-26 16:37:21.478]sub module info: modueID: 0x09, firmwareVersion: 01.06.00.00, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:37:21.478]push upgrade progress: 23%
+[2017-08-26 16:37:23.489]sub module info: modueID: 0x09, firmwareVersion: 01.06.00.00, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:37:23.490]push upgrade progress: 23%
+[2017-08-26 16:37:23.490]upgrader state: 3, progress: 0.40
+[2017-08-26 16:37:23.490]group upgrader state: 3, progress: 0.40
+[2017-08-26 16:37:23.490]upgrade manager state 3, progress: 0.400000
+[2017-08-26 16:37:25.489]sub module info: modueID: 0x09, firmwareVersion: 01.06.00.00, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:37:25.490]push upgrade progress: 23%
+[2017-08-26 16:37:25.490]upgrade manager state 3, progress: 0.400000
+[2017-08-26 16:37:27.492]sub module info: modueID: 0x09, firmwareVersion: 01.06.00.00, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:37:27.492]push upgrade progress: 23%
+[2017-08-26 16:37:27.492]upgrader state: 3, progress: 0.40
+[2017-08-26 16:37:27.495]group upgrader state: 3, progress: 0.40
+[2017-08-26 16:37:27.495]upgrade manager state 3, progress: 0.400000
+[2017-08-26 16:37:29.200]sub module info: modueID: 0x09, firmwareVersion: 01.06.00.00, state:Upgrading. (code 1), progress: 5%
+[2017-08-26 16:37:29.200]push upgrade progress: 23%
+[2017-08-26 16:37:29.200]upgrade manager state 3, progress: 0.400000
+[2017-08-26 16:37:30.465]sub module info: modueID: 0x09, firmwareVersion: 01.06.00.00, state:Upgrading. (code 1), progress: 10%
+[2017-08-26 16:37:30.465]push upgrade progress: 23%
+[2017-08-26 16:37:30.465]upgrade manager state 3, progress: 0.400000
+[2017-08-26 16:37:31.719]sub module info: modueID: 0x09, firmwareVersion: 01.06.00.00, state:Upgrading. (code 1), progress: 15%
+[2017-08-26 16:37:31.719]push upgrade progress: 23%
+[2017-08-26 16:37:31.720]upgrader state: 3, progress: 0.40
+[2017-08-26 16:37:31.720]group upgrader state: 3, progress: 0.40
+[2017-08-26 16:37:31.721]upgrade manager state 3, progress: 0.400000
+[2017-08-26 16:37:33.120]sub module info: modueID: 0x09, firmwareVersion: 01.06.00.00, state:Upgrading. (code 1), progress: 20%
+[2017-08-26 16:37:33.121]push upgrade progress: 23%
+[2017-08-26 16:37:33.121]upgrade manager state 3, progress: 0.400000
+[2017-08-26 16:37:34.365]sub module info: modueID: 0x09, firmwareVersion: 01.06.00.00, state:Upgrading. (code 1), progress: 25%
+[2017-08-26 16:37:34.366]push upgrade progress: 24%
+[2017-08-26 16:37:34.366]upgrade manager state 3, progress: 0.400000
+[2017-08-26 16:37:35.555]sub module info: modueID: 0x09, firmwareVersion: 01.06.00.00, state:Upgrading. (code 1), progress: 30%
+[2017-08-26 16:37:35.555]push upgrade progress: 24%
+[2017-08-26 16:37:35.555]upgrader state: 3, progress: 0.40
+[2017-08-26 16:37:35.556]group upgrader state: 3, progress: 0.40
+[2017-08-26 16:37:35.556]upgrade manager state 3, progress: 0.400000
+[2017-08-26 16:37:36.965]sub module info: modueID: 0x09, firmwareVersion: 01.06.00.00, state:Upgrading. (code 1), progress: 35%
+[2017-08-26 16:37:36.966]push upgrade progress: 24%
+[2017-08-26 16:37:36.966]upgrade manager state 3, progress: 0.400000
+[2017-08-26 16:37:38.202]sub module info: modueID: 0x09, firmwareVersion: 01.06.00.00, state:Upgrading. (code 1), progress: 40%
+[2017-08-26 16:37:38.203]push upgrade progress: 24%
+[2017-08-26 16:37:38.203]upgrade manager state 3, progress: 0.400000
+[2017-08-26 16:37:39.454]sub module info: modueID: 0x09, firmwareVersion: 01.06.00.00, state:Upgrading. (code 1), progress: 45%
+[2017-08-26 16:37:39.454]push upgrade progress: 24%
+[2017-08-26 16:37:39.454]upgrader state: 3, progress: 0.40
+[2017-08-26 16:37:39.454]group upgrader state: 3, progress: 0.40
+[2017-08-26 16:37:39.455]upgrade manager state 3, progress: 0.400000
+[2017-08-26 16:37:40.865]sub module info: modueID: 0x09, firmwareVersion: 01.06.00.00, state:Upgrading. (code 1), progress: 50%
+[2017-08-26 16:37:40.865]push upgrade progress: 24%
+[2017-08-26 16:37:40.865]upgrade manager state 3, progress: 0.400000
+[2017-08-26 16:37:42.113]sub module info: modueID: 0x09, firmwareVersion: 01.06.00.00, state:Upgrading. (code 1), progress: 55%
+[2017-08-26 16:37:42.113]push upgrade progress: 24%
+[2017-08-26 16:37:42.113]upgrade manager state 3, progress: 0.400000
+[2017-08-26 16:37:44.118]sub module info: modueID: 0x09, firmwareVersion: 01.06.00.00, state:Upgrading. (code 1), progress: 55%
+[2017-08-26 16:37:44.118]push upgrade progress: 24%
+[2017-08-26 16:37:44.118]upgrader state: 3, progress: 0.40
+[2017-08-26 16:37:44.118]group upgrader state: 3, progress: 0.40
+[2017-08-26 16:37:44.118]upgrade manager state 3, progress: 0.400000
+[2017-08-26 16:37:46.124]sub module info: modueID: 0x09, firmwareVersion: 01.06.00.00, state:Upgrading. (code 1), progress: 55%
+[2017-08-26 16:37:46.125]push upgrade progress: 24%
+[2017-08-26 16:37:46.125]upgrade manager state 3, progress: 0.400000
+[2017-08-26 16:37:48.125]sub module info: modueID: 0x09, firmwareVersion: 01.06.00.00, state:Upgrading. (code 1), progress: 55%
+[2017-08-26 16:37:48.125]push upgrade progress: 24%
+[2017-08-26 16:37:48.125]upgrader state: 3, progress: 0.40
+[2017-08-26 16:37:48.125]group upgrader state: 3, progress: 0.40
+[2017-08-26 16:37:48.125]upgrade manager state 3, progress: 0.400000
+[2017-08-26 16:37:48.410]sub module info: modueID: 0x09, firmwareVersion: 01.06.00.00, state:Upgrade Completed. (code 0), progress: 100%
+[2017-08-26 16:37:48.411]push upgrade progress: 26%
+[2017-08-26 16:37:50.414]sub module info: modueID: 0x09, firmwareVersion: 01.06.00.00, state:Upgrade Completed. (code 0), progress: 100%
+[2017-08-26 16:37:50.414]push upgrade progress: 26%
+[2017-08-26 16:37:50.414]upgrade manager state 3, progress: 0.408000
+[2017-08-26 16:37:51.426]sub module info: modueID: 0xa3, firmwareVersion: 34.10.00.21, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:37:51.427]push upgrade progress: 26%
+[2017-08-26 16:37:51.427]upgrader state: 3, progress: 0.41
+[2017-08-26 16:37:51.427]group upgrader state: 3, progress: 0.41
+[2017-08-26 16:37:51.428]upgrade manager state 3, progress: 0.408000
+[2017-08-26 16:37:53.434]sub module info: modueID: 0xa3, firmwareVersion: 34.10.00.21, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:37:53.435]push upgrade progress: 26%
+[2017-08-26 16:37:53.435]upgrade manager state 3, progress: 0.408000
+[2017-08-26 16:37:53.477]sub module info: modueID: 0xa3, firmwareVersion: 34.10.00.21, state:Version Match. (code 5), progress: 100%
+[2017-08-26 16:37:53.478]push upgrade progress: 29%
+[2017-08-26 16:37:55.459]sub module info: modueID: 0xa3, firmwareVersion: 34.10.00.21, state:Version Match. (code 5), progress: 100%
+[2017-08-26 16:37:55.459]push upgrade progress: 29%
+[2017-08-26 16:37:55.460]upgrader state: 3, progress: 0.43
+[2017-08-26 16:37:55.460]group upgrader state: 3, progress: 0.43
+[2017-08-26 16:37:55.460]upgrade manager state 3, progress: 0.432000
+[2017-08-26 16:37:56.480]sub module info: modueID: 0xc3, firmwareVersion: 03.02.35.05, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:37:56.481]push upgrade progress: 29%
+[2017-08-26 16:37:56.481]upgrade manager state 3, progress: 0.432000
+[2017-08-26 16:37:58.475]sub module info: modueID: 0xc3, firmwareVersion: 03.02.35.05, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:37:58.476]push upgrade progress: 29%
+[2017-08-26 16:37:58.476]upgrader state: 3, progress: 0.43
+[2017-08-26 16:37:58.476]group upgrader state: 3, progress: 0.43
+[2017-08-26 16:37:58.476]upgrade manager state 3, progress: 0.432000
+[2017-08-26 16:38:00.475]sub module info: modueID: 0xc3, firmwareVersion: 03.02.35.05, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:38:00.475]push upgrade progress: 29%
+[2017-08-26 16:38:00.475]upgrade manager state 3, progress: 0.432000
+[2017-08-26 16:38:02.481]sub module info: modueID: 0xc3, firmwareVersion: 03.02.35.05, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:38:02.481]push upgrade progress: 29%
+[2017-08-26 16:38:02.481]upgrader state: 3, progress: 0.43
+[2017-08-26 16:38:02.482]group upgrader state: 3, progress: 0.43
+[2017-08-26 16:38:02.482]upgrade manager state 3, progress: 0.432000
+[2017-08-26 16:38:04.480]sub module info: modueID: 0xc3, firmwareVersion: 03.02.35.05, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:38:04.480]push upgrade progress: 29%
+[2017-08-26 16:38:04.481]upgrade manager state 3, progress: 0.432000
+[2017-08-26 16:38:06.483]sub module info: modueID: 0xc3, firmwareVersion: 03.02.35.05, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:38:06.483]push upgrade progress: 29%
+[2017-08-26 16:38:06.483]upgrader state: 3, progress: 0.43
+[2017-08-26 16:38:06.483]group upgrader state: 3, progress: 0.43
+[2017-08-26 16:38:06.483]upgrade manager state 3, progress: 0.432000
+[2017-08-26 16:38:08.477]sub module info: modueID: 0xc3, firmwareVersion: 03.02.35.05, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:38:08.478]push upgrade progress: 29%
+[2017-08-26 16:38:08.478]upgrade manager state 3, progress: 0.432000
+[2017-08-26 16:38:10.474]sub module info: modueID: 0xc3, firmwareVersion: 03.02.35.05, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:38:10.474]push upgrade progress: 29%
+[2017-08-26 16:38:10.474]upgrader state: 3, progress: 0.43
+[2017-08-26 16:38:10.474]group upgrader state: 3, progress: 0.43
+[2017-08-26 16:38:10.474]upgrade manager state 3, progress: 0.432000
+[2017-08-26 16:38:12.477]sub module info: modueID: 0xc3, firmwareVersion: 03.02.35.05, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:38:12.477]push upgrade progress: 29%
+[2017-08-26 16:38:12.477]upgrade manager state 3, progress: 0.432000
+[2017-08-26 16:38:14.481]sub module info: modueID: 0xc3, firmwareVersion: 03.02.35.05, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:38:14.481]push upgrade progress: 29%
+[2017-08-26 16:38:14.481]upgrader state: 3, progress: 0.43
+[2017-08-26 16:38:14.481]group upgrader state: 3, progress: 0.43
+[2017-08-26 16:38:14.482]upgrade manager state 3, progress: 0.432000
+[2017-08-26 16:38:16.476]sub module info: modueID: 0xc3, firmwareVersion: 03.02.35.05, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:38:16.476]push upgrade progress: 29%
+[2017-08-26 16:38:16.477]upgrade manager state 3, progress: 0.432000
+[2017-08-26 16:38:18.486]sub module info: modueID: 0xc3, firmwareVersion: 03.02.35.05, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:38:18.486]push upgrade progress: 29%
+[2017-08-26 16:38:18.486]upgrader state: 3, progress: 0.43
+[2017-08-26 16:38:18.486]group upgrader state: 3, progress: 0.43
+[2017-08-26 16:38:18.486]upgrade manager state 3, progress: 0.432000
+[2017-08-26 16:38:20.477]sub module info: modueID: 0xc3, firmwareVersion: 03.02.35.05, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:38:20.477]push upgrade progress: 29%
+[2017-08-26 16:38:20.477]upgrade manager state 3, progress: 0.432000
+[2017-08-26 16:38:22.481]sub module info: modueID: 0xc3, firmwareVersion: 03.02.35.05, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:38:22.482]push upgrade progress: 29%
+[2017-08-26 16:38:22.482]upgrader state: 3, progress: 0.43
+[2017-08-26 16:38:22.482]group upgrader state: 3, progress: 0.43
+[2017-08-26 16:38:22.482]upgrade manager state 3, progress: 0.432000
+[2017-08-26 16:38:23.180]sub module info: modueID: 0xc3, firmwareVersion: 03.02.35.05, state:Upgrading. (code 1), progress: 5%
+[2017-08-26 16:38:23.181]push upgrade progress: 29%
+[2017-08-26 16:38:25.176]sub module info: modueID: 0xc3, firmwareVersion: 03.02.35.05, state:Upgrading. (code 1), progress: 5%
+[2017-08-26 16:38:25.177]push upgrade progress: 29%
+[2017-08-26 16:38:25.177]upgrade manager state 3, progress: 0.432000
+[2017-08-26 16:38:25.204]sub module info: modueID: 0xc3, firmwareVersion: 03.02.35.05, state:Upgrading. (code 1), progress: 10%
+[2017-08-26 16:38:25.205]push upgrade progress: 29%
+[2017-08-26 16:38:27.201]sub module info: modueID: 0xc3, firmwareVersion: 03.02.35.05, state:Upgrading. (code 1), progress: 10%
+[2017-08-26 16:38:27.201]push upgrade progress: 29%
+[2017-08-26 16:38:27.201]upgrader state: 3, progress: 0.43
+[2017-08-26 16:38:27.201]group upgrader state: 3, progress: 0.43
+[2017-08-26 16:38:27.201]upgrade manager state 3, progress: 0.432000
+[2017-08-26 16:38:27.243]sub module info: modueID: 0xc3, firmwareVersion: 03.02.35.05, state:Upgrading. (code 1), progress: 15%
+[2017-08-26 16:38:27.243]push upgrade progress: 29%
+[2017-08-26 16:38:29.241]sub module info: modueID: 0xc3, firmwareVersion: 03.02.35.05, state:Upgrading. (code 1), progress: 15%
+[2017-08-26 16:38:29.241]push upgrade progress: 29%
+[2017-08-26 16:38:29.241]upgrade manager state 3, progress: 0.432000
+[2017-08-26 16:38:29.506]sub module info: modueID: 0xc3, firmwareVersion: 03.02.35.05, state:Upgrading. (code 1), progress: 20%
+[2017-08-26 16:38:29.506]push upgrade progress: 29%
+[2017-08-26 16:38:31.511]sub module info: modueID: 0xc3, firmwareVersion: 03.02.35.05, state:Upgrading. (code 1), progress: 20%
+[2017-08-26 16:38:31.511]push upgrade progress: 29%
+[2017-08-26 16:38:31.511]upgrader state: 3, progress: 0.43
+[2017-08-26 16:38:31.511]group upgrader state: 3, progress: 0.43
+[2017-08-26 16:38:31.511]upgrade manager state 3, progress: 0.432000
+[2017-08-26 16:38:31.539]sub module info: modueID: 0xc3, firmwareVersion: 03.02.35.05, state:Upgrading. (code 1), progress: 25%
+[2017-08-26 16:38:31.539]push upgrade progress: 30%
+[2017-08-26 16:38:33.540]sub module info: modueID: 0xc3, firmwareVersion: 03.02.35.05, state:Upgrading. (code 1), progress: 25%
+[2017-08-26 16:38:33.540]push upgrade progress: 30%
+[2017-08-26 16:38:33.540]upgrade manager state 3, progress: 0.440000
+[2017-08-26 16:38:33.570]sub module info: modueID: 0xc3, firmwareVersion: 03.02.35.05, state:Upgrading. (code 1), progress: 30%
+[2017-08-26 16:38:33.570]push upgrade progress: 30%
+[2017-08-26 16:38:35.569]sub module info: modueID: 0xc3, firmwareVersion: 03.02.35.05, state:Upgrading. (code 1), progress: 30%
+[2017-08-26 16:38:35.569]push upgrade progress: 30%
+[2017-08-26 16:38:35.571]upgrader state: 3, progress: 0.44
+[2017-08-26 16:38:35.571]group upgrader state: 3, progress: 0.44
+[2017-08-26 16:38:35.571]upgrade manager state 3, progress: 0.440000
+[2017-08-26 16:38:35.839]sub module info: modueID: 0xc3, firmwareVersion: 03.02.35.05, state:Upgrading. (code 1), progress: 35%
+[2017-08-26 16:38:35.840]push upgrade progress: 30%
+[2017-08-26 16:38:37.842]sub module info: modueID: 0xc3, firmwareVersion: 03.02.35.05, state:Upgrading. (code 1), progress: 35%
+[2017-08-26 16:38:37.842]push upgrade progress: 30%
+[2017-08-26 16:38:37.842]upgrade manager state 3, progress: 0.440000
+[2017-08-26 16:38:37.870]sub module info: modueID: 0xc3, firmwareVersion: 03.02.35.05, state:Upgrading. (code 1), progress: 40%
+[2017-08-26 16:38:37.871]push upgrade progress: 30%
+[2017-08-26 16:38:39.869]sub module info: modueID: 0xc3, firmwareVersion: 03.02.35.05, state:Upgrading. (code 1), progress: 40%
+[2017-08-26 16:38:39.870]push upgrade progress: 30%
+[2017-08-26 16:38:39.870]upgrader state: 3, progress: 0.44
+[2017-08-26 16:38:39.871]group upgrader state: 3, progress: 0.44
+[2017-08-26 16:38:39.871]upgrade manager state 3, progress: 0.440000
+[2017-08-26 16:38:39.902]sub module info: modueID: 0xc3, firmwareVersion: 03.02.35.05, state:Upgrading. (code 1), progress: 45%
+[2017-08-26 16:38:39.902]push upgrade progress: 30%
+[2017-08-26 16:38:41.909]sub module info: modueID: 0xc3, firmwareVersion: 03.02.35.05, state:Upgrading. (code 1), progress: 45%
+[2017-08-26 16:38:41.909]push upgrade progress: 30%
+[2017-08-26 16:38:41.909]upgrade manager state 3, progress: 0.440000
+[2017-08-26 16:38:42.185]sub module info: modueID: 0xc3, firmwareVersion: 03.02.35.05, state:Upgrading. (code 1), progress: 50%
+[2017-08-26 16:38:42.185]push upgrade progress: 31%
+[2017-08-26 16:38:44.185]sub module info: modueID: 0xc3, firmwareVersion: 03.02.35.05, state:Upgrading. (code 1), progress: 50%
+[2017-08-26 16:38:44.186]push upgrade progress: 31%
+[2017-08-26 16:38:44.186]upgrader state: 3, progress: 0.45
+[2017-08-26 16:38:44.186]group upgrader state: 3, progress: 0.45
+[2017-08-26 16:38:44.186]upgrade manager state 3, progress: 0.448000
+[2017-08-26 16:38:44.213]sub module info: modueID: 0xc3, firmwareVersion: 03.02.35.05, state:Upgrading. (code 1), progress: 55%
+[2017-08-26 16:38:44.214]push upgrade progress: 31%
+[2017-08-26 16:38:46.211]sub module info: modueID: 0xc3, firmwareVersion: 03.02.35.05, state:Upgrading. (code 1), progress: 55%
+[2017-08-26 16:38:46.212]push upgrade progress: 31%
+[2017-08-26 16:38:46.212]upgrade manager state 3, progress: 0.448000
+[2017-08-26 16:38:48.209]sub module info: modueID: 0xc3, firmwareVersion: 03.02.35.05, state:Upgrading. (code 1), progress: 55%
+[2017-08-26 16:38:48.209]push upgrade progress: 31%
+[2017-08-26 16:38:48.210]upgrader state: 3, progress: 0.45
+[2017-08-26 16:38:48.210]group upgrader state: 3, progress: 0.45
+[2017-08-26 16:38:48.210]upgrade manager state 3, progress: 0.448000
+[2017-08-26 16:38:50.208]sub module info: modueID: 0xc3, firmwareVersion: 03.02.35.05, state:Upgrading. (code 1), progress: 55%
+[2017-08-26 16:38:50.208]push upgrade progress: 31%
+[2017-08-26 16:38:50.208]upgrade manager state 3, progress: 0.448000
+[2017-08-26 16:38:52.219]sub module info: modueID: 0xc3, firmwareVersion: 03.02.35.05, state:Upgrading. (code 1), progress: 55%
+[2017-08-26 16:38:52.219]push upgrade progress: 31%
+[2017-08-26 16:38:52.219]upgrader state: 3, progress: 0.45
+[2017-08-26 16:38:52.219]group upgrader state: 3, progress: 0.45
+[2017-08-26 16:38:52.219]upgrade manager state 3, progress: 0.448000
+[2017-08-26 16:38:54.208]sub module info: modueID: 0xc3, firmwareVersion: 03.02.35.05, state:Upgrading. (code 1), progress: 55%
+[2017-08-26 16:38:54.209]push upgrade progress: 31%
+[2017-08-26 16:38:54.209]upgrade manager state 3, progress: 0.448000
+[2017-08-26 16:38:56.214]sub module info: modueID: 0xc3, firmwareVersion: 03.02.35.05, state:Upgrading. (code 1), progress: 55%
+[2017-08-26 16:38:56.214]push upgrade progress: 31%
+[2017-08-26 16:38:56.214]upgrader state: 3, progress: 0.45
+[2017-08-26 16:38:56.214]group upgrader state: 3, progress: 0.45
+[2017-08-26 16:38:56.214]upgrade manager state 3, progress: 0.448000
+[2017-08-26 16:38:57.284]sub module info: modueID: 0xc3, firmwareVersion: 03.02.35.05, state:Version Match. (code 5), progress: 100%
+[2017-08-26 16:38:57.284]push upgrade progress: 32%
+[2017-08-26 16:38:57.284]upgrade manager state 3, progress: 0.456000
+[2017-08-26 16:38:59.275]sub module info: modueID: 0xc3, firmwareVersion: 03.02.35.05, state:Version Match. (code 5), progress: 100%
+[2017-08-26 16:38:59.275]push upgrade progress: 32%
+[2017-08-26 16:38:59.275]upgrader state: 3, progress: 0.46
+[2017-08-26 16:38:59.275]group upgrader state: 3, progress: 0.46
+[2017-08-26 16:38:59.276]upgrade manager state 3, progress: 0.456000
+[2017-08-26 16:39:00.352]sub module info: modueID: 0xa9, firmwareVersion: 01.00.01.04, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:39:00.353]push upgrade progress: 32%
+[2017-08-26 16:39:00.353]upgrade manager state 3, progress: 0.456000
+[2017-08-26 16:39:00.371]sub module info: modueID: 0xa9, firmwareVersion: 01.00.01.04, state:Upgrading. (code 1), progress: 25%
+[2017-08-26 16:39:00.372]push upgrade progress: 33%
+[2017-08-26 16:39:02.343]sub module info: modueID: 0xa9, firmwareVersion: 01.00.01.04, state:Upgrading. (code 1), progress: 25%
+[2017-08-26 16:39:02.344]push upgrade progress: 33%
+[2017-08-26 16:39:02.344]upgrader state: 3, progress: 0.46
+[2017-08-26 16:39:02.344]group upgrader state: 3, progress: 0.46
+[2017-08-26 16:39:02.344]upgrade manager state 3, progress: 0.464000
+[2017-08-26 16:39:03.376]sub module info: modueID: 0xa9, firmwareVersion: 01.00.01.04, state:Version Match. (code 5), progress: 100%
+[2017-08-26 16:39:03.376]push upgrade progress: 36%
+[2017-08-26 16:39:03.377]upgrade manager state 3, progress: 0.488000
+[2017-08-26 16:39:05.377]sub module info: modueID: 0xa9, firmwareVersion: 01.00.01.04, state:Version Match. (code 5), progress: 100%
+[2017-08-26 16:39:05.378]push upgrade progress: 36%
+[2017-08-26 16:39:05.378]upgrader state: 3, progress: 0.49
+[2017-08-26 16:39:05.378]group upgrader state: 3, progress: 0.49
+[2017-08-26 16:39:05.378]upgrade manager state 3, progress: 0.488000
+[2017-08-26 16:39:06.397]sub module info: modueID: 0x0c, firmwareVersion: 01.02.00.46, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:39:06.397]push upgrade progress: 36%
+[2017-08-26 16:39:06.397]upgrade manager state 3, progress: 0.488000
+[2017-08-26 16:39:08.398]sub module info: modueID: 0x0c, firmwareVersion: 01.02.00.46, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:39:08.398]push upgrade progress: 36%
+[2017-08-26 16:39:08.398]upgrader state: 3, progress: 0.49
+[2017-08-26 16:39:08.398]group upgrader state: 3, progress: 0.49
+[2017-08-26 16:39:08.399]upgrade manager state 3, progress: 0.488000
+[2017-08-26 16:39:08.424]sub module info: modueID: 0x0c, firmwareVersion: 01.02.00.46, state:Version Match. (code 5), progress: 100%
+[2017-08-26 16:39:08.424]push upgrade progress: 39%
+[2017-08-26 16:39:10.425]sub module info: modueID: 0x0c, firmwareVersion: 01.02.00.46, state:Version Match. (code 5), progress: 100%
+[2017-08-26 16:39:10.425]push upgrade progress: 39%
+[2017-08-26 16:39:10.425]upgrade manager state 3, progress: 0.512000
+[2017-08-26 16:39:11.446]sub module info: modueID: 0x2c, firmwareVersion: 01.02.00.46, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:39:11.446]push upgrade progress: 39%
+[2017-08-26 16:39:11.446]upgrader state: 3, progress: 0.51
+[2017-08-26 16:39:11.446]group upgrader state: 3, progress: 0.51
+[2017-08-26 16:39:11.446]upgrade manager state 3, progress: 0.512000
+[2017-08-26 16:39:13.452]sub module info: modueID: 0x2c, firmwareVersion: 01.02.00.46, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:39:13.452]push upgrade progress: 39%
+[2017-08-26 16:39:13.453]upgrade manager state 3, progress: 0.512000
+[2017-08-26 16:39:13.492]sub module info: modueID: 0x2c, firmwareVersion: 01.02.00.46, state:Version Match. (code 5), progress: 100%
+[2017-08-26 16:39:13.492]push upgrade progress: 42%
+[2017-08-26 16:39:15.492]sub module info: modueID: 0x2c, firmwareVersion: 01.02.00.46, state:Version Match. (code 5), progress: 100%
+[2017-08-26 16:39:15.492]push upgrade progress: 42%
+[2017-08-26 16:39:15.492]upgrader state: 3, progress: 0.54
+[2017-08-26 16:39:15.493]group upgrader state: 3, progress: 0.54
+[2017-08-26 16:39:15.493]upgrade manager state 3, progress: 0.536000
+[2017-08-26 16:39:16.512]sub module info: modueID: 0x4c, firmwareVersion: 01.02.00.46, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:39:16.512]push upgrade progress: 42%
+[2017-08-26 16:39:16.512]upgrade manager state 3, progress: 0.536000
+[2017-08-26 16:39:18.509]sub module info: modueID: 0x4c, firmwareVersion: 01.02.00.46, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:39:18.509]push upgrade progress: 42%
+[2017-08-26 16:39:18.509]upgrader state: 3, progress: 0.54
+[2017-08-26 16:39:18.509]group upgrader state: 3, progress: 0.54
+[2017-08-26 16:39:18.510]upgrade manager state 3, progress: 0.536000
+[2017-08-26 16:39:18.551]sub module info: modueID: 0x4c, firmwareVersion: 01.02.00.46, state:Version Match. (code 5), progress: 100%
+[2017-08-26 16:39:18.551]push upgrade progress: 45%
+[2017-08-26 16:39:20.557]sub module info: modueID: 0x4c, firmwareVersion: 01.02.00.46, state:Version Match. (code 5), progress: 100%
+[2017-08-26 16:39:20.557]push upgrade progress: 45%
+[2017-08-26 16:39:20.557]upgrade manager state 3, progress: 0.560000
+[2017-08-26 16:39:21.574]sub module info: modueID: 0x6c, firmwareVersion: 01.02.00.46, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:39:21.575]push upgrade progress: 45%
+[2017-08-26 16:39:21.575]upgrader state: 3, progress: 0.56
+[2017-08-26 16:39:21.575]group upgrader state: 3, progress: 0.56
+[2017-08-26 16:39:21.575]upgrade manager state 3, progress: 0.560000
+[2017-08-26 16:39:23.575]sub module info: modueID: 0x6c, firmwareVersion: 01.02.00.46, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:39:23.575]push upgrade progress: 45%
+[2017-08-26 16:39:23.576]upgrade manager state 3, progress: 0.560000
+[2017-08-26 16:39:23.615]sub module info: modueID: 0x6c, firmwareVersion: 01.02.00.46, state:Version Match. (code 5), progress: 100%
+[2017-08-26 16:39:23.615]push upgrade progress: 48%
+[2017-08-26 16:39:25.607]sub module info: modueID: 0x6c, firmwareVersion: 01.02.00.46, state:Version Match. (code 5), progress: 100%
+[2017-08-26 16:39:25.607]push upgrade progress: 48%
+[2017-08-26 16:39:25.607]upgrader state: 3, progress: 0.58
+[2017-08-26 16:39:25.607]group upgrader state: 3, progress: 0.58
+[2017-08-26 16:39:25.608]upgrade manager state 3, progress: 0.584000
+[2017-08-26 16:39:26.633]sub module info: modueID: 0x04, firmwareVersion: 01.00.00.32, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:39:26.633]push upgrade progress: 48%
+[2017-08-26 16:39:26.633]upgrade manager state 3, progress: 0.584000
+[2017-08-26 16:39:28.624]sub module info: modueID: 0x04, firmwareVersion: 01.00.00.32, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:39:28.624]push upgrade progress: 48%
+[2017-08-26 16:39:28.625]upgrader state: 3, progress: 0.58
+[2017-08-26 16:39:28.625]group upgrader state: 3, progress: 0.58
+[2017-08-26 16:39:28.625]upgrade manager state 3, progress: 0.584000
+[2017-08-26 16:39:30.632]sub module info: modueID: 0x04, firmwareVersion: 01.00.00.32, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:39:30.632]push upgrade progress: 48%
+[2017-08-26 16:39:30.633]upgrade manager state 3, progress: 0.584000
+[2017-08-26 16:39:32.623]sub module info: modueID: 0x04, firmwareVersion: 01.00.00.32, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:39:32.623]push upgrade progress: 48%
+[2017-08-26 16:39:32.623]upgrader state: 3, progress: 0.58
+[2017-08-26 16:39:32.623]group upgrader state: 3, progress: 0.58
+[2017-08-26 16:39:32.624]upgrade manager state 3, progress: 0.584000
+[2017-08-26 16:39:34.642]sub module info: modueID: 0x04, firmwareVersion: 01.00.00.32, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:39:34.642]push upgrade progress: 48%
+[2017-08-26 16:39:34.642]upgrade manager state 3, progress: 0.584000
+[2017-08-26 16:39:35.634]sub module info: modueID: 0x04, firmwareVersion: 01.00.00.77, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:39:35.635]push upgrade progress: 52%
+[2017-08-26 16:39:35.635]upgrader state: 3, progress: 0.62
+[2017-08-26 16:39:35.635]group upgrader state: 3, progress: 0.62
+[2017-08-26 16:39:37.640]sub module info: modueID: 0x04, firmwareVersion: 01.00.00.77, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:39:37.640]push upgrade progress: 52%
+[2017-08-26 16:39:37.641]upgrade manager state 3, progress: 0.616000
+[2017-08-26 16:39:39.637]sub module info: modueID: 0x04, firmwareVersion: 01.00.00.77, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:39:39.637]push upgrade progress: 52%
+[2017-08-26 16:39:39.640]upgrader state: 3, progress: 0.62
+[2017-08-26 16:39:39.640]group upgrader state: 3, progress: 0.62
+[2017-08-26 16:39:39.640]upgrade manager state 3, progress: 0.616000
+[2017-08-26 16:39:41.634]sub module info: modueID: 0x04, firmwareVersion: 01.00.00.77, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:39:41.634]push upgrade progress: 52%
+[2017-08-26 16:39:41.634]upgrade manager state 3, progress: 0.616000
+[2017-08-26 16:39:43.642]sub module info: modueID: 0x04, firmwareVersion: 01.00.00.77, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:39:43.643]push upgrade progress: 52%
+[2017-08-26 16:39:43.643]upgrader state: 3, progress: 0.62
+[2017-08-26 16:39:43.643]group upgrader state: 3, progress: 0.62
+[2017-08-26 16:39:43.643]upgrade manager state 3, progress: 0.616000
+[2017-08-26 16:39:44.635]sub module info: modueID: 0x24, firmwareVersion: 01.06.19.17, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:39:44.635]push upgrade progress: 55%
+[2017-08-26 16:39:46.645]sub module info: modueID: 0x24, firmwareVersion: 01.06.19.17, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:39:46.645]push upgrade progress: 55%
+[2017-08-26 16:39:46.645]upgrader state: 3, progress: 0.64
+[2017-08-26 16:39:46.645]group upgrader state: 3, progress: 0.64
+[2017-08-26 16:39:46.646]upgrade manager state 3, progress: 0.640000
+[2017-08-26 16:39:48.643]sub module info: modueID: 0x24, firmwareVersion: 01.06.19.17, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:39:48.644]push upgrade progress: 55%
+[2017-08-26 16:39:48.644]upgrade manager state 3, progress: 0.640000
+[2017-08-26 16:39:50.635]sub module info: modueID: 0x24, firmwareVersion: 01.06.19.17, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:39:50.636]push upgrade progress: 55%
+[2017-08-26 16:39:50.636]upgrader state: 3, progress: 0.64
+[2017-08-26 16:39:50.636]group upgrader state: 3, progress: 0.64
+[2017-08-26 16:39:50.636]upgrade manager state 3, progress: 0.640000
+[2017-08-26 16:39:52.644]sub module info: modueID: 0x24, firmwareVersion: 01.06.19.17, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:39:52.644]push upgrade progress: 55%
+[2017-08-26 16:39:52.644]upgrade manager state 3, progress: 0.640000
+[2017-08-26 16:39:54.644]sub module info: modueID: 0x24, firmwareVersion: 01.06.19.17, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:39:54.644]push upgrade progress: 55%
+[2017-08-26 16:39:54.645]upgrader state: 3, progress: 0.64
+[2017-08-26 16:39:54.645]group upgrader state: 3, progress: 0.64
+[2017-08-26 16:39:54.645]upgrade manager state 3, progress: 0.640000
+[2017-08-26 16:39:55.652]sub module info: modueID: 0x24, firmwareVersion: 01.06.19.17, state:Skip. (code 4), progress: 0%
+[2017-08-26 16:39:55.653]push upgrade progress: 55%
+[2017-08-26 16:39:55.653]upgrade manager state 3, progress: 0.640000
+[2017-08-26 16:39:57.654]sub module info: modueID: 0x24, firmwareVersion: 01.06.19.17, state:Skip. (code 4), progress: 0%
+[2017-08-26 16:39:57.654]push upgrade progress: 55%
+[2017-08-26 16:39:57.655]upgrader state: 3, progress: 0.64
+[2017-08-26 16:39:57.655]group upgrader state: 3, progress: 0.64
+[2017-08-26 16:39:57.655]upgrade manager state 3, progress: 0.640000
+[2017-08-26 16:39:58.666]sub module info: modueID: 0x84, firmwareVersion: 00.00.00.27, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:39:58.667]push upgrade progress: 58%
+[2017-08-26 16:39:58.667]upgrade manager state 3, progress: 0.664000
+[2017-08-26 16:40:00.666]sub module info: modueID: 0x84, firmwareVersion: 00.00.00.27, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:40:00.666]push upgrade progress: 58%
+[2017-08-26 16:40:00.667]upgrader state: 3, progress: 0.66
+[2017-08-26 16:40:00.667]group upgrader state: 3, progress: 0.66
+[2017-08-26 16:40:00.667]upgrade manager state 3, progress: 0.664000
+[2017-08-26 16:40:00.692]sub module info: modueID: 0x84, firmwareVersion: 00.00.00.27, state:Version Match. (code 5), progress: 100%
+[2017-08-26 16:40:00.692]push upgrade progress: 61%
+[2017-08-26 16:40:02.692]sub module info: modueID: 0x84, firmwareVersion: 00.00.00.27, state:Version Match. (code 5), progress: 100%
+[2017-08-26 16:40:02.693]push upgrade progress: 61%
+[2017-08-26 16:40:02.693]upgrade manager state 3, progress: 0.688000
+[2017-08-26 16:40:03.721]sub module info: modueID: 0x05, firmwareVersion: 01.00.01.15, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:40:03.721]push upgrade progress: 61%
+[2017-08-26 16:40:03.722]upgrader state: 3, progress: 0.69
+[2017-08-26 16:40:03.722]group upgrader state: 3, progress: 0.69
+[2017-08-26 16:40:03.722]upgrade manager state 3, progress: 0.688000
+[2017-08-26 16:40:05.720]sub module info: modueID: 0x05, firmwareVersion: 01.00.01.15, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:40:05.720]push upgrade progress: 61%
+[2017-08-26 16:40:05.721]upgrade manager state 3, progress: 0.688000
+[2017-08-26 16:40:07.719]sub module info: modueID: 0x05, firmwareVersion: 01.00.01.15, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:40:07.720]push upgrade progress: 61%
+[2017-08-26 16:40:07.720]upgrader state: 3, progress: 0.69
+[2017-08-26 16:40:07.720]group upgrader state: 3, progress: 0.69
+[2017-08-26 16:40:07.720]upgrade manager state 3, progress: 0.688000
+[2017-08-26 16:40:09.718]sub module info: modueID: 0x05, firmwareVersion: 01.00.01.15, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:40:09.718]push upgrade progress: 61%
+[2017-08-26 16:40:09.718]upgrade manager state 3, progress: 0.688000
+[2017-08-26 16:40:11.716]sub module info: modueID: 0x05, firmwareVersion: 01.00.01.15, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:40:11.716]push upgrade progress: 61%
+[2017-08-26 16:40:11.716]upgrader state: 3, progress: 0.69
+[2017-08-26 16:40:11.717]group upgrader state: 3, progress: 0.69
+[2017-08-26 16:40:11.717]upgrade manager state 3, progress: 0.688000
+[2017-08-26 16:40:13.720]sub module info: modueID: 0x05, firmwareVersion: 01.00.01.15, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:40:13.720]push upgrade progress: 61%
+[2017-08-26 16:40:13.720]upgrade manager state 3, progress: 0.688000
+[2017-08-26 16:40:15.710]sub module info: modueID: 0x05, firmwareVersion: 01.00.01.15, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:40:15.711]push upgrade progress: 61%
+[2017-08-26 16:40:15.711]upgrader state: 3, progress: 0.69
+[2017-08-26 16:40:15.711]group upgrader state: 3, progress: 0.69
+[2017-08-26 16:40:15.711]upgrade manager state 3, progress: 0.688000
+[2017-08-26 16:40:17.617]sub module info: modueID: 0x05, firmwareVersion: 01.00.01.15, state:Upgrading. (code 1), progress: 5%
+[2017-08-26 16:40:17.617]push upgrade progress: 61%
+[2017-08-26 16:40:17.617]upgrade manager state 3, progress: 0.688000
+[2017-08-26 16:40:18.538]sub module info: modueID: 0x05, firmwareVersion: 01.00.01.15, state:Upgrading. (code 1), progress: 10%
+[2017-08-26 16:40:18.538]push upgrade progress: 61%
+[2017-08-26 16:40:19.580]sub module info: modueID: 0x05, firmwareVersion: 01.00.01.15, state:Upgrading. (code 1), progress: 15%
+[2017-08-26 16:40:19.580]push upgrade progress: 61%
+[2017-08-26 16:40:19.580]upgrader state: 3, progress: 0.69
+[2017-08-26 16:40:19.580]group upgrader state: 3, progress: 0.69
+[2017-08-26 16:40:19.580]upgrade manager state 3, progress: 0.688000
+[2017-08-26 16:40:20.642]sub module info: modueID: 0x05, firmwareVersion: 01.00.01.15, state:Upgrading. (code 1), progress: 20%
+[2017-08-26 16:40:20.642]push upgrade progress: 61%
+[2017-08-26 16:40:20.642]upgrade manager state 3, progress: 0.688000
+[2017-08-26 16:40:21.542]sub module info: modueID: 0x05, firmwareVersion: 01.00.01.15, state:Upgrading. (code 1), progress: 25%
+[2017-08-26 16:40:21.542]push upgrade progress: 62%
+[2017-08-26 16:40:22.495]sub module info: modueID: 0x05, firmwareVersion: 01.00.01.15, state:Upgrading. (code 1), progress: 30%
+[2017-08-26 16:40:22.495]push upgrade progress: 62%
+[2017-08-26 16:40:22.495]upgrade manager state 3, progress: 0.696000
+[2017-08-26 16:40:23.489]sub module info: modueID: 0x05, firmwareVersion: 01.00.01.15, state:Upgrading. (code 1), progress: 35%
+[2017-08-26 16:40:23.489]push upgrade progress: 62%
+[2017-08-26 16:40:23.489]upgrader state: 3, progress: 0.70
+[2017-08-26 16:40:23.489]group upgrader state: 3, progress: 0.70
+[2017-08-26 16:40:24.414]sub module info: modueID: 0x05, firmwareVersion: 01.00.01.15, state:Upgrading. (code 1), progress: 40%
+[2017-08-26 16:40:24.414]push upgrade progress: 62%
+[2017-08-26 16:40:24.414]upgrade manager state 3, progress: 0.696000
+[2017-08-26 16:40:25.374]sub module info: modueID: 0x05, firmwareVersion: 01.00.01.15, state:Upgrading. (code 1), progress: 45%
+[2017-08-26 16:40:25.375]push upgrade progress: 62%
+[2017-08-26 16:40:26.397]sub module info: modueID: 0x05, firmwareVersion: 01.00.01.15, state:Upgrading. (code 1), progress: 50%
+[2017-08-26 16:40:26.397]push upgrade progress: 63%
+[2017-08-26 16:40:26.397]upgrade manager state 3, progress: 0.704000
+[2017-08-26 16:40:27.328]sub module info: modueID: 0x05, firmwareVersion: 01.00.01.15, state:Upgrading. (code 1), progress: 55%
+[2017-08-26 16:40:27.329]push upgrade progress: 63%
+[2017-08-26 16:40:27.329]upgrader state: 3, progress: 0.70
+[2017-08-26 16:40:27.329]group upgrader state: 3, progress: 0.70
+[2017-08-26 16:40:29.337]sub module info: modueID: 0x05, firmwareVersion: 01.00.01.15, state:Upgrading. (code 1), progress: 55%
+[2017-08-26 16:40:29.337]push upgrade progress: 63%
+[2017-08-26 16:40:29.337]upgrade manager state 3, progress: 0.704000
+[2017-08-26 16:40:31.337]sub module info: modueID: 0x05, firmwareVersion: 01.00.01.15, state:Upgrading. (code 1), progress: 55%
+[2017-08-26 16:40:31.337]push upgrade progress: 63%
+[2017-08-26 16:40:31.337]upgrader state: 3, progress: 0.70
+[2017-08-26 16:40:31.337]group upgrader state: 3, progress: 0.70
+[2017-08-26 16:40:31.337]upgrade manager state 3, progress: 0.704000
+[2017-08-26 16:40:33.631]sub module info: modueID: 0x05, firmwareVersion: 01.00.01.15, state:Upgrading. (code 1), progress: 55%
+[2017-08-26 16:40:33.631]push upgrade progress: 63%
+[2017-08-26 16:40:33.631]upgrade manager state 3, progress: 0.704000
+[2017-08-26 16:40:33.816]sub module info: modueID: 0x05, firmwareVersion: 01.00.01.15, state:Version Match. (code 5), progress: 100%
+[2017-08-26 16:40:33.816]push upgrade progress: 64%
+[2017-08-26 16:40:35.818]sub module info: modueID: 0x05, firmwareVersion: 01.00.01.15, state:Version Match. (code 5), progress: 100%
+[2017-08-26 16:40:35.818]push upgrade progress: 64%
+[2017-08-26 16:40:35.818]upgrader state: 3, progress: 0.71
+[2017-08-26 16:40:35.818]group upgrader state: 3, progress: 0.71
+[2017-08-26 16:40:35.818]upgrade manager state 3, progress: 0.712000
+[2017-08-26 16:40:36.844]sub module info: modueID: 0x25, firmwareVersion: 00.01.00.09, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:40:36.845]push upgrade progress: 64%
+[2017-08-26 16:40:36.845]upgrade manager state 3, progress: 0.712000
+[2017-08-26 16:40:38.837]sub module info: modueID: 0x25, firmwareVersion: 00.01.00.09, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:40:38.838]push upgrade progress: 64%
+[2017-08-26 16:40:38.838]upgrader state: 3, progress: 0.71
+[2017-08-26 16:40:38.838]group upgrader state: 3, progress: 0.71
+[2017-08-26 16:40:38.838]upgrade manager state 3, progress: 0.712000
+[2017-08-26 16:40:38.915]sub module info: modueID: 0x25, firmwareVersion: 00.01.00.09, state:Version Match. (code 5), progress: 100%
+[2017-08-26 16:40:38.915]push upgrade progress: 68%
+[2017-08-26 16:40:40.916]sub module info: modueID: 0x25, firmwareVersion: 00.01.00.09, state:Version Match. (code 5), progress: 100%
+[2017-08-26 16:40:40.916]push upgrade progress: 68%
+[2017-08-26 16:40:40.917]upgrade manager state 3, progress: 0.744000
+[2017-08-26 16:40:41.936]sub module info: modueID: 0x2b, firmwareVersion: 01.00.00.41, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:40:41.937]push upgrade progress: 68%
+[2017-08-26 16:40:41.937]upgrader state: 3, progress: 0.74
+[2017-08-26 16:40:41.937]group upgrader state: 3, progress: 0.74
+[2017-08-26 16:40:41.937]upgrade manager state 3, progress: 0.744000
+[2017-08-26 16:40:43.939]sub module info: modueID: 0x2b, firmwareVersion: 01.00.00.41, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:40:43.939]push upgrade progress: 68%
+[2017-08-26 16:40:43.939]upgrade manager state 3, progress: 0.744000
+[2017-08-26 16:40:45.943]sub module info: modueID: 0x2b, firmwareVersion: 01.00.00.41, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:40:45.944]push upgrade progress: 68%
+[2017-08-26 16:40:45.944]upgrader state: 3, progress: 0.74
+[2017-08-26 16:40:45.944]group upgrader state: 3, progress: 0.74
+[2017-08-26 16:40:45.944]upgrade manager state 3, progress: 0.744000
+[2017-08-26 16:40:47.940]sub module info: modueID: 0x2b, firmwareVersion: 01.00.00.41, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:40:47.940]push upgrade progress: 68%
+[2017-08-26 16:40:47.940]upgrade manager state 3, progress: 0.744000
+[2017-08-26 16:40:49.944]sub module info: modueID: 0x2b, firmwareVersion: 01.00.00.41, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:40:49.944]push upgrade progress: 68%
+[2017-08-26 16:40:49.944]upgrader state: 3, progress: 0.74
+[2017-08-26 16:40:49.944]group upgrader state: 3, progress: 0.74
+[2017-08-26 16:40:49.944]upgrade manager state 3, progress: 0.744000
+[2017-08-26 16:40:51.940]sub module info: modueID: 0x2b, firmwareVersion: 01.00.00.41, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:40:51.941]push upgrade progress: 68%
+[2017-08-26 16:40:51.941]upgrade manager state 3, progress: 0.744000
+[2017-08-26 16:40:53.938]sub module info: modueID: 0x2b, firmwareVersion: 01.00.00.41, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:40:53.938]push upgrade progress: 68%
+[2017-08-26 16:40:53.938]upgrader state: 3, progress: 0.74
+[2017-08-26 16:40:53.938]group upgrader state: 3, progress: 0.74
+[2017-08-26 16:40:53.939]upgrade manager state 3, progress: 0.744000
+[2017-08-26 16:40:55.937]sub module info: modueID: 0x2b, firmwareVersion: 01.00.00.41, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:40:55.937]push upgrade progress: 68%
+[2017-08-26 16:40:55.938]upgrade manager state 3, progress: 0.744000
+[2017-08-26 16:40:56.157]sub module info: modueID: 0x2b, firmwareVersion: 01.00.00.41, state:Upgrading. (code 1), progress: 5%
+[2017-08-26 16:40:56.157]push upgrade progress: 68%
+[2017-08-26 16:40:57.004]sub module info: modueID: 0x2b, firmwareVersion: 01.00.00.41, state:Upgrading. (code 1), progress: 10%
+[2017-08-26 16:40:57.004]push upgrade progress: 68%
+[2017-08-26 16:40:57.004]upgrader state: 3, progress: 0.74
+[2017-08-26 16:40:57.004]group upgrader state: 3, progress: 0.74
+[2017-08-26 16:40:57.005]upgrade manager state 3, progress: 0.744000
+[2017-08-26 16:40:57.823]sub module info: modueID: 0x2b, firmwareVersion: 01.00.00.41, state:Upgrading. (code 1), progress: 15%
+[2017-08-26 16:40:57.823]push upgrade progress: 68%
+[2017-08-26 16:40:58.755]sub module info: modueID: 0x2b, firmwareVersion: 01.00.00.41, state:Upgrading. (code 1), progress: 20%
+[2017-08-26 16:40:58.755]push upgrade progress: 68%
+[2017-08-26 16:40:58.755]upgrade manager state 3, progress: 0.744000
+[2017-08-26 16:40:59.587]sub module info: modueID: 0x2b, firmwareVersion: 01.00.00.41, state:Upgrading. (code 1), progress: 25%
+[2017-08-26 16:40:59.587]push upgrade progress: 68%
+[2017-08-26 16:41:00.350]sub module info: modueID: 0x2b, firmwareVersion: 01.00.00.41, state:Upgrading. (code 1), progress: 30%
+[2017-08-26 16:41:00.351]push upgrade progress: 68%
+[2017-08-26 16:41:00.351]upgrader state: 3, progress: 0.74
+[2017-08-26 16:41:00.351]group upgrader state: 3, progress: 0.74
+[2017-08-26 16:41:00.351]upgrade manager state 3, progress: 0.744000
+[2017-08-26 16:41:01.251]sub module info: modueID: 0x2b, firmwareVersion: 01.00.00.41, state:Upgrading. (code 1), progress: 35%
+[2017-08-26 16:41:01.251]push upgrade progress: 68%
+[2017-08-26 16:41:02.141]sub module info: modueID: 0x2b, firmwareVersion: 01.00.00.41, state:Upgrading. (code 1), progress: 40%
+[2017-08-26 16:41:02.142]push upgrade progress: 68%
+[2017-08-26 16:41:02.142]upgrade manager state 3, progress: 0.744000
+[2017-08-26 16:41:02.945]sub module info: modueID: 0x2b, firmwareVersion: 01.00.00.41, state:Upgrading. (code 1), progress: 45%
+[2017-08-26 16:41:02.945]push upgrade progress: 68%
+[2017-08-26 16:41:03.883]sub module info: modueID: 0x2b, firmwareVersion: 01.00.00.41, state:Upgrading. (code 1), progress: 50%
+[2017-08-26 16:41:03.883]push upgrade progress: 69%
+[2017-08-26 16:41:03.883]upgrader state: 3, progress: 0.75
+[2017-08-26 16:41:03.883]group upgrader state: 3, progress: 0.75
+[2017-08-26 16:41:03.884]upgrade manager state 3, progress: 0.752000
+[2017-08-26 16:41:04.700]sub module info: modueID: 0x2b, firmwareVersion: 01.00.00.41, state:Upgrading. (code 1), progress: 55%
+[2017-08-26 16:41:04.700]push upgrade progress: 69%
+[2017-08-26 16:41:06.692]sub module info: modueID: 0x2b, firmwareVersion: 01.00.00.41, state:Upgrading. (code 1), progress: 55%
+[2017-08-26 16:41:06.692]push upgrade progress: 69%
+[2017-08-26 16:41:06.692]upgrade manager state 3, progress: 0.752000
+[2017-08-26 16:41:08.690]sub module info: modueID: 0x2b, firmwareVersion: 01.00.00.41, state:Upgrading. (code 1), progress: 55%
+[2017-08-26 16:41:08.691]push upgrade progress: 69%
+[2017-08-26 16:41:08.691]upgrader state: 3, progress: 0.75
+[2017-08-26 16:41:08.691]group upgrader state: 3, progress: 0.75
+[2017-08-26 16:41:08.691]upgrade manager state 3, progress: 0.752000
+[2017-08-26 16:41:10.704]sub module info: modueID: 0x2b, firmwareVersion: 01.00.00.41, state:Upgrading. (code 1), progress: 55%
+[2017-08-26 16:41:10.704]push upgrade progress: 69%
+[2017-08-26 16:41:10.704]upgrade manager state 3, progress: 0.752000
+[2017-08-26 16:41:10.767]sub module info: modueID: 0x2b, firmwareVersion: 01.00.00.41, state:Version Match. (code 5), progress: 100%
+[2017-08-26 16:41:10.767]push upgrade progress: 71%
+[2017-08-26 16:41:12.758]sub module info: modueID: 0x2b, firmwareVersion: 01.00.00.41, state:Version Match. (code 5), progress: 100%
+[2017-08-26 16:41:12.759]push upgrade progress: 71%
+[2017-08-26 16:41:12.759]upgrader state: 3, progress: 0.77
+[2017-08-26 16:41:12.759]group upgrader state: 3, progress: 0.77
+[2017-08-26 16:41:12.759]upgrade manager state 3, progress: 0.768000
+[2017-08-26 16:41:13.778]sub module info: modueID: 0x0b, firmwareVersion: 01.00.00.41, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:41:13.778]push upgrade progress: 71%
+[2017-08-26 16:41:13.778]upgrade manager state 3, progress: 0.768000
+[2017-08-26 16:41:15.786]sub module info: modueID: 0x0b, firmwareVersion: 01.00.00.41, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:41:15.786]push upgrade progress: 71%
+[2017-08-26 16:41:15.786]upgrader state: 3, progress: 0.77
+[2017-08-26 16:41:15.786]group upgrader state: 3, progress: 0.77
+[2017-08-26 16:41:15.786]upgrade manager state 3, progress: 0.768000
+[2017-08-26 16:41:17.782]sub module info: modueID: 0x0b, firmwareVersion: 01.00.00.41, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:41:17.783]push upgrade progress: 71%
+[2017-08-26 16:41:17.783]upgrade manager state 3, progress: 0.768000
+[2017-08-26 16:41:19.785]sub module info: modueID: 0x0b, firmwareVersion: 01.00.00.41, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:41:19.785]push upgrade progress: 71%
+[2017-08-26 16:41:19.785]upgrader state: 3, progress: 0.77
+[2017-08-26 16:41:19.785]group upgrader state: 3, progress: 0.77
+[2017-08-26 16:41:19.786]upgrade manager state 3, progress: 0.768000
+[2017-08-26 16:41:21.780]sub module info: modueID: 0x0b, firmwareVersion: 01.00.00.41, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:41:21.780]push upgrade progress: 71%
+[2017-08-26 16:41:21.780]upgrade manager state 3, progress: 0.768000
+[2017-08-26 16:41:23.784]sub module info: modueID: 0x0b, firmwareVersion: 01.00.00.41, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:41:23.784]push upgrade progress: 71%
+[2017-08-26 16:41:23.785]upgrader state: 3, progress: 0.77
+[2017-08-26 16:41:23.785]group upgrader state: 3, progress: 0.77
+[2017-08-26 16:41:23.785]upgrade manager state 3, progress: 0.768000
+[2017-08-26 16:41:25.782]sub module info: modueID: 0x0b, firmwareVersion: 01.00.00.41, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:41:25.782]push upgrade progress: 71%
+[2017-08-26 16:41:25.782]upgrade manager state 3, progress: 0.768000
+[2017-08-26 16:41:27.782]sub module info: modueID: 0x0b, firmwareVersion: 01.00.00.41, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:41:27.783]push upgrade progress: 71%
+[2017-08-26 16:41:27.783]upgrader state: 3, progress: 0.77
+[2017-08-26 16:41:27.783]group upgrader state: 3, progress: 0.77
+[2017-08-26 16:41:27.783]upgrade manager state 3, progress: 0.768000
+[2017-08-26 16:41:28.290]sub module info: modueID: 0x0b, firmwareVersion: 01.00.00.41, state:Upgrading. (code 1), progress: 5%
+[2017-08-26 16:41:28.291]push upgrade progress: 71%
+[2017-08-26 16:41:29.408]sub module info: modueID: 0x0b, firmwareVersion: 01.00.00.41, state:Upgrading. (code 1), progress: 10%
+[2017-08-26 16:41:29.408]push upgrade progress: 71%
+[2017-08-26 16:41:29.408]upgrade manager state 3, progress: 0.768000
+[2017-08-26 16:41:30.454]sub module info: modueID: 0x0b, firmwareVersion: 01.00.00.41, state:Upgrading. (code 1), progress: 15%
+[2017-08-26 16:41:30.454]push upgrade progress: 71%
+[2017-08-26 16:41:30.454]upgrade manager state 3, progress: 0.768000
+[2017-08-26 16:41:31.658]sub module info: modueID: 0x0b, firmwareVersion: 01.00.00.41, state:Upgrading. (code 1), progress: 20%
+[2017-08-26 16:41:31.659]push upgrade progress: 71%
+[2017-08-26 16:41:31.659]upgrader state: 3, progress: 0.77
+[2017-08-26 16:41:31.659]group upgrader state: 3, progress: 0.77
+[2017-08-26 16:41:31.659]upgrade manager state 3, progress: 0.768000
+[2017-08-26 16:41:32.694]sub module info: modueID: 0x0b, firmwareVersion: 01.00.00.41, state:Upgrading. (code 1), progress: 25%
+[2017-08-26 16:41:32.695]push upgrade progress: 72%
+[2017-08-26 16:41:32.695]upgrade manager state 3, progress: 0.776000
+[2017-08-26 16:41:33.734]sub module info: modueID: 0x0b, firmwareVersion: 01.00.00.41, state:Upgrading. (code 1), progress: 30%
+[2017-08-26 16:41:33.735]push upgrade progress: 72%
+[2017-08-26 16:41:33.735]upgrade manager state 3, progress: 0.776000
+[2017-08-26 16:41:34.934]sub module info: modueID: 0x0b, firmwareVersion: 01.00.00.41, state:Upgrading. (code 1), progress: 35%
+[2017-08-26 16:41:34.934]push upgrade progress: 72%
+[2017-08-26 16:41:34.935]upgrader state: 3, progress: 0.78
+[2017-08-26 16:41:34.935]group upgrader state: 3, progress: 0.78
+[2017-08-26 16:41:34.936]upgrade manager state 3, progress: 0.776000
+[2017-08-26 16:41:36.054]sub module info: modueID: 0x0b, firmwareVersion: 01.00.00.41, state:Upgrading. (code 1), progress: 40%
+[2017-08-26 16:41:36.054]push upgrade progress: 72%
+[2017-08-26 16:41:36.054]upgrade manager state 3, progress: 0.776000
+[2017-08-26 16:41:37.102]sub module info: modueID: 0x0b, firmwareVersion: 01.00.00.41, state:Upgrading. (code 1), progress: 45%
+[2017-08-26 16:41:37.102]push upgrade progress: 72%
+[2017-08-26 16:41:37.103]upgrade manager state 3, progress: 0.776000
+[2017-08-26 16:41:39.095]sub module info: modueID: 0x0b, firmwareVersion: 01.00.00.41, state:Upgrading. (code 1), progress: 45%
+[2017-08-26 16:41:39.095]push upgrade progress: 72%
+[2017-08-26 16:41:39.095]upgrader state: 3, progress: 0.78
+[2017-08-26 16:41:39.096]group upgrader state: 3, progress: 0.78
+[2017-08-26 16:41:39.096]upgrade manager state 3, progress: 0.776000
+[2017-08-26 16:41:40.090]sub module info: modueID: 0x0b, firmwareVersion: 01.00.00.41, state:Upgrading. (code 1), progress: 50%
+[2017-08-26 16:41:40.091]push upgrade progress: 72%
+[2017-08-26 16:41:41.129]sub module info: modueID: 0x0b, firmwareVersion: 01.00.00.41, state:Upgrading. (code 1), progress: 55%
+[2017-08-26 16:41:41.130]push upgrade progress: 72%
+[2017-08-26 16:41:41.130]upgrade manager state 3, progress: 0.776000
+[2017-08-26 16:41:43.140]sub module info: modueID: 0x0b, firmwareVersion: 01.00.00.41, state:Upgrading. (code 1), progress: 55%
+[2017-08-26 16:41:43.140]push upgrade progress: 72%
+[2017-08-26 16:41:43.140]upgrader state: 3, progress: 0.78
+[2017-08-26 16:41:43.140]group upgrader state: 3, progress: 0.78
+[2017-08-26 16:41:43.140]upgrade manager state 3, progress: 0.776000
+[2017-08-26 16:41:45.137]sub module info: modueID: 0x0b, firmwareVersion: 01.00.00.41, state:Upgrading. (code 1), progress: 55%
+[2017-08-26 16:41:45.137]push upgrade progress: 72%
+[2017-08-26 16:41:45.137]upgrade manager state 3, progress: 0.776000
+[2017-08-26 16:41:47.140]sub module info: modueID: 0x0b, firmwareVersion: 01.00.00.41, state:Upgrading. (code 1), progress: 55%
+[2017-08-26 16:41:47.140]push upgrade progress: 72%
+[2017-08-26 16:41:47.140]upgrader state: 3, progress: 0.78
+[2017-08-26 16:41:47.141]group upgrader state: 3, progress: 0.78
+[2017-08-26 16:41:47.141]upgrade manager state 3, progress: 0.776000
+[2017-08-26 16:41:47.403]sub module info: modueID: 0x0b, firmwareVersion: 01.00.00.41, state:Version Match. (code 5), progress: 100%
+[2017-08-26 16:41:47.403]push upgrade progress: 74%
+[2017-08-26 16:41:49.395]sub module info: modueID: 0x0b, firmwareVersion: 01.00.00.41, state:Version Match. (code 5), progress: 100%
+[2017-08-26 16:41:49.395]push upgrade progress: 74%
+[2017-08-26 16:41:49.396]upgrade manager state 3, progress: 0.792000
+[2017-08-26 16:41:50.418]sub module info: modueID: 0x01, firmwareVersion: 01.06.15.82, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:41:50.418]push upgrade progress: 74%
+[2017-08-26 16:41:50.419]upgrader state: 3, progress: 0.79
+[2017-08-26 16:41:50.419]group upgrader state: 3, progress: 0.79
+[2017-08-26 16:41:50.419]upgrade manager state 3, progress: 0.792000
+[2017-08-26 16:41:52.416]sub module info: modueID: 0x01, firmwareVersion: 01.06.15.82, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:41:52.416]push upgrade progress: 74%
+[2017-08-26 16:41:52.416]upgrade manager state 3, progress: 0.792000
+[2017-08-26 16:41:54.420]sub module info: modueID: 0x01, firmwareVersion: 01.06.15.82, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:41:54.420]push upgrade progress: 74%
+[2017-08-26 16:41:54.420]upgrader state: 3, progress: 0.79
+[2017-08-26 16:41:54.420]group upgrader state: 3, progress: 0.79
+[2017-08-26 16:41:54.420]upgrade manager state 3, progress: 0.792000
+[2017-08-26 16:41:56.418]sub module info: modueID: 0x01, firmwareVersion: 01.06.15.82, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:41:56.418]push upgrade progress: 74%
+[2017-08-26 16:41:56.418]upgrade manager state 3, progress: 0.792000
+[2017-08-26 16:41:58.419]sub module info: modueID: 0x01, firmwareVersion: 01.06.15.82, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:41:58.420]push upgrade progress: 74%
+[2017-08-26 16:41:58.420]upgrader state: 3, progress: 0.79
+[2017-08-26 16:41:58.420]group upgrader state: 3, progress: 0.79
+[2017-08-26 16:41:58.420]upgrade manager state 3, progress: 0.792000
+[2017-08-26 16:42:00.416]sub module info: modueID: 0x01, firmwareVersion: 01.06.15.82, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:42:00.417]push upgrade progress: 74%
+[2017-08-26 16:42:00.417]upgrade manager state 3, progress: 0.792000
+[2017-08-26 16:42:02.418]sub module info: modueID: 0x01, firmwareVersion: 01.06.15.82, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:42:02.418]push upgrade progress: 74%
+[2017-08-26 16:42:02.418]upgrader state: 3, progress: 0.79
+[2017-08-26 16:42:02.418]group upgrader state: 3, progress: 0.79
+[2017-08-26 16:42:02.418]upgrade manager state 3, progress: 0.792000
+[2017-08-26 16:42:04.424]sub module info: modueID: 0x01, firmwareVersion: 01.06.15.82, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:42:04.424]push upgrade progress: 74%
+[2017-08-26 16:42:04.424]upgrade manager state 3, progress: 0.792000
+[2017-08-26 16:42:06.424]sub module info: modueID: 0x01, firmwareVersion: 01.06.15.82, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:42:06.425]push upgrade progress: 74%
+[2017-08-26 16:42:06.425]upgrader state: 3, progress: 0.79
+[2017-08-26 16:42:06.425]group upgrader state: 3, progress: 0.79
+[2017-08-26 16:42:06.425]upgrade manager state 3, progress: 0.792000
+[2017-08-26 16:42:08.422]sub module info: modueID: 0x01, firmwareVersion: 01.06.15.82, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:42:08.422]push upgrade progress: 74%
+[2017-08-26 16:42:08.423]upgrade manager state 3, progress: 0.792000
+[2017-08-26 16:42:10.413]sub module info: modueID: 0x01, firmwareVersion: 01.06.15.82, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:42:10.414]push upgrade progress: 74%
+[2017-08-26 16:42:10.414]upgrader state: 3, progress: 0.79
+[2017-08-26 16:42:10.414]group upgrader state: 3, progress: 0.79
+[2017-08-26 16:42:10.414]upgrade manager state 3, progress: 0.792000
+[2017-08-26 16:42:12.417]sub module info: modueID: 0x01, firmwareVersion: 01.06.15.82, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:42:12.417]push upgrade progress: 74%
+[2017-08-26 16:42:12.417]upgrade manager state 3, progress: 0.792000
+[2017-08-26 16:42:14.424]sub module info: modueID: 0x01, firmwareVersion: 01.06.15.82, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:42:14.424]push upgrade progress: 74%
+[2017-08-26 16:42:14.424]upgrader state: 3, progress: 0.79
+[2017-08-26 16:42:14.424]group upgrader state: 3, progress: 0.79
+[2017-08-26 16:42:14.424]upgrade manager state 3, progress: 0.792000
+[2017-08-26 16:42:16.425]sub module info: modueID: 0x01, firmwareVersion: 01.06.15.82, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:42:16.426]push upgrade progress: 74%
+[2017-08-26 16:42:16.426]upgrade manager state 3, progress: 0.792000
+[2017-08-26 16:42:18.424]sub module info: modueID: 0x01, firmwareVersion: 01.06.15.82, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:42:18.424]push upgrade progress: 74%
+[2017-08-26 16:42:18.425]upgrader state: 3, progress: 0.79
+[2017-08-26 16:42:18.425]group upgrader state: 3, progress: 0.79
+[2017-08-26 16:42:18.425]upgrade manager state 3, progress: 0.792000
+[2017-08-26 16:42:20.429]sub module info: modueID: 0x01, firmwareVersion: 01.06.15.82, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:42:20.430]push upgrade progress: 74%
+[2017-08-26 16:42:20.430]upgrade manager state 3, progress: 0.792000
+[2017-08-26 16:42:22.439]sub module info: modueID: 0x01, firmwareVersion: 01.06.15.82, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:42:22.440]push upgrade progress: 74%
+[2017-08-26 16:42:22.440]upgrader state: 3, progress: 0.79
+[2017-08-26 16:42:22.440]group upgrader state: 3, progress: 0.79
+[2017-08-26 16:42:22.440]upgrade manager state 3, progress: 0.792000
+[2017-08-26 16:42:24.424]sub module info: modueID: 0x01, firmwareVersion: 01.06.15.82, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:42:24.424]push upgrade progress: 74%
+[2017-08-26 16:42:24.424]upgrade manager state 3, progress: 0.792000
+[2017-08-26 16:42:26.426]sub module info: modueID: 0x01, firmwareVersion: 01.06.15.82, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:42:26.427]push upgrade progress: 74%
+[2017-08-26 16:42:26.427]upgrader state: 3, progress: 0.79
+[2017-08-26 16:42:26.427]group upgrader state: 3, progress: 0.79
+[2017-08-26 16:42:26.427]upgrade manager state 3, progress: 0.792000
+[2017-08-26 16:42:28.426]sub module info: modueID: 0x01, firmwareVersion: 01.06.15.82, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:42:28.426]push upgrade progress: 74%
+[2017-08-26 16:42:28.426]upgrade manager state 3, progress: 0.792000
+[2017-08-26 16:42:30.424]sub module info: modueID: 0x01, firmwareVersion: 01.06.15.82, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:42:30.424]push upgrade progress: 74%
+[2017-08-26 16:42:30.425]upgrader state: 3, progress: 0.79
+[2017-08-26 16:42:30.425]group upgrader state: 3, progress: 0.79
+[2017-08-26 16:42:30.425]upgrade manager state 3, progress: 0.792000
+[2017-08-26 16:42:32.420]sub module info: modueID: 0x01, firmwareVersion: 01.06.15.82, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:42:32.420]push upgrade progress: 74%
+[2017-08-26 16:42:32.420]upgrade manager state 3, progress: 0.792000
+[2017-08-26 16:42:34.424]sub module info: modueID: 0x01, firmwareVersion: 01.06.15.82, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:42:34.424]push upgrade progress: 74%
+[2017-08-26 16:42:34.424]upgrader state: 3, progress: 0.79
+[2017-08-26 16:42:34.424]group upgrader state: 3, progress: 0.79
+[2017-08-26 16:42:34.424]upgrade manager state 3, progress: 0.792000
+[2017-08-26 16:42:36.419]sub module info: modueID: 0x01, firmwareVersion: 01.06.15.82, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:42:36.419]push upgrade progress: 74%
+[2017-08-26 16:42:36.420]upgrade manager state 3, progress: 0.792000
+[2017-08-26 16:42:38.424]sub module info: modueID: 0x01, firmwareVersion: 01.06.15.82, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:42:38.424]push upgrade progress: 74%
+[2017-08-26 16:42:38.424]upgrader state: 3, progress: 0.79
+[2017-08-26 16:42:38.425]group upgrader state: 3, progress: 0.79
+[2017-08-26 16:42:38.425]upgrade manager state 3, progress: 0.792000
+[2017-08-26 16:42:40.429]sub module info: modueID: 0x01, firmwareVersion: 01.06.15.82, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:42:40.429]push upgrade progress: 74%
+[2017-08-26 16:42:40.430]upgrade manager state 3, progress: 0.792000
+[2017-08-26 16:42:42.423]sub module info: modueID: 0x01, firmwareVersion: 01.06.15.82, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:42:42.423]push upgrade progress: 74%
+[2017-08-26 16:42:42.423]upgrader state: 3, progress: 0.79
+[2017-08-26 16:42:42.423]group upgrader state: 3, progress: 0.79
+[2017-08-26 16:42:42.423]upgrade manager state 3, progress: 0.792000
+[2017-08-26 16:42:44.432]sub module info: modueID: 0x01, firmwareVersion: 01.06.15.82, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:42:44.433]push upgrade progress: 74%
+[2017-08-26 16:42:44.433]upgrade manager state 3, progress: 0.792000
+[2017-08-26 16:42:46.429]sub module info: modueID: 0x01, firmwareVersion: 01.06.15.82, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:42:46.429]push upgrade progress: 74%
+[2017-08-26 16:42:46.429]upgrader state: 3, progress: 0.79
+[2017-08-26 16:42:46.429]group upgrader state: 3, progress: 0.79
+[2017-08-26 16:42:46.429]upgrade manager state 3, progress: 0.792000
+[2017-08-26 16:42:48.426]sub module info: modueID: 0x01, firmwareVersion: 01.06.15.82, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:42:48.427]push upgrade progress: 74%
+[2017-08-26 16:42:48.427]upgrade manager state 3, progress: 0.792000
+[2017-08-26 16:42:50.426]sub module info: modueID: 0x01, firmwareVersion: 01.06.15.82, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:42:50.427]push upgrade progress: 74%
+[2017-08-26 16:42:50.427]upgrader state: 3, progress: 0.79
+[2017-08-26 16:42:50.427]group upgrader state: 3, progress: 0.79
+[2017-08-26 16:42:50.427]upgrade manager state 3, progress: 0.792000
+[2017-08-26 16:42:52.430]sub module info: modueID: 0x01, firmwareVersion: 01.06.15.82, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:42:52.430]push upgrade progress: 74%
+[2017-08-26 16:42:52.430]upgrade manager state 3, progress: 0.792000
+[2017-08-26 16:42:54.431]sub module info: modueID: 0x01, firmwareVersion: 01.06.15.82, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:42:54.431]push upgrade progress: 74%
+[2017-08-26 16:42:54.431]upgrader state: 3, progress: 0.79
+[2017-08-26 16:42:54.431]group upgrader state: 3, progress: 0.79
+[2017-08-26 16:42:54.431]upgrade manager state 3, progress: 0.792000
+[2017-08-26 16:42:56.423]sub module info: modueID: 0x01, firmwareVersion: 01.06.15.82, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:42:56.423]push upgrade progress: 74%
+[2017-08-26 16:42:56.424]upgrade manager state 3, progress: 0.792000
+[2017-08-26 16:42:58.430]sub module info: modueID: 0x01, firmwareVersion: 01.06.15.82, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:42:58.430]push upgrade progress: 74%
+[2017-08-26 16:42:58.430]upgrader state: 3, progress: 0.79
+[2017-08-26 16:42:58.430]group upgrader state: 3, progress: 0.79
+[2017-08-26 16:42:58.430]upgrade manager state 3, progress: 0.792000
+[2017-08-26 16:43:00.427]sub module info: modueID: 0x01, firmwareVersion: 01.06.15.82, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:43:00.427]push upgrade progress: 74%
+[2017-08-26 16:43:00.427]upgrade manager state 3, progress: 0.792000
+[2017-08-26 16:43:02.425]sub module info: modueID: 0x01, firmwareVersion: 01.06.15.82, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:43:02.425]push upgrade progress: 74%
+[2017-08-26 16:43:02.425]upgrader state: 3, progress: 0.79
+[2017-08-26 16:43:02.425]group upgrader state: 3, progress: 0.79
+[2017-08-26 16:43:02.426]upgrade manager state 3, progress: 0.792000
+[2017-08-26 16:43:04.425]sub module info: modueID: 0x01, firmwareVersion: 01.06.15.82, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:43:04.425]push upgrade progress: 74%
+[2017-08-26 16:43:04.425]upgrade manager state 3, progress: 0.792000
+[2017-08-26 16:43:06.425]sub module info: modueID: 0x01, firmwareVersion: 01.06.15.82, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:43:06.425]push upgrade progress: 74%
+[2017-08-26 16:43:06.425]upgrader state: 3, progress: 0.79
+[2017-08-26 16:43:06.425]group upgrader state: 3, progress: 0.79
+[2017-08-26 16:43:06.425]upgrade manager state 3, progress: 0.792000
+[2017-08-26 16:43:08.424]sub module info: modueID: 0x01, firmwareVersion: 01.06.15.82, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:43:08.424]push upgrade progress: 74%
+[2017-08-26 16:43:08.424]upgrade manager state 3, progress: 0.792000
+[2017-08-26 16:43:10.424]sub module info: modueID: 0x01, firmwareVersion: 01.06.15.82, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:43:10.424]push upgrade progress: 74%
+[2017-08-26 16:43:10.424]upgrader state: 3, progress: 0.79
+[2017-08-26 16:43:10.424]group upgrader state: 3, progress: 0.79
+[2017-08-26 16:43:10.425]upgrade manager state 3, progress: 0.792000
+[2017-08-26 16:43:12.436]sub module info: modueID: 0x01, firmwareVersion: 01.06.15.82, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:43:12.436]push upgrade progress: 74%
+[2017-08-26 16:43:12.436]upgrade manager state 3, progress: 0.792000
+[2017-08-26 16:43:14.439]sub module info: modueID: 0x01, firmwareVersion: 01.06.15.82, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:43:14.439]push upgrade progress: 74%
+[2017-08-26 16:43:14.440]upgrader state: 3, progress: 0.79
+[2017-08-26 16:43:14.440]group upgrader state: 3, progress: 0.79
+[2017-08-26 16:43:14.440]upgrade manager state 3, progress: 0.792000
+[2017-08-26 16:43:16.427]sub module info: modueID: 0x01, firmwareVersion: 01.06.15.82, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:43:16.427]push upgrade progress: 74%
+[2017-08-26 16:43:16.428]upgrade manager state 3, progress: 0.792000
+[2017-08-26 16:43:18.435]sub module info: modueID: 0x01, firmwareVersion: 01.06.15.82, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:43:18.435]push upgrade progress: 74%
+[2017-08-26 16:43:18.436]upgrader state: 3, progress: 0.79
+[2017-08-26 16:43:18.436]group upgrader state: 3, progress: 0.79
+[2017-08-26 16:43:18.436]upgrade manager state 3, progress: 0.792000
+[2017-08-26 16:43:20.433]sub module info: modueID: 0x01, firmwareVersion: 01.06.15.82, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:43:20.433]push upgrade progress: 74%
+[2017-08-26 16:43:20.433]upgrade manager state 3, progress: 0.792000
+[2017-08-26 16:43:22.432]sub module info: modueID: 0x01, firmwareVersion: 01.06.15.82, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:43:22.433]push upgrade progress: 74%
+[2017-08-26 16:43:22.433]upgrader state: 3, progress: 0.79
+[2017-08-26 16:43:22.433]group upgrader state: 3, progress: 0.79
+[2017-08-26 16:43:22.433]upgrade manager state 3, progress: 0.792000
+[2017-08-26 16:43:24.474]sub module info: modueID: 0x01, firmwareVersion: 01.06.15.82, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:43:24.474]push upgrade progress: 74%
+[2017-08-26 16:43:24.475]upgrade manager state 3, progress: 0.792000
+[2017-08-26 16:43:26.466]sub module info: modueID: 0x01, firmwareVersion: 01.06.15.82, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:43:26.467]push upgrade progress: 74%
+[2017-08-26 16:43:26.467]upgrader state: 3, progress: 0.79
+[2017-08-26 16:43:26.467]group upgrader state: 3, progress: 0.79
+[2017-08-26 16:43:26.467]upgrade manager state 3, progress: 0.792000
+[2017-08-26 16:43:28.463]sub module info: modueID: 0x01, firmwareVersion: 01.06.15.82, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:43:28.463]push upgrade progress: 74%
+[2017-08-26 16:43:28.463]upgrade manager state 3, progress: 0.792000
+[2017-08-26 16:43:30.464]sub module info: modueID: 0x01, firmwareVersion: 01.06.15.82, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:43:30.464]push upgrade progress: 74%
+[2017-08-26 16:43:30.464]upgrader state: 3, progress: 0.79
+[2017-08-26 16:43:30.464]group upgrader state: 3, progress: 0.79
+[2017-08-26 16:43:30.464]upgrade manager state 3, progress: 0.792000
+[2017-08-26 16:43:32.466]sub module info: modueID: 0x01, firmwareVersion: 01.06.15.82, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:43:32.466]push upgrade progress: 74%
+[2017-08-26 16:43:32.466]upgrade manager state 3, progress: 0.792000
+[2017-08-26 16:43:34.468]sub module info: modueID: 0x01, firmwareVersion: 01.06.15.82, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:43:34.468]push upgrade progress: 74%
+[2017-08-26 16:43:34.468]upgrader state: 3, progress: 0.79
+[2017-08-26 16:43:34.468]group upgrader state: 3, progress: 0.79
+[2017-08-26 16:43:34.468]upgrade manager state 3, progress: 0.792000
+[2017-08-26 16:43:36.468]sub module info: modueID: 0x01, firmwareVersion: 01.06.15.82, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:43:36.468]push upgrade progress: 74%
+[2017-08-26 16:43:36.468]upgrade manager state 3, progress: 0.792000
+[2017-08-26 16:43:38.467]sub module info: modueID: 0x01, firmwareVersion: 01.06.15.82, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:43:38.467]push upgrade progress: 74%
+[2017-08-26 16:43:38.467]upgrader state: 3, progress: 0.79
+[2017-08-26 16:43:38.467]group upgrader state: 3, progress: 0.79
+[2017-08-26 16:43:38.468]upgrade manager state 3, progress: 0.792000
+[2017-08-26 16:43:40.466]sub module info: modueID: 0x01, firmwareVersion: 01.06.15.82, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:43:40.467]push upgrade progress: 74%
+[2017-08-26 16:43:40.467]upgrade manager state 3, progress: 0.792000
+[2017-08-26 16:43:42.462]sub module info: modueID: 0x01, firmwareVersion: 01.06.15.82, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:43:42.463]push upgrade progress: 74%
+[2017-08-26 16:43:42.463]upgrader state: 3, progress: 0.79
+[2017-08-26 16:43:42.463]group upgrader state: 3, progress: 0.79
+[2017-08-26 16:43:42.463]upgrade manager state 3, progress: 0.792000
+[2017-08-26 16:43:44.461]sub module info: modueID: 0x01, firmwareVersion: 01.06.15.82, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:43:44.462]push upgrade progress: 74%
+[2017-08-26 16:43:44.462]upgrade manager state 3, progress: 0.792000
+[2017-08-26 16:43:46.472]sub module info: modueID: 0x01, firmwareVersion: 01.06.15.82, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:43:46.472]push upgrade progress: 74%
+[2017-08-26 16:43:46.472]upgrader state: 3, progress: 0.79
+[2017-08-26 16:43:46.472]group upgrader state: 3, progress: 0.79
+[2017-08-26 16:43:46.472]upgrade manager state 3, progress: 0.792000
+[2017-08-26 16:43:48.476]sub module info: modueID: 0x01, firmwareVersion: 01.06.15.82, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:43:48.476]push upgrade progress: 74%
+[2017-08-26 16:43:48.476]upgrade manager state 3, progress: 0.792000
+[2017-08-26 16:43:50.475]sub module info: modueID: 0x01, firmwareVersion: 01.06.15.82, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:43:50.476]push upgrade progress: 74%
+[2017-08-26 16:43:50.476]upgrader state: 3, progress: 0.79
+[2017-08-26 16:43:50.476]group upgrader state: 3, progress: 0.79
+[2017-08-26 16:43:50.476]upgrade manager state 3, progress: 0.792000
+[2017-08-26 16:43:52.464]sub module info: modueID: 0x01, firmwareVersion: 01.06.15.82, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:43:52.464]push upgrade progress: 74%
+[2017-08-26 16:43:52.464]upgrade manager state 3, progress: 0.792000
+[2017-08-26 16:43:54.476]sub module info: modueID: 0x01, firmwareVersion: 01.06.15.82, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:43:54.476]push upgrade progress: 74%
+[2017-08-26 16:43:54.476]upgrader state: 3, progress: 0.79
+[2017-08-26 16:43:54.477]group upgrader state: 3, progress: 0.79
+[2017-08-26 16:43:54.477]upgrade manager state 3, progress: 0.792000
+[2017-08-26 16:43:56.468]sub module info: modueID: 0x01, firmwareVersion: 01.06.15.82, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:43:56.468]push upgrade progress: 74%
+[2017-08-26 16:43:56.468]upgrade manager state 3, progress: 0.792000
+[2017-08-26 16:43:58.470]sub module info: modueID: 0x01, firmwareVersion: 01.06.15.82, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:43:58.470]push upgrade progress: 74%
+[2017-08-26 16:43:58.470]upgrader state: 3, progress: 0.79
+[2017-08-26 16:43:58.470]group upgrader state: 3, progress: 0.79
+[2017-08-26 16:43:58.470]upgrade manager state 3, progress: 0.792000
+[2017-08-26 16:44:00.464]sub module info: modueID: 0x01, firmwareVersion: 01.06.15.82, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:44:00.464]push upgrade progress: 74%
+[2017-08-26 16:44:00.464]upgrade manager state 3, progress: 0.792000
+[2017-08-26 16:44:02.469]sub module info: modueID: 0x01, firmwareVersion: 01.06.15.82, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:44:02.469]push upgrade progress: 74%
+[2017-08-26 16:44:02.469]upgrader state: 3, progress: 0.79
+[2017-08-26 16:44:02.470]group upgrader state: 3, progress: 0.79
+[2017-08-26 16:44:02.470]upgrade manager state 3, progress: 0.792000
+[2017-08-26 16:44:04.474]sub module info: modueID: 0x01, firmwareVersion: 01.06.15.82, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:44:04.474]push upgrade progress: 74%
+[2017-08-26 16:44:04.474]upgrade manager state 3, progress: 0.792000
+[2017-08-26 16:44:06.467]sub module info: modueID: 0x01, firmwareVersion: 01.06.15.82, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:44:06.468]push upgrade progress: 74%
+[2017-08-26 16:44:06.468]upgrader state: 3, progress: 0.79
+[2017-08-26 16:44:06.468]group upgrader state: 3, progress: 0.79
+[2017-08-26 16:44:06.468]upgrade manager state 3, progress: 0.792000
+[2017-08-26 16:44:08.470]sub module info: modueID: 0x01, firmwareVersion: 01.06.15.82, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:44:08.470]push upgrade progress: 74%
+[2017-08-26 16:44:08.471]upgrade manager state 3, progress: 0.792000
+[2017-08-26 16:44:10.470]sub module info: modueID: 0x01, firmwareVersion: 01.06.15.82, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:44:10.471]push upgrade progress: 74%
+[2017-08-26 16:44:10.471]upgrader state: 3, progress: 0.79
+[2017-08-26 16:44:10.472]group upgrader state: 3, progress: 0.79
+[2017-08-26 16:44:10.472]upgrade manager state 3, progress: 0.792000
+[2017-08-26 16:44:12.480]sub module info: modueID: 0x01, firmwareVersion: 01.06.15.82, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:44:12.480]push upgrade progress: 74%
+[2017-08-26 16:44:12.480]upgrade manager state 3, progress: 0.792000
+[2017-08-26 16:44:14.469]sub module info: modueID: 0x01, firmwareVersion: 01.06.15.82, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:44:14.469]push upgrade progress: 74%
+[2017-08-26 16:44:14.469]upgrader state: 3, progress: 0.79
+[2017-08-26 16:44:14.469]group upgrader state: 3, progress: 0.79
+[2017-08-26 16:44:14.469]upgrade manager state 3, progress: 0.792000
+[2017-08-26 16:44:16.479]sub module info: modueID: 0x01, firmwareVersion: 01.06.15.82, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:44:16.479]push upgrade progress: 74%
+[2017-08-26 16:44:16.479]upgrade manager state 3, progress: 0.792000
+[2017-08-26 16:44:18.403]sub module info: modueID: 0x01, firmwareVersion: 01.06.15.82, state:Skip. (code 4), progress: 0%
+[2017-08-26 16:44:18.404]push upgrade progress: 74%
+[2017-08-26 16:44:18.404]upgrader state: 3, progress: 0.79
+[2017-08-26 16:44:18.404]group upgrader state: 3, progress: 0.79
+[2017-08-26 16:44:18.404]upgrade manager state 3, progress: 0.792000
+[2017-08-26 16:44:20.412]sub module info: modueID: 0x01, firmwareVersion: 01.06.15.82, state:Skip. (code 4), progress: 0%
+[2017-08-26 16:44:20.412]push upgrade progress: 74%
+[2017-08-26 16:44:20.412]upgrade manager state 3, progress: 0.792000
+[2017-08-26 16:44:21.450]sub module info: modueID: 0x81, firmwareVersion: 00.12.02.24, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:44:21.450]push upgrade progress: 77%
+[2017-08-26 16:44:21.451]upgrader state: 3, progress: 0.82
+[2017-08-26 16:44:21.451]group upgrader state: 3, progress: 0.82
+[2017-08-26 16:44:21.451]upgrade manager state 3, progress: 0.816000
+[2017-08-26 16:44:23.445]sub module info: modueID: 0x81, firmwareVersion: 00.12.02.24, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:44:23.446]push upgrade progress: 77%
+[2017-08-26 16:44:23.446]upgrade manager state 3, progress: 0.816000
+[2017-08-26 16:44:25.449]sub module info: modueID: 0x81, firmwareVersion: 00.12.02.24, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:44:25.450]push upgrade progress: 77%
+[2017-08-26 16:44:25.450]upgrader state: 3, progress: 0.82
+[2017-08-26 16:44:25.450]group upgrader state: 3, progress: 0.82
+[2017-08-26 16:44:25.450]upgrade manager state 3, progress: 0.816000
+[2017-08-26 16:44:27.448]sub module info: modueID: 0x81, firmwareVersion: 00.12.02.24, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:44:27.449]push upgrade progress: 77%
+[2017-08-26 16:44:27.449]upgrade manager state 3, progress: 0.816000
+[2017-08-26 16:44:29.445]sub module info: modueID: 0x81, firmwareVersion: 00.12.02.24, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:44:29.445]push upgrade progress: 77%
+[2017-08-26 16:44:29.445]upgrader state: 3, progress: 0.82
+[2017-08-26 16:44:29.446]group upgrader state: 3, progress: 0.82
+[2017-08-26 16:44:29.446]upgrade manager state 3, progress: 0.816000
+[2017-08-26 16:44:30.449]sub module info: modueID: 0x81, firmwareVersion: 00.09.01.85, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:44:30.449]push upgrade progress: 80%
+[2017-08-26 16:44:30.449]upgrade manager state 3, progress: 0.840000
+[2017-08-26 16:44:32.452]sub module info: modueID: 0x81, firmwareVersion: 00.09.01.85, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:44:32.452]push upgrade progress: 80%
+[2017-08-26 16:44:32.452]upgrader state: 3, progress: 0.84
+[2017-08-26 16:44:32.452]group upgrader state: 3, progress: 0.84
+[2017-08-26 16:44:32.453]upgrade manager state 3, progress: 0.840000
+[2017-08-26 16:44:34.452]sub module info: modueID: 0x81, firmwareVersion: 00.09.01.85, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:44:34.452]push upgrade progress: 80%
+[2017-08-26 16:44:34.453]upgrade manager state 3, progress: 0.840000
+[2017-08-26 16:44:36.457]sub module info: modueID: 0x81, firmwareVersion: 00.09.01.85, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:44:36.458]push upgrade progress: 80%
+[2017-08-26 16:44:36.458]upgrader state: 3, progress: 0.84
+[2017-08-26 16:44:36.458]group upgrader state: 3, progress: 0.84
+[2017-08-26 16:44:36.458]upgrade manager state 3, progress: 0.840000
+[2017-08-26 16:44:38.454]sub module info: modueID: 0x81, firmwareVersion: 00.09.01.85, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:44:38.454]push upgrade progress: 80%
+[2017-08-26 16:44:38.454]upgrade manager state 3, progress: 0.840000
+[2017-08-26 16:44:39.451]sub module info: modueID: 0xc1, firmwareVersion: 01.37.51.00, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:44:39.451]push upgrade progress: 84%
+[2017-08-26 16:44:41.451]sub module info: modueID: 0xc1, firmwareVersion: 01.37.51.00, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:44:41.452]push upgrade progress: 84%
+[2017-08-26 16:44:41.452]upgrader state: 3, progress: 0.87
+[2017-08-26 16:44:41.452]group upgrader state: 3, progress: 0.87
+[2017-08-26 16:44:41.452]upgrade manager state 3, progress: 0.872000
+[2017-08-26 16:44:43.449]sub module info: modueID: 0xc1, firmwareVersion: 01.37.51.00, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:44:43.449]push upgrade progress: 84%
+[2017-08-26 16:44:43.450]upgrade manager state 3, progress: 0.872000
+[2017-08-26 16:44:45.451]sub module info: modueID: 0xc1, firmwareVersion: 01.37.51.00, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:44:45.451]push upgrade progress: 84%
+[2017-08-26 16:44:45.451]upgrader state: 3, progress: 0.87
+[2017-08-26 16:44:45.451]group upgrader state: 3, progress: 0.87
+[2017-08-26 16:44:45.451]upgrade manager state 3, progress: 0.872000
+[2017-08-26 16:44:47.460]sub module info: modueID: 0xc1, firmwareVersion: 01.37.51.00, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:44:47.461]push upgrade progress: 84%
+[2017-08-26 16:44:47.461]upgrade manager state 3, progress: 0.872000
+[2017-08-26 16:44:49.461]sub module info: modueID: 0xc1, firmwareVersion: 01.37.51.00, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:44:49.461]push upgrade progress: 84%
+[2017-08-26 16:44:49.461]upgrader state: 3, progress: 0.87
+[2017-08-26 16:44:49.461]group upgrader state: 3, progress: 0.87
+[2017-08-26 16:44:49.461]upgrade manager state 3, progress: 0.872000
+[2017-08-26 16:44:51.452]sub module info: modueID: 0xc1, firmwareVersion: 01.37.51.00, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:44:51.452]push upgrade progress: 84%
+[2017-08-26 16:44:51.452]upgrade manager state 3, progress: 0.872000
+[2017-08-26 16:44:53.461]sub module info: modueID: 0xc1, firmwareVersion: 01.37.51.00, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:44:53.461]push upgrade progress: 84%
+[2017-08-26 16:44:53.461]upgrader state: 3, progress: 0.87
+[2017-08-26 16:44:53.461]group upgrader state: 3, progress: 0.87
+[2017-08-26 16:44:53.461]upgrade manager state 3, progress: 0.872000
+[2017-08-26 16:44:55.463]sub module info: modueID: 0xc1, firmwareVersion: 01.37.51.00, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:44:55.463]push upgrade progress: 84%
+[2017-08-26 16:44:55.463]upgrade manager state 3, progress: 0.872000
+[2017-08-26 16:44:57.456]sub module info: modueID: 0xc1, firmwareVersion: 01.37.51.00, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:44:57.456]push upgrade progress: 84%
+[2017-08-26 16:44:57.456]upgrader state: 3, progress: 0.87
+[2017-08-26 16:44:57.456]group upgrader state: 3, progress: 0.87
+[2017-08-26 16:44:57.456]upgrade manager state 3, progress: 0.872000
+[2017-08-26 16:44:59.479]sub module info: modueID: 0xc1, firmwareVersion: 01.37.51.00, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:44:59.479]push upgrade progress: 84%
+[2017-08-26 16:44:59.479]upgrade manager state 3, progress: 0.872000
+[2017-08-26 16:45:01.461]sub module info: modueID: 0xc1, firmwareVersion: 01.37.51.00, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:45:01.461]push upgrade progress: 84%
+[2017-08-26 16:45:01.461]upgrader state: 3, progress: 0.87
+[2017-08-26 16:45:01.461]group upgrader state: 3, progress: 0.87
+[2017-08-26 16:45:01.461]upgrade manager state 3, progress: 0.872000
+[2017-08-26 16:45:03.453]sub module info: modueID: 0xc1, firmwareVersion: 01.37.51.00, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:45:03.453]push upgrade progress: 84%
+[2017-08-26 16:45:03.453]upgrade manager state 3, progress: 0.872000
+[2017-08-26 16:45:05.462]sub module info: modueID: 0xc1, firmwareVersion: 01.37.51.00, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:45:05.462]push upgrade progress: 84%
+[2017-08-26 16:45:05.462]upgrader state: 3, progress: 0.87
+[2017-08-26 16:45:05.462]group upgrader state: 3, progress: 0.87
+[2017-08-26 16:45:05.463]upgrade manager state 3, progress: 0.872000
+[2017-08-26 16:45:07.462]sub module info: modueID: 0xc1, firmwareVersion: 01.37.51.00, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:45:07.462]push upgrade progress: 84%
+[2017-08-26 16:45:07.462]upgrade manager state 3, progress: 0.872000
+[2017-08-26 16:45:09.454]sub module info: modueID: 0xc1, firmwareVersion: 01.37.51.00, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:45:09.454]push upgrade progress: 84%
+[2017-08-26 16:45:09.454]upgrader state: 3, progress: 0.87
+[2017-08-26 16:45:09.454]group upgrader state: 3, progress: 0.87
+[2017-08-26 16:45:09.454]upgrade manager state 3, progress: 0.872000
+[2017-08-26 16:45:11.454]sub module info: modueID: 0xc1, firmwareVersion: 01.37.51.00, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:45:11.454]push upgrade progress: 84%
+[2017-08-26 16:45:11.454]upgrade manager state 3, progress: 0.872000
+[2017-08-26 16:45:13.456]sub module info: modueID: 0xc1, firmwareVersion: 01.37.51.00, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:45:13.456]push upgrade progress: 84%
+[2017-08-26 16:45:13.456]upgrader state: 3, progress: 0.87
+[2017-08-26 16:45:13.456]group upgrader state: 3, progress: 0.87
+[2017-08-26 16:45:13.456]upgrade manager state 3, progress: 0.872000
+[2017-08-26 16:45:15.458]sub module info: modueID: 0xc1, firmwareVersion: 01.37.51.00, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:45:15.458]push upgrade progress: 84%
+[2017-08-26 16:45:15.458]upgrade manager state 3, progress: 0.872000
+[2017-08-26 16:45:17.470]sub module info: modueID: 0xc1, firmwareVersion: 01.37.51.00, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:45:17.470]push upgrade progress: 84%
+[2017-08-26 16:45:17.471]upgrader state: 3, progress: 0.87
+[2017-08-26 16:45:17.471]group upgrader state: 3, progress: 0.87
+[2017-08-26 16:45:17.471]upgrade manager state 3, progress: 0.872000
+[2017-08-26 16:45:19.462]sub module info: modueID: 0xc1, firmwareVersion: 01.37.51.00, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:45:19.462]push upgrade progress: 84%
+[2017-08-26 16:45:19.463]upgrade manager state 3, progress: 0.872000
+[2017-08-26 16:45:21.455]sub module info: modueID: 0xc1, firmwareVersion: 01.37.51.00, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:45:21.456]push upgrade progress: 84%
+[2017-08-26 16:45:21.456]upgrader state: 3, progress: 0.87
+[2017-08-26 16:45:21.456]group upgrader state: 3, progress: 0.87
+[2017-08-26 16:45:21.456]upgrade manager state 3, progress: 0.872000
+[2017-08-26 16:45:23.462]sub module info: modueID: 0xc1, firmwareVersion: 01.37.51.00, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:45:23.463]push upgrade progress: 84%
+[2017-08-26 16:45:23.463]upgrade manager state 3, progress: 0.872000
+[2017-08-26 16:45:25.472]sub module info: modueID: 0xc1, firmwareVersion: 01.37.51.00, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:45:25.472]push upgrade progress: 84%
+[2017-08-26 16:45:25.472]upgrader state: 3, progress: 0.87
+[2017-08-26 16:45:25.472]group upgrader state: 3, progress: 0.87
+[2017-08-26 16:45:25.472]upgrade manager state 3, progress: 0.872000
+[2017-08-26 16:45:27.464]sub module info: modueID: 0xc1, firmwareVersion: 01.37.51.00, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:45:27.464]push upgrade progress: 84%
+[2017-08-26 16:45:27.464]upgrade manager state 3, progress: 0.872000
+[2017-08-26 16:45:29.466]sub module info: modueID: 0xc1, firmwareVersion: 01.37.51.00, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:45:29.466]push upgrade progress: 84%
+[2017-08-26 16:45:29.466]upgrader state: 3, progress: 0.87
+[2017-08-26 16:45:29.467]group upgrader state: 3, progress: 0.87
+[2017-08-26 16:45:29.467]upgrade manager state 3, progress: 0.872000
+[2017-08-26 16:45:31.470]sub module info: modueID: 0xc1, firmwareVersion: 01.37.51.00, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:45:31.471]push upgrade progress: 84%
+[2017-08-26 16:45:31.471]upgrade manager state 3, progress: 0.872000
+[2017-08-26 16:45:33.464]sub module info: modueID: 0xc1, firmwareVersion: 01.37.51.00, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:45:33.464]push upgrade progress: 84%
+[2017-08-26 16:45:33.464]upgrader state: 3, progress: 0.87
+[2017-08-26 16:45:33.465]group upgrader state: 3, progress: 0.87
+[2017-08-26 16:45:33.465]upgrade manager state 3, progress: 0.872000
+[2017-08-26 16:45:35.465]sub module info: modueID: 0xc1, firmwareVersion: 01.37.51.00, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:45:35.465]push upgrade progress: 84%
+[2017-08-26 16:45:35.465]upgrade manager state 3, progress: 0.872000
+[2017-08-26 16:45:37.472]sub module info: modueID: 0xc1, firmwareVersion: 01.37.51.00, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:45:37.472]push upgrade progress: 84%
+[2017-08-26 16:45:37.473]upgrader state: 3, progress: 0.87
+[2017-08-26 16:45:37.473]group upgrader state: 3, progress: 0.87
+[2017-08-26 16:45:37.473]upgrade manager state 3, progress: 0.872000
+[2017-08-26 16:45:39.465]sub module info: modueID: 0xc1, firmwareVersion: 01.37.51.00, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:45:39.465]push upgrade progress: 84%
+[2017-08-26 16:45:39.465]upgrade manager state 3, progress: 0.872000
+[2017-08-26 16:45:41.467]sub module info: modueID: 0xc1, firmwareVersion: 01.37.51.00, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:45:41.467]push upgrade progress: 84%
+[2017-08-26 16:45:41.467]upgrader state: 3, progress: 0.87
+[2017-08-26 16:45:41.467]group upgrader state: 3, progress: 0.87
+[2017-08-26 16:45:41.468]upgrade manager state 3, progress: 0.872000
+[2017-08-26 16:45:43.465]sub module info: modueID: 0xc1, firmwareVersion: 01.37.51.00, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:45:43.465]push upgrade progress: 84%
+[2017-08-26 16:45:43.466]upgrade manager state 3, progress: 0.872000
+[2017-08-26 16:45:45.465]sub module info: modueID: 0xc1, firmwareVersion: 01.37.51.00, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:45:45.465]push upgrade progress: 84%
+[2017-08-26 16:45:45.465]upgrader state: 3, progress: 0.87
+[2017-08-26 16:45:45.466]group upgrader state: 3, progress: 0.87
+[2017-08-26 16:45:45.466]upgrade manager state 3, progress: 0.872000
+[2017-08-26 16:45:47.463]sub module info: modueID: 0xc1, firmwareVersion: 01.37.51.00, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:45:47.463]push upgrade progress: 84%
+[2017-08-26 16:45:47.463]upgrade manager state 3, progress: 0.872000
+[2017-08-26 16:45:49.465]sub module info: modueID: 0xc1, firmwareVersion: 01.37.51.00, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:45:49.466]push upgrade progress: 84%
+[2017-08-26 16:45:49.466]upgrader state: 3, progress: 0.87
+[2017-08-26 16:45:49.466]group upgrader state: 3, progress: 0.87
+[2017-08-26 16:45:49.466]upgrade manager state 3, progress: 0.872000
+[2017-08-26 16:45:51.466]sub module info: modueID: 0xc1, firmwareVersion: 01.37.51.00, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:45:51.466]push upgrade progress: 84%
+[2017-08-26 16:45:51.466]upgrade manager state 3, progress: 0.872000
+[2017-08-26 16:45:53.466]sub module info: modueID: 0xc1, firmwareVersion: 01.37.51.00, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:45:53.467]push upgrade progress: 84%
+[2017-08-26 16:45:53.467]upgrader state: 3, progress: 0.87
+[2017-08-26 16:45:53.467]group upgrader state: 3, progress: 0.87
+[2017-08-26 16:45:53.467]upgrade manager state 3, progress: 0.872000
+[2017-08-26 16:45:55.465]sub module info: modueID: 0xc1, firmwareVersion: 01.37.51.00, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:45:55.465]push upgrade progress: 84%
+[2017-08-26 16:45:55.465]upgrade manager state 3, progress: 0.872000
+[2017-08-26 16:45:57.465]sub module info: modueID: 0xc1, firmwareVersion: 01.37.51.00, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:45:57.465]push upgrade progress: 84%
+[2017-08-26 16:45:57.466]upgrader state: 3, progress: 0.87
+[2017-08-26 16:45:57.466]group upgrader state: 3, progress: 0.87
+[2017-08-26 16:45:57.466]upgrade manager state 3, progress: 0.872000
+[2017-08-26 16:45:59.466]sub module info: modueID: 0xc1, firmwareVersion: 01.37.51.00, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:45:59.466]push upgrade progress: 84%
+[2017-08-26 16:45:59.467]upgrade manager state 3, progress: 0.872000
+[2017-08-26 16:46:01.467]sub module info: modueID: 0xc1, firmwareVersion: 01.37.51.00, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:46:01.467]push upgrade progress: 84%
+[2017-08-26 16:46:01.467]upgrader state: 3, progress: 0.87
+[2017-08-26 16:46:01.467]group upgrader state: 3, progress: 0.87
+[2017-08-26 16:46:01.467]upgrade manager state 3, progress: 0.872000
+[2017-08-26 16:46:03.467]sub module info: modueID: 0xc1, firmwareVersion: 01.37.51.00, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:46:03.467]push upgrade progress: 84%
+[2017-08-26 16:46:03.467]upgrade manager state 3, progress: 0.872000
+[2017-08-26 16:46:05.465]sub module info: modueID: 0xc1, firmwareVersion: 01.37.51.00, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:46:05.466]push upgrade progress: 84%
+[2017-08-26 16:46:05.467]upgrader state: 3, progress: 0.87
+[2017-08-26 16:46:05.467]group upgrader state: 3, progress: 0.87
+[2017-08-26 16:46:05.467]upgrade manager state 3, progress: 0.872000
+[2017-08-26 16:46:07.467]sub module info: modueID: 0xc1, firmwareVersion: 01.37.51.00, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:46:07.467]push upgrade progress: 84%
+[2017-08-26 16:46:07.467]upgrade manager state 3, progress: 0.872000
+[2017-08-26 16:46:09.475]sub module info: modueID: 0xc1, firmwareVersion: 01.37.51.00, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:46:09.475]push upgrade progress: 84%
+[2017-08-26 16:46:09.475]upgrader state: 3, progress: 0.87
+[2017-08-26 16:46:09.476]group upgrader state: 3, progress: 0.87
+[2017-08-26 16:46:09.476]upgrade manager state 3, progress: 0.872000
+[2017-08-26 16:46:11.466]sub module info: modueID: 0xc1, firmwareVersion: 01.37.51.00, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:46:11.467]push upgrade progress: 84%
+[2017-08-26 16:46:11.467]upgrade manager state 3, progress: 0.872000
+[2017-08-26 16:46:13.475]sub module info: modueID: 0xc1, firmwareVersion: 01.37.51.00, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:46:13.476]push upgrade progress: 84%
+[2017-08-26 16:46:13.476]upgrader state: 3, progress: 0.87
+[2017-08-26 16:46:13.476]group upgrader state: 3, progress: 0.87
+[2017-08-26 16:46:13.476]upgrade manager state 3, progress: 0.872000
+[2017-08-26 16:46:15.466]sub module info: modueID: 0xc1, firmwareVersion: 01.37.51.00, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:46:15.466]push upgrade progress: 84%
+[2017-08-26 16:46:15.466]upgrade manager state 3, progress: 0.872000
+[2017-08-26 16:46:17.475]sub module info: modueID: 0xc1, firmwareVersion: 01.37.51.00, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:46:17.476]push upgrade progress: 84%
+[2017-08-26 16:46:17.476]upgrader state: 3, progress: 0.87
+[2017-08-26 16:46:17.476]group upgrader state: 3, progress: 0.87
+[2017-08-26 16:46:17.477]upgrade manager state 3, progress: 0.872000
+[2017-08-26 16:46:19.475]sub module info: modueID: 0xc1, firmwareVersion: 01.37.51.00, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:46:19.475]push upgrade progress: 84%
+[2017-08-26 16:46:19.475]upgrade manager state 3, progress: 0.872000
+[2017-08-26 16:46:21.468]sub module info: modueID: 0xc1, firmwareVersion: 01.37.51.00, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:46:21.469]push upgrade progress: 84%
+[2017-08-26 16:46:21.469]upgrader state: 3, progress: 0.87
+[2017-08-26 16:46:21.469]group upgrader state: 3, progress: 0.87
+[2017-08-26 16:46:21.469]upgrade manager state 3, progress: 0.872000
+[2017-08-26 16:46:23.475]sub module info: modueID: 0xc1, firmwareVersion: 01.37.51.00, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:46:23.476]push upgrade progress: 84%
+[2017-08-26 16:46:23.476]upgrade manager state 3, progress: 0.872000
+[2017-08-26 16:46:25.470]sub module info: modueID: 0xc1, firmwareVersion: 01.37.51.00, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:46:25.471]push upgrade progress: 84%
+[2017-08-26 16:46:25.471]upgrader state: 3, progress: 0.87
+[2017-08-26 16:46:25.471]group upgrader state: 3, progress: 0.87
+[2017-08-26 16:46:25.471]upgrade manager state 3, progress: 0.872000
+[2017-08-26 16:46:27.467]sub module info: modueID: 0xc1, firmwareVersion: 01.37.51.00, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:46:27.467]push upgrade progress: 84%
+[2017-08-26 16:46:27.467]upgrade manager state 3, progress: 0.872000
+[2017-08-26 16:46:29.468]sub module info: modueID: 0xc1, firmwareVersion: 01.37.51.00, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:46:29.468]push upgrade progress: 84%
+[2017-08-26 16:46:29.468]upgrader state: 3, progress: 0.87
+[2017-08-26 16:46:29.469]group upgrader state: 3, progress: 0.87
+[2017-08-26 16:46:29.469]upgrade manager state 3, progress: 0.872000
+[2017-08-26 16:46:31.468]sub module info: modueID: 0xc1, firmwareVersion: 01.37.51.00, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:46:31.468]push upgrade progress: 84%
+[2017-08-26 16:46:31.469]upgrade manager state 3, progress: 0.872000
+[2017-08-26 16:46:33.473]sub module info: modueID: 0xc1, firmwareVersion: 01.37.51.00, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:46:33.473]push upgrade progress: 84%
+[2017-08-26 16:46:33.473]upgrader state: 3, progress: 0.87
+[2017-08-26 16:46:33.473]group upgrader state: 3, progress: 0.87
+[2017-08-26 16:46:33.473]upgrade manager state 3, progress: 0.872000
+[2017-08-26 16:46:35.468]sub module info: modueID: 0xc1, firmwareVersion: 01.37.51.00, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:46:35.468]push upgrade progress: 84%
+[2017-08-26 16:46:35.469]upgrade manager state 3, progress: 0.872000
+[2017-08-26 16:46:37.478]sub module info: modueID: 0xc1, firmwareVersion: 01.37.51.00, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:46:37.478]push upgrade progress: 84%
+[2017-08-26 16:46:37.479]upgrader state: 3, progress: 0.87
+[2017-08-26 16:46:37.479]group upgrader state: 3, progress: 0.87
+[2017-08-26 16:46:37.479]upgrade manager state 3, progress: 0.872000
+[2017-08-26 16:46:39.477]sub module info: modueID: 0xc1, firmwareVersion: 01.37.51.00, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:46:39.477]push upgrade progress: 84%
+[2017-08-26 16:46:39.477]upgrade manager state 3, progress: 0.872000
+[2017-08-26 16:46:41.474]sub module info: modueID: 0xc1, firmwareVersion: 01.37.51.00, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:46:41.474]push upgrade progress: 84%
+[2017-08-26 16:46:41.475]upgrader state: 3, progress: 0.87
+[2017-08-26 16:46:41.475]group upgrader state: 3, progress: 0.87
+[2017-08-26 16:46:41.475]upgrade manager state 3, progress: 0.872000
+[2017-08-26 16:46:43.479]sub module info: modueID: 0xc1, firmwareVersion: 01.37.51.00, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:46:43.480]push upgrade progress: 84%
+[2017-08-26 16:46:43.480]upgrade manager state 3, progress: 0.872000
+[2017-08-26 16:46:45.478]sub module info: modueID: 0xc1, firmwareVersion: 01.37.51.00, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:46:45.479]push upgrade progress: 84%
+[2017-08-26 16:46:45.479]upgrader state: 3, progress: 0.87
+[2017-08-26 16:46:45.479]group upgrader state: 3, progress: 0.87
+[2017-08-26 16:46:45.479]upgrade manager state 3, progress: 0.872000
+[2017-08-26 16:46:47.470]sub module info: modueID: 0xc1, firmwareVersion: 01.37.51.00, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:46:47.471]push upgrade progress: 84%
+[2017-08-26 16:46:47.471]upgrade manager state 3, progress: 0.872000
+[2017-08-26 16:46:49.469]sub module info: modueID: 0xc1, firmwareVersion: 01.37.51.00, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:46:49.469]push upgrade progress: 84%
+[2017-08-26 16:46:49.469]upgrader state: 3, progress: 0.87
+[2017-08-26 16:46:49.469]group upgrader state: 3, progress: 0.87
+[2017-08-26 16:46:49.470]upgrade manager state 3, progress: 0.872000
+[2017-08-26 16:46:51.478]sub module info: modueID: 0xc1, firmwareVersion: 01.37.51.00, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:46:51.478]push upgrade progress: 84%
+[2017-08-26 16:46:51.478]upgrade manager state 3, progress: 0.872000
+[2017-08-26 16:46:53.476]sub module info: modueID: 0xc1, firmwareVersion: 01.37.51.00, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:46:53.477]push upgrade progress: 84%
+[2017-08-26 16:46:53.477]upgrader state: 3, progress: 0.87
+[2017-08-26 16:46:53.477]group upgrader state: 3, progress: 0.87
+[2017-08-26 16:46:53.477]upgrade manager state 3, progress: 0.872000
+[2017-08-26 16:46:55.476]sub module info: modueID: 0xc1, firmwareVersion: 01.37.51.00, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:46:55.476]push upgrade progress: 84%
+[2017-08-26 16:46:55.477]upgrade manager state 3, progress: 0.872000
+[2017-08-26 16:46:57.478]sub module info: modueID: 0xc1, firmwareVersion: 01.37.51.00, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:46:57.478]push upgrade progress: 84%
+[2017-08-26 16:46:57.478]upgrader state: 3, progress: 0.87
+[2017-08-26 16:46:57.478]group upgrader state: 3, progress: 0.87
+[2017-08-26 16:46:57.479]upgrade manager state 3, progress: 0.872000
+[2017-08-26 16:46:59.482]sub module info: modueID: 0xc1, firmwareVersion: 01.37.51.00, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:46:59.482]push upgrade progress: 84%
+[2017-08-26 16:46:59.482]upgrade manager state 3, progress: 0.872000
+[2017-08-26 16:47:01.476]sub module info: modueID: 0xc1, firmwareVersion: 01.37.51.00, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:47:01.476]push upgrade progress: 84%
+[2017-08-26 16:47:01.476]upgrader state: 3, progress: 0.87
+[2017-08-26 16:47:01.476]group upgrader state: 3, progress: 0.87
+[2017-08-26 16:47:01.476]upgrade manager state 3, progress: 0.872000
+[2017-08-26 16:47:03.472]sub module info: modueID: 0xc1, firmwareVersion: 01.37.51.00, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:47:03.472]push upgrade progress: 84%
+[2017-08-26 16:47:03.472]upgrade manager state 3, progress: 0.872000
+[2017-08-26 16:47:05.476]sub module info: modueID: 0xc1, firmwareVersion: 01.37.51.00, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:47:05.476]push upgrade progress: 84%
+[2017-08-26 16:47:05.476]upgrader state: 3, progress: 0.87
+[2017-08-26 16:47:05.476]group upgrader state: 3, progress: 0.87
+[2017-08-26 16:47:05.477]upgrade manager state 3, progress: 0.872000
+[2017-08-26 16:47:07.480]sub module info: modueID: 0xc1, firmwareVersion: 01.37.51.00, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:47:07.480]push upgrade progress: 84%
+[2017-08-26 16:47:07.480]upgrade manager state 3, progress: 0.872000
+[2017-08-26 16:47:09.473]sub module info: modueID: 0xc1, firmwareVersion: 01.37.51.00, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:47:09.473]push upgrade progress: 84%
+[2017-08-26 16:47:09.473]upgrader state: 3, progress: 0.87
+[2017-08-26 16:47:09.474]group upgrader state: 3, progress: 0.87
+[2017-08-26 16:47:09.474]upgrade manager state 3, progress: 0.872000
+[2017-08-26 16:47:11.473]sub module info: modueID: 0xc1, firmwareVersion: 01.37.51.00, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:47:11.473]push upgrade progress: 84%
+[2017-08-26 16:47:11.473]upgrade manager state 3, progress: 0.872000
+[2017-08-26 16:47:12.525]sub module info: modueID: 0xc1, firmwareVersion: 01.37.51.00, state:Skip. (code 4), progress: 0%
+[2017-08-26 16:47:12.525]push upgrade progress: 84%
+[2017-08-26 16:47:12.525]upgrader state: 3, progress: 0.87
+[2017-08-26 16:47:12.528]group upgrader state: 3, progress: 0.87
+[2017-08-26 16:47:12.528]upgrade manager state 3, progress: 0.872000
+[2017-08-26 16:47:15.167]sub module info: modueID: 0xc1, firmwareVersion: 01.37.51.00, state:Skip. (code 4), progress: 0%
+[2017-08-26 16:47:15.168]push upgrade progress: 84%
+[2017-08-26 16:47:15.168]upgrade manager state 3, progress: 0.872000
+[2017-08-26 16:47:15.581]sub module info: modueID: 0xa8, firmwareVersion: 01.01.00.74, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:47:15.582]push upgrade progress: 87%
+[2017-08-26 16:47:15.582]upgrader state: 3, progress: 0.90
+[2017-08-26 16:47:15.582]group upgrader state: 3, progress: 0.90
+[2017-08-26 16:47:15.613]sub module info: modueID: 0xa8, firmwareVersion: 01.01.00.74, state:Upgrading. (code 1), progress: 25%
+[2017-08-26 16:47:15.613]push upgrade progress: 88%
+[2017-08-26 16:47:17.581]sub module info: modueID: 0xa8, firmwareVersion: 01.01.00.74, state:Upgrading. (code 1), progress: 25%
+[2017-08-26 16:47:17.582]push upgrade progress: 88%
+[2017-08-26 16:47:17.582]upgrade manager state 3, progress: 0.904000
+[2017-08-26 16:47:19.589]sub module info: modueID: 0xa8, firmwareVersion: 01.01.00.74, state:Upgrading. (code 1), progress: 25%
+[2017-08-26 16:47:19.590]push upgrade progress: 88%
+[2017-08-26 16:47:19.590]upgrader state: 3, progress: 0.90
+[2017-08-26 16:47:19.590]group upgrader state: 3, progress: 0.90
+[2017-08-26 16:47:19.590]upgrade manager state 3, progress: 0.904000
+[2017-08-26 16:47:21.523]sub module info: modueID: 0xa8, firmwareVersion: 01.01.00.74, state:Upgrade Completed. (code 0), progress: 100%
+[2017-08-26 16:47:21.524]push upgrade progress: 90%
+[2017-08-26 16:47:21.524]upgrade manager state 3, progress: 0.920000
+[2017-08-26 16:47:23.524]sub module info: modueID: 0xa8, firmwareVersion: 01.01.00.74, state:Upgrade Completed. (code 0), progress: 100%
+[2017-08-26 16:47:23.524]push upgrade progress: 90%
+[2017-08-26 16:47:23.524]upgrader state: 3, progress: 0.92
+[2017-08-26 16:47:23.524]group upgrader state: 3, progress: 0.92
+[2017-08-26 16:47:23.524]upgrade manager state 3, progress: 0.920000
+[2017-08-26 16:47:24.536]sub module info: modueID: 0x88, firmwareVersion: 00.01.02.05, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:47:24.537]push upgrade progress: 90%
+[2017-08-26 16:47:24.537]upgrade manager state 3, progress: 0.920000
+[2017-08-26 16:47:24.555]sub module info: modueID: 0x88, firmwareVersion: 00.01.02.05, state:Version Match. (code 5), progress: 100%
+[2017-08-26 16:47:24.555]push upgrade progress: 93%
+[2017-08-26 16:47:26.566]sub module info: modueID: 0x88, firmwareVersion: 00.01.02.05, state:Version Match. (code 5), progress: 100%
+[2017-08-26 16:47:26.566]push upgrade progress: 93%
+[2017-08-26 16:47:26.567]upgrader state: 3, progress: 0.94
+[2017-08-26 16:47:26.567]group upgrader state: 3, progress: 0.94
+[2017-08-26 16:47:26.567]upgrade manager state 3, progress: 0.944000
+[2017-08-26 16:47:27.574]sub module info: modueID: 0x68, firmwareVersion: 00.00.02.03, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:47:27.574]push upgrade progress: 93%
+[2017-08-26 16:47:27.575]upgrade manager state 3, progress: 0.944000
+[2017-08-26 16:47:27.590]sub module info: modueID: 0x68, firmwareVersion: 00.00.02.03, state:Upgrading. (code 1), progress: 25%
+[2017-08-26 16:47:27.590]push upgrade progress: 94%
+[2017-08-26 16:47:29.578]sub module info: modueID: 0x68, firmwareVersion: 00.00.02.03, state:Upgrading. (code 1), progress: 25%
+[2017-08-26 16:47:29.578]push upgrade progress: 94%
+[2017-08-26 16:47:29.578]upgrader state: 3, progress: 0.95
+[2017-08-26 16:47:29.578]group upgrader state: 3, progress: 0.95
+[2017-08-26 16:47:29.578]upgrade manager state 3, progress: 0.952000
+[2017-08-26 16:47:31.581]sub module info: modueID: 0x68, firmwareVersion: 00.00.02.03, state:Upgrading. (code 1), progress: 25%
+[2017-08-26 16:47:31.581]push upgrade progress: 94%
+[2017-08-26 16:47:31.581]upgrade manager state 3, progress: 0.952000
+[2017-08-26 16:47:33.578]sub module info: modueID: 0x68, firmwareVersion: 00.00.02.03, state:Upgrading. (code 1), progress: 25%
+[2017-08-26 16:47:33.579]push upgrade progress: 94%
+[2017-08-26 16:47:33.579]upgrader state: 3, progress: 0.95
+[2017-08-26 16:47:33.579]group upgrader state: 3, progress: 0.95
+[2017-08-26 16:47:33.579]upgrade manager state 3, progress: 0.952000
+[2017-08-26 16:47:35.578]sub module info: modueID: 0x68, firmwareVersion: 00.00.02.03, state:Upgrading. (code 1), progress: 25%
+[2017-08-26 16:47:35.579]push upgrade progress: 94%
+[2017-08-26 16:47:35.579]upgrade manager state 3, progress: 0.952000
+[2017-08-26 16:47:37.580]sub module info: modueID: 0x68, firmwareVersion: 00.00.02.03, state:Upgrading. (code 1), progress: 25%
+[2017-08-26 16:47:37.580]push upgrade progress: 94%
+[2017-08-26 16:47:37.580]upgrader state: 3, progress: 0.95
+[2017-08-26 16:47:37.581]group upgrader state: 3, progress: 0.95
+[2017-08-26 16:47:37.581]upgrade manager state 3, progress: 0.952000
+[2017-08-26 16:47:39.572]sub module info: modueID: 0x68, firmwareVersion: 00.00.02.03, state:Upgrading. (code 1), progress: 25%
+[2017-08-26 16:47:39.572]push upgrade progress: 94%
+[2017-08-26 16:47:39.572]upgrade manager state 3, progress: 0.952000
+[2017-08-26 16:47:40.382]sub module info: modueID: 0x68, firmwareVersion: 00.00.02.03, state:Version Match. (code 5), progress: 100%
+[2017-08-26 16:47:40.383]push upgrade progress: 96%
+[2017-08-26 16:47:42.380]sub module info: modueID: 0x68, firmwareVersion: 00.00.02.03, state:Version Match. (code 5), progress: 100%
+[2017-08-26 16:47:42.380]push upgrade progress: 96%
+[2017-08-26 16:47:42.380]upgrader state: 3, progress: 0.97
+[2017-08-26 16:47:42.381]group upgrader state: 3, progress: 0.97
+[2017-08-26 16:47:42.381]upgrade manager state 3, progress: 0.968000
+[2017-08-26 16:47:43.408]sub module info: modueID: 0x48, firmwareVersion: 00.02.00.00, state:Upgrading. (code 1), progress: 0%
+[2017-08-26 16:47:43.408]push upgrade progress: 96%
+[2017-08-26 16:47:43.409]upgrade manager state 3, progress: 0.968000
+[2017-08-26 16:47:43.410]sub module info: modueID: 0x48, firmwareVersion: 00.02.00.00, state:Upgrading. (code 1), progress: 25%
+[2017-08-26 16:47:43.410]push upgrade progress: 97%
+[2017-08-26 16:47:45.412]sub module info: modueID: 0x48, firmwareVersion: 00.02.00.00, state:Upgrading. (code 1), progress: 25%
+[2017-08-26 16:47:45.412]push upgrade progress: 97%
+[2017-08-26 16:47:45.412]upgrader state: 3, progress: 0.98
+[2017-08-26 16:47:45.413]group upgrader state: 3, progress: 0.98
+[2017-08-26 16:47:45.413]upgrade manager state 3, progress: 0.976000
+[2017-08-26 16:47:47.408]sub module info: modueID: 0x48, firmwareVersion: 00.02.00.00, state:Upgrading. (code 1), progress: 25%
+[2017-08-26 16:47:47.408]push upgrade progress: 97%
+[2017-08-26 16:47:47.408]upgrade manager state 3, progress: 0.976000
+[2017-08-26 16:47:49.414]sub module info: modueID: 0x48, firmwareVersion: 00.02.00.00, state:Upgrading. (code 1), progress: 25%
+[2017-08-26 16:47:49.414]push upgrade progress: 97%
+[2017-08-26 16:47:49.414]upgrader state: 3, progress: 0.98
+[2017-08-26 16:47:49.414]group upgrader state: 3, progress: 0.98
+[2017-08-26 16:47:49.415]upgrade manager state 3, progress: 0.976000
+[2017-08-26 16:47:51.412]sub module info: modueID: 0x48, firmwareVersion: 00.02.00.00, state:Upgrading. (code 1), progress: 25%
+[2017-08-26 16:47:51.413]push upgrade progress: 97%
+[2017-08-26 16:47:51.413]upgrade manager state 3, progress: 0.976000
+[2017-08-26 16:47:53.413]sub module info: modueID: 0x48, firmwareVersion: 00.02.00.00, state:Upgrading. (code 1), progress: 25%
+[2017-08-26 16:47:53.414]push upgrade progress: 97%
+[2017-08-26 16:47:53.414]upgrader state: 3, progress: 0.98
+[2017-08-26 16:47:53.414]group upgrader state: 3, progress: 0.98
+[2017-08-26 16:47:53.414]upgrade manager state 3, progress: 0.976000
+[2017-08-26 16:47:55.415]sub module info: modueID: 0x48, firmwareVersion: 00.02.00.00, state:Upgrading. (code 1), progress: 25%
+[2017-08-26 16:47:55.415]push upgrade progress: 97%
+[2017-08-26 16:47:55.416]upgrade manager state 3, progress: 0.976000
+[2017-08-26 16:47:57.398]sub module info: modueID: 0x48, firmwareVersion: 00.02.00.00, state:Version Match. (code 5), progress: 100%
+[2017-08-26 16:47:57.398]push upgrade progress: 100%
+[2017-08-26 16:47:57.398]upgrader state: 3, progress: 0.99
+[2017-08-26 16:47:57.398]group upgrader state: 3, progress: 0.99
+[2017-08-26 16:47:57.398]upgrade manager state 3, progress: 0.990000
+[2017-08-26 16:47:59.409]sub module info: modueID: 0x48, firmwareVersion: 00.02.00.00, state:Version Match. (code 5), progress: 100%
+[2017-08-26 16:47:59.409]push upgrade progress: 100%
+[2017-08-26 16:47:59.409]upgrade manager state 3, progress: 0.990000
+[2017-08-26 16:48:01.396]sub module info: modueID: 0x48, firmwareVersion: 00.02.00.00, state:Version Match. (code 5), progress: 100%
+[2017-08-26 16:48:01.396]push upgrade progress: 100%
+[2017-08-26 16:48:01.396]upgrader state: 3, progress: 0.99
+[2017-08-26 16:48:01.401]group upgrader state: 3, progress: 0.99
+[2017-08-26 16:48:01.401]upgrade manager state 3, progress: 0.990000
+[2017-08-26 16:48:03.396]sub module info: modueID: 0x48, firmwareVersion: 00.02.00.00, state:Version Match. (code 5), progress: 100%
+[2017-08-26 16:48:03.399]push upgrade progress: 100%
+[2017-08-26 16:48:03.400]upgrade manager state 3, progress: 0.990000
+[2017-08-26 16:48:05.403]sub module info: modueID: 0x48, firmwareVersion: 00.02.00.00, state:Version Match. (code 5), progress: 100%
+[2017-08-26 16:48:05.403]push upgrade progress: 100%
+[2017-08-26 16:48:05.404]upgrader state: 3, progress: 0.99
+[2017-08-26 16:48:05.404]group upgrader state: 3, progress: 0.99
+[2017-08-26 16:48:05.404]upgrade manager state 3, progress: 0.990000
+[2017-08-26 16:48:07.406]sub module info: modueID: 0x48, firmwareVersion: 00.02.00.00, state:Version Match. (code 5), progress: 100%
+[2017-08-26 16:48:07.406]push upgrade progress: 100%
+[2017-08-26 16:48:07.406]upgrade manager state 3, progress: 0.990000
+[2017-08-26 16:48:09.404]sub module info: modueID: 0x48, firmwareVersion: 00.02.00.00, state:Version Match. (code 5), progress: 100%
+[2017-08-26 16:48:09.404]push upgrade progress: 100%
+[2017-08-26 16:48:09.404]upgrader state: 3, progress: 0.99
+[2017-08-26 16:48:09.404]group upgrader state: 3, progress: 0.99
+[2017-08-26 16:48:09.404]upgrade manager state 3, progress: 0.990000
+[2017-08-26 16:48:09.890]wating connect state 0 => 1
+[2017-08-26 16:48:13.809]upgrader state: 3, progress: 0.99
+[2017-08-26 16:48:13.809]group upgrader state: 3, progress: 0.99
+[2017-08-26 16:48:13.810]upgrade manager state 3, progress: 0.990000
+[2017-08-26 16:48:15.809]upgrade manager state 3, progress: 0.990000
+[2017-08-26 16:48:16.809]upgrade manager state 3, progress: 0.990000
+[2017-08-26 16:48:17.808]upgrader state: 3, progress: 0.99
+[2017-08-26 16:48:17.809]group upgrader state: 3, progress: 0.99
+[2017-08-26 16:48:18.809]upgrade manager state 3, progress: 0.990000
+[2017-08-26 16:48:20.809]upgrader state: 3, progress: 0.99
+[2017-08-26 16:48:20.810]upgrade manager state 3, progress: 0.990000
+[2017-08-26 16:48:21.250]connect service
+[2017-08-26 16:48:21.250]wating connect state 1 => 0
+[2017-08-26 16:48:21.810]group upgrader state: 3, progress: 0.99
+[2017-08-26 16:48:21.810]upgrade manager state 3, progress: 0.990000
+[2017-08-26 16:48:23.809]upgrade manager state 3, progress: 0.990000
+[2017-08-26 16:48:24.809]upgrader state: 3, progress: 0.99
+[2017-08-26 16:48:25.809]group upgrader state: 3, progress: 0.99
+[2017-08-26 16:48:25.809]upgrade manager state 3, progress: 0.990000
+[2017-08-26 16:48:27.809]upgrader state: 3, progress: 0.99
+[2017-08-26 16:48:27.810]upgrade manager state 3, progress: 0.990000
+[2017-08-26 16:48:29.809]group upgrader state: 3, progress: 0.99
+[2017-08-26 16:48:29.809]upgrade manager state 3, progress: 0.990000
+[2017-08-26 16:48:31.809]upgrader state: 3, progress: 0.99
+[2017-08-26 16:48:31.809]upgrade manager state 3, progress: 0.990000
+[2017-08-26 16:48:31.995]sub module info: modueID: 0x28, firmwareVersion: 01.00.00.82, state:Upgrade Completed. (code 0), progress: 100%
+[2017-08-26 16:48:31.995]upgrade manager state 5, progress: 0.990000
+[2017-08-26 16:48:31.998]handle upgrade end
+[2017-08-26 16:48:31.999]set callback: (null)
+[2017-08-26 16:48:32.002]handle state upgrading => upgrade_success
+[2017-08-26 16:48:32.027]Start download aircraft upgrade log
+[2017-08-26 16:48:33.979]sub module info: modueID: 0x28, firmwareVersion: 01.00.00.82, state:Upgrade Completed. (code 0), progress: 100%
+[2017-08-26 16:48:33.979]group upgrader state: 5, progress: 0.99
+[2017-08-26 16:48:35.985]sub module info: modueID: 0x28, firmwareVersion: 01.00.00.82, state:Upgrade Completed. (code 0), progress: 100%
+[2017-08-26 16:48:35.985]upgrader state: 5, progress: 0.99
+[2017-08-26 16:48:37.987]sub module info: modueID: 0x28, firmwareVersion: 01.00.00.82, state:Upgrade Completed. (code 0), progress: 100%
+[2017-08-26 16:48:37.987]group upgrader state: 5, progress: 0.99
+[2017-08-26 16:48:39.454]Download aircraft upgrade log failed
+[2017-08-26 16:52:00.483]handle flag 0
+[2017-08-26 16:52:00.484]handle state upgrade_success => init
+[2017-08-26 16:52:00.484]wating connect state 0 => 1

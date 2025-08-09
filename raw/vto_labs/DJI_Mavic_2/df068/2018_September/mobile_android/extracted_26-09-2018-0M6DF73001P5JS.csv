@@ -1,0 +1,12 @@
+drone_model,dataset,controller,source_file,date,time,message
+DJI_Mavic_2,df068,mobile_android,26-09-2018-0M6DF73001P5JS,26-09-2018-0M6DF73001P5JS,12:52:09,Mobile device version too old to support HD image transmission and the image transmission mode has been switch to normal mode.
+DJI_Mavic_2,df068,mobile_android,26-09-2018-0M6DF73001P5JS,26-09-2018-0M6DF73001P5JS,12:54:33,Home Point recorded. Return-to-Home Altitude:98FT
+DJI_Mavic_2,df068,mobile_android,26-09-2018-0M6DF73001P5JS,26-09-2018-0M6DF73001P5JS,12:54:57,Weak signal. Avoid blocking the antennas and keep the antennas parallel to and facing toward the aircraft during flight.
+DJI_Mavic_2,df068,mobile_android,26-09-2018-0M6DF73001P5JS,26-09-2018-0M6DF73001P5JS,12:55:17,Intelligent Flight Modes have not been enabled. Enable this option in Main Controller Settings if needed.
+DJI_Mavic_2,df068,mobile_android,26-09-2018-0M6DF73001P5JS,26-09-2018-0M6DF73001P5JS,12:55:32,Maximum flight distance reached. Adjust the distance in MC Settings if required.
+DJI_Mavic_2,df068,mobile_android,26-09-2018-0M6DF73001P5JS,26-09-2018-0M6DF73001P5JS,12:56:12,"To take off in non-P mode, toggle Flight Mode Switch to another mode and then toggle it back."
+DJI_Mavic_2,df068,mobile_android,26-09-2018-0M6DF73001P5JS,26-09-2018-0M6DF73001P5JS,12:56:41,Switched to P (Positioning)-mode.
+DJI_Mavic_2,df068,mobile_android,26-09-2018-0M6DF73001P5JS,26-09-2018-0M6DF73001P5JS,12:56:42,Switched to T (Tripod)-mode.
+DJI_Mavic_2,df068,mobile_android,26-09-2018-0M6DF73001P5JS,26-09-2018-0M6DF73001P5JS,12:56:44,Switched to P (Positioning)-mode.
+DJI_Mavic_2,df068,mobile_android,26-09-2018-0M6DF73001P5JS,26-09-2018-0M6DF73001P5JS,12:56:44,Switched to S (Sport)-mode.
+DJI_Mavic_2,df068,mobile_android,26-09-2018-0M6DF73001P5JS,26-09-2018-0M6DF73001P5JS,12:57:09,Weak signal. Avoid blocking the antennas and keep the antennas parallel to and facing toward the aircraft during flight.

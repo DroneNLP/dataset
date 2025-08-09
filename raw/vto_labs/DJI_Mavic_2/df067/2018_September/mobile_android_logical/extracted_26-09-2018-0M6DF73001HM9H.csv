@@ -1,0 +1,12 @@
+drone_model,dataset,controller,source_file,date,time,message
+DJI_Mavic_2,df067,mobile_android_logical,26-09-2018-0M6DF73001HM9H,26/09/2018,14:06:25,Mobile device version too old to support HD image transmission and the image transmission mode has been switch to normal mode.
+DJI_Mavic_2,df067,mobile_android_logical,26-09-2018-0M6DF73001HM9H,26/09/2018,14:08:35,Home Point recorded. Return-to-Home Altitude:98FT
+DJI_Mavic_2,df067,mobile_android_logical,26-09-2018-0M6DF73001HM9H,26/09/2018,14:10:05,Strong Remote Controller Interference
+DJI_Mavic_2,df067,mobile_android_logical,26-09-2018-0M6DF73001HM9H,26/09/2018,14:10:10,"Braking now. Return sticks to midpoints, then continue flying."
+DJI_Mavic_2,df067,mobile_android_logical,26-09-2018-0M6DF73001HM9H,26/09/2018,14:11:44,Strong Remote Controller Interference
+DJI_Mavic_2,df067,mobile_android_logical,26-09-2018-0M6DF73001HM9H,26/09/2018,14:12:15,Strong Remote Controller Interference
+DJI_Mavic_2,df067,mobile_android_logical,26-09-2018-0M6DF73001HM9H,26/09/2018,14:12:42,Strong Remote Controller Interference
+DJI_Mavic_2,df067,mobile_android_logical,26-09-2018-0M6DF73001HM9H,26/09/2018,14:15:44,Home Point recorded. Return-to-Home Altitude:98FT
+DJI_Mavic_2,df067,mobile_android_logical,26-09-2018-0M6DF73001HM9H,26/09/2018,14:16:14,Weak signal. Avoid blocking the antennas and keep the antennas parallel to and facing toward the aircraft during flight.
+DJI_Mavic_2,df067,mobile_android_logical,26-09-2018-0M6DF73001HM9H,26/09/2018,14:16:48,Weak signal. Avoid blocking the antennas and keep the antennas parallel to and facing toward the aircraft during flight.
+DJI_Mavic_2,df067,mobile_android_logical,26-09-2018-0M6DF73001HM9H,26/09/2018,14:21:44,Strong Remote Controller Interference

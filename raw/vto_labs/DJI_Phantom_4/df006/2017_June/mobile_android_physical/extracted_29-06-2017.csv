@@ -1,0 +1,17 @@
+drone_model,dataset,controller,source_file,date,time,message
+DJI_Phantom_4,df006,mobile_android_physical,29-06-2017,29/06/2017,12:24:59,Satellite positioning off. Fly with Caution.
+DJI_Phantom_4,df006,mobile_android_physical,29-06-2017,29/06/2017,12:25:03,Strong Interference. Fly with caution.
+DJI_Phantom_4,df006,mobile_android_physical,29-06-2017,29/06/2017,12:25:24,Strong Interference. Fly with caution.
+DJI_Phantom_4,df006,mobile_android_physical,29-06-2017,29/06/2017,12:25:31,"Home Point Recorded, Return-to-Home Altitude:98FT"
+DJI_Phantom_4,df006,mobile_android_physical,29-06-2017,29/06/2017,12:25:39,Strong Interference. Fly with caution.
+DJI_Phantom_4,df006,mobile_android_physical,29-06-2017,29/06/2017,12:26:00,Strong Interference. Fly with caution.
+DJI_Phantom_4,df006,mobile_android_physical,29-06-2017,29/06/2017,12:26:29,Strong Interference. Fly with caution.
+DJI_Phantom_4,df006,mobile_android_physical,29-06-2017,29/06/2017,12:27:05,Strong Interference. Fly with caution.
+DJI_Phantom_4,df006,mobile_android_physical,29-06-2017,29/06/2017,12:27:34,Strong Interference. Fly with caution.
+DJI_Phantom_4,df006,mobile_android_physical,29-06-2017,29/06/2017,12:38:47,Lens not connected
+DJI_Phantom_4,df006,mobile_android_physical,29-06-2017,29/06/2017,12:38:54,Satellite positioning off. Fly with Caution.
+DJI_Phantom_4,df006,mobile_android_physical,29-06-2017,29/06/2017,12:39:27,Taking off
+DJI_Phantom_4,df006,mobile_android_physical,29-06-2017,29/06/2017,12:40:00,"Home Point Recorded, Return-to-Home Altitude:98FT"
+DJI_Phantom_4,df006,mobile_android_physical,29-06-2017,29/06/2017,12:49:59,Maximum Flight Altitude Reached. Adjust altitude in MC Settings if required.
+DJI_Phantom_4,df006,mobile_android_physical,29-06-2017,29/06/2017,12:52:00,Braking now! Return sticks to midpoints first.
+DJI_Phantom_4,df006,mobile_android_physical,29-06-2017,29/06/2017,12:52:00,Braking now! Return sticks to midpoints first.

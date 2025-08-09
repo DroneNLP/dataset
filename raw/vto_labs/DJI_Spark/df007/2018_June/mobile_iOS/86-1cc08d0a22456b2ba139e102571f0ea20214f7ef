@@ -1,0 +1,195 @@
+
+[2018-06-19 11:42:49.144]check upgrade for 0801
+[2018-06-19 11:42:49.144]no device info
+[2018-06-19 11:42:50.222]check upgrade for 0801
+[2018-06-19 11:42:50.226]can not get server version info
+[2018-06-19 11:42:50.963]check upgrade for 0801
+[2018-06-19 11:42:50.964]can not get server version info
+[2018-06-19 11:42:51.422]check upgrade for 0801
+[2018-06-19 11:42:51.424]can not get server version info
+[2018-06-19 11:42:53.623]check upgrade for 0801
+[2018-06-19 11:42:53.625]can not get server version info
+[2018-06-19 11:43:52.385]check upgrade for 1301
+[2018-06-19 11:43:52.386]no device info
+[2018-06-19 11:44:49.923]check upgrade for 0801
+[2018-06-19 11:44:49.923]no device info
+[2018-06-19 11:45:29.592]check upgrade for 0801
+[2018-06-19 11:45:29.592]no device info
+[2018-06-19 11:45:39.514]check upgrade for 0801
+[2018-06-19 11:45:39.514]no device info
+[2018-06-19 11:45:40.493]check upgrade for 0801
+[2018-06-19 11:45:40.495]can not get server version info
+[2018-06-19 11:45:40.545]check upgrade for 0801
+[2018-06-19 11:45:40.545]can not get server version info
+[2018-06-19 11:48:13.618]check upgrade for 0801
+[2018-06-19 11:48:13.620]can not get server version info
+[2018-06-19 11:48:53.177]check upgrade for 0801
+[2018-06-19 11:48:53.177]no device info
+[2018-06-19 11:48:53.679]check upgrade for 0801
+[2018-06-19 11:48:53.679]no device info
+[2018-06-19 11:49:22.523]check upgrade for 0801
+[2018-06-19 11:49:22.523]no device info
+[2018-06-19 11:49:29.324]check upgrade for 0801
+[2018-06-19 11:49:29.324]no device info
+[2018-06-19 11:49:29.829]check upgrade for 0801
+[2018-06-19 11:49:29.831]can not get server version info
+[2018-06-19 11:49:30.377]check upgrade for 0801
+[2018-06-19 11:49:30.378]can not get server version info
+[2018-06-19 11:50:04.574]check upgrade for 0801
+[2018-06-19 11:50:04.576]can not get server version info
+[2018-06-19 11:50:18.282]check upgrade for 0801
+[2018-06-19 11:50:18.284]can not get server version info
+[2018-06-19 11:51:42.157]check upgrade for 0801
+[2018-06-19 11:51:42.157]no device info
+[2018-06-19 11:52:37.375]check upgrade for 0801
+[2018-06-19 11:52:37.375]no device info
+[2018-06-19 11:52:53.542]check upgrade for 0801
+[2018-06-19 11:52:53.542]no device info
+[2018-06-19 11:53:08.541]check upgrade for 0801
+[2018-06-19 11:53:08.541]no device info
+[2018-06-19 11:54:36.808]check upgrade for 0801
+[2018-06-19 11:54:36.809]no device info
+[2018-06-19 11:54:37.837]check upgrade for 0801
+[2018-06-19 11:54:37.837]no device info
+[2018-06-19 11:54:37.927]check upgrade for 0801
+[2018-06-19 11:54:47.231]sub module info: modueID: 0x28, firmwareVersion: 00.00.00.00, state:Upgrading. (code 1), progress: 0%
+[2018-06-19 11:54:47.231]handle state init => upgrading
+[2018-06-19 11:54:47.232]upgrade progress 15%
+[2018-06-19 11:54:49.090]sub module info: modueID: 0x28, firmwareVersion: 00.00.00.00, state:Upgrading. (code 1), progress: 0%
+[2018-06-19 11:54:49.091]upgrade progress 15%
+[2018-06-19 11:54:51.101]sub module info: modueID: 0x28, firmwareVersion: 00.00.00.00, state:Upgrading. (code 1), progress: 0%
+[2018-06-19 11:54:51.101]upgrade progress 15%
+[2018-06-19 11:54:52.499]sub module info: modueID: 0x28, firmwareVersion: 00.00.00.00, state:Upgrading. (code 1), progress: 0%
+[2018-06-19 11:54:52.499]upgrade progress 86%
+[2018-06-19 11:54:54.595]sub module info: modueID: 0x28, firmwareVersion: 00.00.00.00, state:Upgrading. (code 1), progress: 0%
+[2018-06-19 11:54:54.595]upgrade progress 86%
+[2018-06-19 11:54:56.518]sub module info: modueID: 0x28, firmwareVersion: 00.00.00.00, state:Upgrading. (code 1), progress: 0%
+[2018-06-19 11:54:56.518]upgrade progress 87%
+[2018-06-19 11:54:58.524]sub module info: modueID: 0x28, firmwareVersion: 00.00.00.00, state:Upgrading. (code 1), progress: 0%
+[2018-06-19 11:54:58.524]upgrade progress 87%
+[2018-06-19 11:55:00.533]sub module info: modueID: 0x28, firmwareVersion: 00.00.00.00, state:Upgrading. (code 1), progress: 0%
+[2018-06-19 11:55:00.534]upgrade progress 88%
+[2018-06-19 11:55:02.473]sub module info: modueID: 0x28, firmwareVersion: 00.00.00.00, state:Upgrading. (code 1), progress: 0%
+[2018-06-19 11:55:02.474]upgrade progress 88%
+[2018-06-19 11:55:04.452]sub module info: modueID: 0x28, firmwareVersion: 00.00.00.00, state:Upgrading. (code 1), progress: 0%
+[2018-06-19 11:55:04.453]upgrade progress 89%
+[2018-06-19 11:55:06.462]sub module info: modueID: 0x28, firmwareVersion: 00.00.00.00, state:Upgrading. (code 1), progress: 0%
+[2018-06-19 11:55:06.462]upgrade progress 89%
+[2018-06-19 11:55:08.470]sub module info: modueID: 0x28, firmwareVersion: 00.00.00.00, state:Upgrading. (code 1), progress: 0%
+[2018-06-19 11:55:08.470]upgrade progress 90%
+[2018-06-19 11:55:10.518]sub module info: modueID: 0x28, firmwareVersion: 00.00.00.00, state:Upgrading. (code 1), progress: 0%
+[2018-06-19 11:55:10.518]upgrade progress 90%
+[2018-06-19 11:55:12.488]sub module info: modueID: 0x28, firmwareVersion: 00.00.00.00, state:Upgrading. (code 1), progress: 0%
+[2018-06-19 11:55:12.489]upgrade progress 91%
+[2018-06-19 11:55:14.499]sub module info: modueID: 0x28, firmwareVersion: 00.00.00.00, state:Upgrading. (code 1), progress: 0%
+[2018-06-19 11:55:14.500]upgrade progress 91%
+[2018-06-19 11:55:16.507]sub module info: modueID: 0x28, firmwareVersion: 00.00.00.00, state:Upgrading. (code 1), progress: 0%
+[2018-06-19 11:55:16.507]upgrade progress 92%
+[2018-06-19 11:55:18.613]sub module info: modueID: 0x28, firmwareVersion: 00.00.00.00, state:Upgrading. (code 1), progress: 0%
+[2018-06-19 11:55:18.614]upgrade progress 92%
+[2018-06-19 11:55:20.524]sub module info: modueID: 0x28, firmwareVersion: 00.00.00.00, state:Upgrading. (code 1), progress: 0%
+[2018-06-19 11:55:20.525]upgrade progress 93%
+[2018-06-19 11:55:22.533]sub module info: modueID: 0x28, firmwareVersion: 00.00.00.00, state:Upgrading. (code 1), progress: 0%
+[2018-06-19 11:55:22.533]upgrade progress 93%
+[2018-06-19 11:55:24.452]sub module info: modueID: 0x28, firmwareVersion: 00.00.00.00, state:Upgrading. (code 1), progress: 0%
+[2018-06-19 11:55:24.452]upgrade progress 94%
+[2018-06-19 11:55:26.453]sub module info: modueID: 0x28, firmwareVersion: 00.00.00.00, state:Upgrading. (code 1), progress: 0%
+[2018-06-19 11:55:26.453]upgrade progress 94%
+[2018-06-19 11:55:28.588]sub module info: modueID: 0x28, firmwareVersion: 00.00.00.00, state:Upgrading. (code 1), progress: 0%
+[2018-06-19 11:55:28.588]upgrade progress 95%
+[2018-06-19 11:55:30.471]sub module info: modueID: 0x28, firmwareVersion: 00.00.00.00, state:Upgrading. (code 1), progress: 0%
+[2018-06-19 11:55:30.471]upgrade progress 95%
+[2018-06-19 11:55:32.480]sub module info: modueID: 0x28, firmwareVersion: 00.00.00.00, state:Upgrading. (code 1), progress: 0%
+[2018-06-19 11:55:32.481]upgrade progress 96%
+[2018-06-19 11:55:34.489]sub module info: modueID: 0x28, firmwareVersion: 00.00.00.00, state:Upgrading. (code 1), progress: 0%
+[2018-06-19 11:55:34.490]upgrade progress 96%
+[2018-06-19 11:55:36.505]sub module info: modueID: 0x28, firmwareVersion: 00.00.00.00, state:Upgrading. (code 1), progress: 0%
+[2018-06-19 11:55:36.506]upgrade progress 97%
+[2018-06-19 11:55:38.508]sub module info: modueID: 0x28, firmwareVersion: 00.00.00.00, state:Upgrading. (code 1), progress: 0%
+[2018-06-19 11:55:38.510]upgrade progress 97%
+[2018-06-19 11:55:40.515]sub module info: modueID: 0x28, firmwareVersion: 00.00.00.00, state:Upgrading. (code 1), progress: 0%
+[2018-06-19 11:55:40.516]upgrade progress 98%
+[2018-06-19 11:55:42.524]sub module info: modueID: 0x28, firmwareVersion: 00.00.00.00, state:Upgrading. (code 1), progress: 0%
+[2018-06-19 11:55:42.524]upgrade progress 98%
+[2018-06-19 11:55:44.534]sub module info: modueID: 0x28, firmwareVersion: 00.00.00.00, state:Upgrading. (code 1), progress: 0%
+[2018-06-19 11:55:44.534]upgrade progress 99%
+[2018-06-19 11:55:45.440]sub module info: modueID: 0x28, firmwareVersion: 00.00.00.00, state:Upgrading. (code 1), progress: 0%
+[2018-06-19 11:55:45.441]upgrade progress 99%
+[2018-06-19 11:55:47.449]sub module info: modueID: 0x28, firmwareVersion: 00.00.00.00, state:Upgrading. (code 1), progress: 0%
+[2018-06-19 11:55:47.450]upgrade progress 99%
+[2018-06-19 11:55:49.459]sub module info: modueID: 0x28, firmwareVersion: 00.00.00.00, state:Upgrading. (code 1), progress: 0%
+[2018-06-19 11:55:49.459]upgrade progress 99%
+[2018-06-19 11:55:51.507]sub module info: modueID: 0x28, firmwareVersion: 00.00.00.00, state:Upgrading. (code 1), progress: 0%
+[2018-06-19 11:55:51.507]upgrade progress 99%
+[2018-06-19 11:55:53.476]sub module info: modueID: 0x28, firmwareVersion: 00.00.00.00, state:Upgrading. (code 1), progress: 0%
+[2018-06-19 11:55:53.477]upgrade progress 99%
+[2018-06-19 11:55:55.486]sub module info: modueID: 0x28, firmwareVersion: 00.00.00.00, state:Upgrading. (code 1), progress: 0%
+[2018-06-19 11:55:55.486]upgrade progress 99%
+[2018-06-19 11:55:57.497]sub module info: modueID: 0x28, firmwareVersion: 00.00.00.00, state:Upgrading. (code 1), progress: 0%
+[2018-06-19 11:55:57.497]upgrade progress 99%
+[2018-06-19 11:55:59.507]sub module info: modueID: 0x28, firmwareVersion: 00.00.00.00, state:Upgrading. (code 1), progress: 0%
+[2018-06-19 11:55:59.507]upgrade progress 99%
+[2018-06-19 11:56:01.513]sub module info: modueID: 0x28, firmwareVersion: 00.00.00.00, state:Upgrading. (code 1), progress: 0%
+[2018-06-19 11:56:01.513]upgrade progress 99%
+[2018-06-19 11:56:03.522]sub module info: modueID: 0x28, firmwareVersion: 00.00.00.00, state:Upgrading. (code 1), progress: 0%
+[2018-06-19 11:56:03.522]upgrade progress 99%
+[2018-06-19 11:56:05.537]sub module info: modueID: 0x28, firmwareVersion: 00.00.00.00, state:Upgrading. (code 1), progress: 0%
+[2018-06-19 11:56:05.537]upgrade progress 99%
+[2018-06-19 11:56:07.449]sub module info: modueID: 0x28, firmwareVersion: 00.00.00.00, state:Upgrading. (code 1), progress: 0%
+[2018-06-19 11:56:07.449]upgrade progress 99%
+[2018-06-19 11:56:09.456]sub module info: modueID: 0x28, firmwareVersion: 00.00.00.00, state:Upgrading. (code 1), progress: 0%
+[2018-06-19 11:56:09.457]upgrade progress 99%
+[2018-06-19 11:56:11.460]sub module info: modueID: 0x28, firmwareVersion: 00.00.00.00, state:Upgrading. (code 1), progress: 0%
+[2018-06-19 11:56:11.461]upgrade progress 99%
+[2018-06-19 11:56:13.548]sub module info: modueID: 0x28, firmwareVersion: 00.00.00.00, state:Upgrading. (code 1), progress: 0%
+[2018-06-19 11:56:13.548]upgrade progress 99%
+[2018-06-19 11:56:18.512]check upgrade for 1301
+[2018-06-19 11:56:18.512]no device info
+[2018-06-19 11:56:18.594]disconnect service
+[2018-06-19 11:56:18.594]wating connect state 0 => 1
+[2018-06-19 11:56:24.277]<DJIUpgradeListenStatusHandler: 0x1c01904d0> handler change state. State 1. ssid Spark-45b17b
+[2018-06-19 11:56:32.319]check upgrade for 0801
+[2018-06-19 11:56:32.319]no device info
+[2018-06-19 11:56:34.213]disconnect service
+[2018-06-19 11:56:48.435]check upgrade for 0801
+[2018-06-19 11:56:48.435]no device info
+[2018-06-19 11:56:48.454]check upgrade for 0801
+[2018-06-19 11:56:48.454]no device info
+[2018-06-19 11:56:48.979]connect service
+[2018-06-19 11:56:48.979]wating connect state 1 => 0
+[2018-06-19 11:56:48.986]check upgrade for 0801
+[2018-06-19 11:56:48.986]no device info
+[2018-06-19 11:56:49.828]sub module info: modueID: 0x28, firmwareVersion: 01.00.00.85, state:Upgrade Completed. (code 0), progress: 100%
+[2018-06-19 11:56:49.828]listener stop push progress info
+[2018-06-19 11:56:49.828]upgrade end reason: 1
+[2018-06-19 11:56:49.828]handle state upgrading => upgrade_success
+[2018-06-19 11:56:50.017]check upgrade for 0801
+[2018-06-19 11:56:50.017]no device info
+[2018-06-19 11:56:51.517]check upgrade for 0801
+[2018-06-19 11:57:25.549]check upgrade for 1301
+[2018-06-19 11:57:25.549]no device info
+[2018-06-19 11:57:26.222]disconnect service
+[2018-06-19 11:57:26.222]handle state upgrade_success => init
+[2018-06-19 11:57:26.222]wating connect state 0 => 1
+[2018-06-19 13:08:04.325]check upgrade for 0801
+[2018-06-19 13:08:04.325]no device info
+[2018-06-19 13:08:04.918]check upgrade for 0801
+[2018-06-19 13:08:04.918]no device info
+[2018-06-19 13:08:05.909]check upgrade for 0801
+[2018-06-19 13:08:05.956]check upgrade for 0801
+[2018-06-19 13:09:50.571]check upgrade for 0801
+[2018-06-19 13:09:50.571]no device info
+[2018-06-19 13:09:50.841]check upgrade for 0801
+[2018-06-19 13:09:51.605]check upgrade for 0801
+[2018-06-19 13:10:26.036]check upgrade for 0801
+[2018-06-19 13:10:26.036]no device info
+[2018-06-19 13:10:27.264]check upgrade for 0801
+[2018-06-19 13:10:27.264]no device info
+[2018-06-19 13:10:28.590]check upgrade for 0801
+[2018-06-19 13:10:29.616]check upgrade for 0801
+[2018-06-19 13:14:08.101]check upgrade for 0801
+[2018-06-19 13:14:08.102]no device info
+[2018-06-19 13:14:18.274]check upgrade for 0801
+[2018-06-19 13:14:18.274]no device info
+[2018-06-19 13:14:29.224]check upgrade for 0801
+[2018-06-19 13:14:29.225]no device info

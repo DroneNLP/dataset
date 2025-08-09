@@ -1,0 +1,6 @@
+drone_model,dataset,controller,source_file,date,time,message
+DJI_Mavic_2,df067,mobile_iOS_backup,172-4a910ce665cbeaa8447ee9bc5a94eae3bbaa4985,2018-09-26,11:57:41,Home Point Recorded. RTH Altitude:  30m.
+DJI_Mavic_2,df067,mobile_iOS_backup,172-4a910ce665cbeaa8447ee9bc5a94eae3bbaa4985,2018-09-26,11:57:44,Tap the screen lightly to focus.
+DJI_Mavic_2,df067,mobile_iOS_backup,172-4a910ce665cbeaa8447ee9bc5a94eae3bbaa4985,2018-09-26,12:00:19,Mobile device CPU fully loaded. Related performance will be affected.
+DJI_Mavic_2,df067,mobile_iOS_backup,172-4a910ce665cbeaa8447ee9bc5a94eae3bbaa4985,2018-09-26,12:01:10,Obstacle Avoided. Revise Flight Route
+DJI_Mavic_2,df067,mobile_iOS_backup,172-4a910ce665cbeaa8447ee9bc5a94eae3bbaa4985,2018-09-26,12:01:12,Attitude is too large.

@@ -1,0 +1,6 @@
+drone_model,dataset,controller,source_file,date,time,message
+DJI_Mavic_Pro,df020,mobile_android_logical,DJIFlightRecord_2018-06-19_[18-48-38].csv,6/19/2018,48:38.8,Data Recorder File Index is 45.
+DJI_Mavic_Pro,df020,mobile_android_logical,DJIFlightRecord_2018-06-19_[18-48-38].csv,6/19/2018,48:41.2,Home Point Updated.
+DJI_Mavic_Pro,df020,mobile_android_logical,DJIFlightRecord_2018-06-19_[18-48-38].csv,6/19/2018,55:22.6,Obstacle Sensing will be disabled when aircraft is landing. Fly with caution.
+DJI_Mavic_Pro,df020,mobile_android_logical,DJIFlightRecord_2018-06-19_[18-48-38].csv,6/19/2018,49:58.5,Tap the screen to focus.
+DJI_Mavic_Pro,df020,mobile_android_logical,DJIFlightRecord_2018-06-19_[18-48-38].csv,6/19/2018,52:39.1,Downlink Lost.

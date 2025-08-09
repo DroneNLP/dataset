@@ -1,0 +1,7 @@
+drone_model,dataset,controller,source_file,date,time,message
+DJI_Mavic_2,df067,mobile_android_logical,DJIFlightRecord_2018-09-26_[14-15-34].csv,9/26/2018,15:36.0,Data Recorder File Index is 12.
+DJI_Mavic_2,df067,mobile_android_logical,DJIFlightRecord_2018-09-26_[14-15-34].csv,9/26/2018,15:44.2,Home Point Updated.
+DJI_Mavic_2,df067,mobile_android_logical,DJIFlightRecord_2018-09-26_[14-15-34].csv,9/26/2018,15:44.2,Home Point recorded. Return-to-Home Altitude:98FT.
+DJI_Mavic_2,df067,mobile_android_logical,DJIFlightRecord_2018-09-26_[14-15-34].csv,9/26/2018,16:14.2,Weak signal. Avoid blocking the antennas and keep the antennas parallel to and facing toward the aircraft during flight.
+DJI_Mavic_2,df067,mobile_android_logical,DJIFlightRecord_2018-09-26_[14-15-34].csv,9/26/2018,16:48.4,Weak signal. Avoid blocking the antennas and keep the antennas parallel to and facing toward the aircraft during flight.
+DJI_Mavic_2,df067,mobile_android_logical,DJIFlightRecord_2018-09-26_[14-15-34].csv,9/26/2018,21:44.3,Strong Remote Controller Interference.

@@ -1,0 +1,5 @@
+drone_model,dataset,controller,source_file,date,time,message
+DJI_Inspire_2,df025,mobile_iOS_backup,527-e4a247dd11a79e1ccf6fa7d21c139e85b4957584,2017-08-29,13:16:07,Obstacle Avoidance will be disabled in landing.
+DJI_Inspire_2,df025,mobile_iOS_backup,527-e4a247dd11a79e1ccf6fa7d21c139e85b4957584,2017-08-29,13:16:07,Landing gear lowered.Obstacle Avoidance Disabled.
+DJI_Inspire_2,df025,mobile_iOS_backup,527-e4a247dd11a79e1ccf6fa7d21c139e85b4957584,2017-08-29,13:16:39,Landing Protection Activated. Aircraft will decelerate during landing.
+DJI_Inspire_2,df025,mobile_iOS_backup,527-e4a247dd11a79e1ccf6fa7d21c139e85b4957584,2017-08-29,13:16:45,Ground Plain. Safe to Land.

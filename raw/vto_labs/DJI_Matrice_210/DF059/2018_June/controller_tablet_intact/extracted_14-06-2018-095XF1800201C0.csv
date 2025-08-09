@@ -1,0 +1,5 @@
+drone_model,dataset,controller,source_file,date,time,message
+DJI_Matrice_210,DF059,controller_tablet_intact,14-06-2018-095XF1800201C0,14-06-2018-095XF1800201C0,17:19:11,Weak GPS signal. Aircraft is in Attitude mode and hovering may be unstable. Fly with caution.
+DJI_Matrice_210,DF059,controller_tablet_intact,14-06-2018-095XF1800201C0,14-06-2018-095XF1800201C0,14:41:16,Gimbal Yaw Limit Reached
+DJI_Matrice_210,DF059,controller_tablet_intact,14-06-2018-095XF1800201C0,14-06-2018-095XF1800201C0,14:41:25,Gimbal Pitch Limit Reached
+DJI_Matrice_210,DF059,controller_tablet_intact,14-06-2018-095XF1800201C0,14-06-2018-095XF1800201C0,14:41:26,Gimbal Yaw Limit Reached

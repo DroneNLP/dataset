@@ -1,0 +1,14 @@
+drone_model,dataset,controller,source_file,date,time,message
+DJI_Inspire_1,df010,mobile_android,20-06-2018,20-06-2018,08:33:14,Take off and retry this function.
+DJI_Inspire_1,df010,mobile_android,20-06-2018,20-06-2018,08:33:15,"Aircraft is in Attitude mode, so that it will not hover. Please fly with caution."
+DJI_Inspire_1,df010,mobile_android,20-06-2018,20-06-2018,08:33:41,"Aircraft is in Attitude mode, so that it will not hover. Please fly with caution."
+DJI_Inspire_1,df010,mobile_android,20-06-2018,20-06-2018,08:33:45,"Aircraft is in Attitude mode, so that it will not hover. Please fly with caution."
+DJI_Inspire_1,df010,mobile_android,20-06-2018,20-06-2018,09:16:11,"Aircraft is in Attitude mode, so that it will not hover. Please fly with caution."
+DJI_Inspire_1,df010,mobile_android,20-06-2018,20-06-2018,09:16:54,Battery temperature is below 15 degrees Celsius. Warm up the battery temperature to above 25 degree Celsius to ensure a safe flight.
+DJI_Inspire_1,df010,mobile_android,20-06-2018,20-06-2018,09:16:54,Return-to-Home Altitude:65FT
+DJI_Inspire_1,df010,mobile_android,20-06-2018,20-06-2018,09:16:55,Taking off
+DJI_Inspire_1,df010,mobile_android,20-06-2018,20-06-2018,09:16:58,Landing Gear Raising
+DJI_Inspire_1,df010,mobile_android,20-06-2018,20-06-2018,09:17:04,Landing Gear Raised
+DJI_Inspire_1,df010,mobile_android,20-06-2018,20-06-2018,09:20:01,Landing
+DJI_Inspire_1,df010,mobile_android,20-06-2018,20-06-2018,09:20:01,Landing Gear Lowering
+DJI_Inspire_1,df010,mobile_android,20-06-2018,20-06-2018,09:20:07,Landing Gear Lowered

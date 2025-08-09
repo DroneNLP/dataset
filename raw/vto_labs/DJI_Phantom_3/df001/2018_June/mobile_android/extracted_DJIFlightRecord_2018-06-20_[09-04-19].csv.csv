@@ -1,0 +1,6 @@
+drone_model,dataset,controller,source_file,date,time,message
+DJI_Phantom_3,df001,mobile_android,DJIFlightRecord_2018-06-20_[09-04-19].csv,6/20/2018,04:20.9,Data Recorder File Index is 13.
+DJI_Phantom_3,df001,mobile_android,DJIFlightRecord_2018-06-20_[09-04-19].csv,6/20/2018,04:21.9,RTH Altitude: 98FT.
+DJI_Phantom_3,df001,mobile_android,DJIFlightRecord_2018-06-20_[09-04-19].csv,6/20/2018,04:21.8,Taking off.
+DJI_Phantom_3,df001,mobile_android,DJIFlightRecord_2018-06-20_[09-04-19].csv,6/20/2018,05:30.0,Maximum Flight Distance Reached. Adjust distance in MC Settings if required.
+DJI_Phantom_3,df001,mobile_android,DJIFlightRecord_2018-06-20_[09-04-19].csv,6/20/2018,06:10.1,Maximum Flight Distance Reached. Adjust distance in MC Settings if required.

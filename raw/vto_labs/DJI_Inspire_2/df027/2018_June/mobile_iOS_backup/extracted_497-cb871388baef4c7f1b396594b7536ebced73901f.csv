@@ -1,0 +1,5 @@
+drone_model,dataset,controller,source_file,date,time,message
+DJI_Inspire_2,df027,mobile_iOS_backup,497-cb871388baef4c7f1b396594b7536ebced73901f,2018-06-20,08:36:03,Home Point Recorded. RTH Altitude:  30m.
+DJI_Inspire_2,df027,mobile_iOS_backup,497-cb871388baef4c7f1b396594b7536ebced73901f,2018-06-20,08:36:08,Landing gear lowered.Obstacle Avoidance Disabled.
+DJI_Inspire_2,df027,mobile_iOS_backup,497-cb871388baef4c7f1b396594b7536ebced73901f,2018-06-20,08:40:12,Gimbal Pitch Reached Movement Limit
+DJI_Inspire_2,df027,mobile_iOS_backup,497-cb871388baef4c7f1b396594b7536ebced73901f,2018-06-20,08:40:26,Landing gear lowered.Obstacle Avoidance Disabled.

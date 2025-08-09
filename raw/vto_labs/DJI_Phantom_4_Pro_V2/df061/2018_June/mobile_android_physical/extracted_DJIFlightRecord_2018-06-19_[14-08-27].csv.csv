@@ -1,0 +1,26 @@
+drone_model,dataset,controller,source_file,date,time,message
+DJI_Phantom_4_Pro_V2,df061,mobile_android_physical,DJIFlightRecord_2018-06-19_[14-08-27].csv,6/19/2018,08:28.4,Data Recorder File Index is 4.
+DJI_Phantom_4_Pro_V2,df061,mobile_android_physical,DJIFlightRecord_2018-06-19_[14-08-27].csv,6/19/2018,08:30.4,Home Point Updated.
+DJI_Phantom_4_Pro_V2,df061,mobile_android_physical,DJIFlightRecord_2018-06-19_[14-08-27].csv,6/19/2018,11:02.5,Downlink Restored (after 0m 5.6s).
+DJI_Phantom_4_Pro_V2,df061,mobile_android_physical,DJIFlightRecord_2018-06-19_[14-08-27].csv,6/19/2018,11:09.0,Downlink Restored (after 0m 5.8s).
+DJI_Phantom_4_Pro_V2,df061,mobile_android_physical,DJIFlightRecord_2018-06-19_[14-08-27].csv,6/19/2018,11:32.3,Downlink Restored (after 0m 11s).
+DJI_Phantom_4_Pro_V2,df061,mobile_android_physical,DJIFlightRecord_2018-06-19_[14-08-27].csv,6/19/2018,11:31.7,Downlink Restored (after 0m 2.2s).
+DJI_Phantom_4_Pro_V2,df061,mobile_android_physical,DJIFlightRecord_2018-06-19_[14-08-27].csv,6/19/2018,13:15.0,Attitude is too large. Backward Obstacle Sensing is not functioning.
+DJI_Phantom_4_Pro_V2,df061,mobile_android_physical,DJIFlightRecord_2018-06-19_[14-08-27].csv,6/19/2018,15:43.2,Obstacle Sensing will be disabled when aircraft is landing. Fly with caution.
+DJI_Phantom_4_Pro_V2,df061,mobile_android_physical,DJIFlightRecord_2018-06-19_[14-08-27].csv,6/19/2018,08:51.3,Home Point recorded. Return-to-Home Altitude:98FT.
+DJI_Phantom_4_Pro_V2,df061,mobile_android_physical,DJIFlightRecord_2018-06-19_[14-08-27].csv,6/19/2018,09:20.4,High wind velocity. Ensure the aircraft remains within your line of sight and fly with caution.
+DJI_Phantom_4_Pro_V2,df061,mobile_android_physical,DJIFlightRecord_2018-06-19_[14-08-27].csv,6/19/2018,10:42.4,High wind velocity. Ensure the aircraft remains within your line of sight and fly with caution.
+DJI_Phantom_4_Pro_V2,df061,mobile_android_physical,DJIFlightRecord_2018-06-19_[14-08-27].csv,6/19/2018,10:58.4,Weak signal. Avoid blocking the antennas and keep the antennas parallel to and facing toward the aircraft during flight.; Downlink Lost.
+DJI_Phantom_4_Pro_V2,df061,mobile_android_physical,DJIFlightRecord_2018-06-19_[14-08-27].csv,6/19/2018,11:04.2,Downlink Lost.
+DJI_Phantom_4_Pro_V2,df061,mobile_android_physical,DJIFlightRecord_2018-06-19_[14-08-27].csv,6/19/2018,11:08.8,High wind velocity. Ensure the aircraft remains within your line of sight and fly with caution.; Downlink Lost.
+DJI_Phantom_4_Pro_V2,df061,mobile_android_physical,DJIFlightRecord_2018-06-19_[14-08-27].csv,6/19/2018,11:17.9,Downlink Lost.
+DJI_Phantom_4_Pro_V2,df061,mobile_android_physical,DJIFlightRecord_2018-06-19_[14-08-27].csv,6/19/2018,11:31.4,Downlink Lost.
+DJI_Phantom_4_Pro_V2,df061,mobile_android_physical,DJIFlightRecord_2018-06-19_[14-08-27].csv,6/19/2018,12:11.4,High wind velocity. Ensure the aircraft remains within your line of sight and fly with caution.
+DJI_Phantom_4_Pro_V2,df061,mobile_android_physical,DJIFlightRecord_2018-06-19_[14-08-27].csv,6/19/2018,12:32.4,High wind velocity. Ensure the aircraft remains within your line of sight and fly with caution.
+DJI_Phantom_4_Pro_V2,df061,mobile_android_physical,DJIFlightRecord_2018-06-19_[14-08-27].csv,6/19/2018,12:56.4,High wind velocity. Fly with caution and land in a safe place ASAP.
+DJI_Phantom_4_Pro_V2,df061,mobile_android_physical,DJIFlightRecord_2018-06-19_[14-08-27].csv,6/19/2018,13:14.4,Forward Obstacle Sensing is not functioning.
+DJI_Phantom_4_Pro_V2,df061,mobile_android_physical,DJIFlightRecord_2018-06-19_[14-08-27].csv,6/19/2018,13:36.4,High wind velocity. Ensure the aircraft remains within your line of sight and fly with caution.
+DJI_Phantom_4_Pro_V2,df061,mobile_android_physical,DJIFlightRecord_2018-06-19_[14-08-27].csv,6/19/2018,13:56.3,High wind velocity. Ensure the aircraft remains within your line of sight and fly with caution.
+DJI_Phantom_4_Pro_V2,df061,mobile_android_physical,DJIFlightRecord_2018-06-19_[14-08-27].csv,6/19/2018,14:02.4,High wind velocity. Fly with caution and land in a safe place ASAP.
+DJI_Phantom_4_Pro_V2,df061,mobile_android_physical,DJIFlightRecord_2018-06-19_[14-08-27].csv,6/19/2018,14:13.4,High wind velocity. Ensure the aircraft remains within your line of sight and fly with caution.
+DJI_Phantom_4_Pro_V2,df061,mobile_android_physical,DJIFlightRecord_2018-06-19_[14-08-27].csv,6/19/2018,14:49.4,High wind velocity. Ensure the aircraft remains within your line of sight and fly with caution.

@@ -1,0 +1,4 @@
+drone_model,dataset,controller,source_file,date,time,message
+DJI_Mavic_2,df067,mobile_android_logical,10-10-2017,10/10/2017,15:32:53,"Aircraft is in Attitude mode, so that it will not hover. Please fly with caution."
+DJI_Mavic_2,df067,mobile_android_logical,10-10-2017,10/10/2017,15:36:34,"Aircraft is in Attitude mode, so that it will not hover. Please fly with caution."
+DJI_Mavic_2,df067,mobile_android_logical,10-10-2017,10/10/2017,15:38:29,"Aircraft is in Attitude mode, so that it will not hover. Please fly with caution."

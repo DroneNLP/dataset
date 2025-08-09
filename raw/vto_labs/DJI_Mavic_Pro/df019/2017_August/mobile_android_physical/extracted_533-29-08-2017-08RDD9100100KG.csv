@@ -1,0 +1,17 @@
+drone_model,dataset,controller,source_file,date,time,message
+DJI_Mavic_Pro,df019,mobile_android_physical,533-29-08-2017-08RDD9100100KG,533-29-08-2017-08RDD9100100KG,12:05:33,Taking off
+DJI_Mavic_Pro,df019,mobile_android_physical,533-29-08-2017-08RDD9100100KG,533-29-08-2017-08RDD9100100KG,12:05:34,Taking off
+DJI_Mavic_Pro,df019,mobile_android_physical,533-29-08-2017-08RDD9100100KG,533-29-08-2017-08RDD9100100KG,12:05:35,"Home Point Recorded, Return-to-Home Altitude:98FT"
+DJI_Mavic_Pro,df019,mobile_android_physical,533-29-08-2017-08RDD9100100KG,533-29-08-2017-08RDD9100100KG,12:05:35,"Home Point Recorded, Return-to-Home Altitude:98FT"
+DJI_Mavic_Pro,df019,mobile_android_physical,533-29-08-2017-08RDD9100100KG,533-29-08-2017-08RDD9100100KG,12:08:35,Tap the screen lightly to focus.
+DJI_Mavic_Pro,df019,mobile_android_physical,533-29-08-2017-08RDD9100100KG,533-29-08-2017-08RDD9100100KG,12:08:35,Tap the screen lightly to focus.
+DJI_Mavic_Pro,df019,mobile_android_physical,533-29-08-2017-08RDD9100100KG,533-29-08-2017-08RDD9100100KG,12:11:31,Ground Plain. Safe to Land.
+DJI_Mavic_Pro,df019,mobile_android_physical,533-29-08-2017-08RDD9100100KG,533-29-08-2017-08RDD9100100KG,12:11:31,Ground Plain. Safe to Land.
+DJI_Mavic_Pro,df019,mobile_android_physical,533-29-08-2017-08RDD9100100KG,533-29-08-2017-08RDD9100100KG,12:11:41,Aircraft is returning to the Home Point. Minimum RTH Altitude is 30m. You can reset the RTH Altitude in Remote Controller Settings after cancelling RTH if necessary.
+DJI_Mavic_Pro,df019,mobile_android_physical,533-29-08-2017-08RDD9100100KG,533-29-08-2017-08RDD9100100KG,12:11:41,Aircraft is returning to the Home Point. Minimum RTH Altitude is 30m. You can reset the RTH Altitude in Remote Controller Settings after cancelling RTH if necessary.
+DJI_Mavic_Pro,df019,mobile_android_physical,533-29-08-2017-08RDD9100100KG,533-29-08-2017-08RDD9100100KG,12:11:55,Descending. Exited Visual Avoidance System
+DJI_Mavic_Pro,df019,mobile_android_physical,533-29-08-2017-08RDD9100100KG,533-29-08-2017-08RDD9100100KG,12:11:55,Descending. Exited Visual Avoidance System
+DJI_Mavic_Pro,df019,mobile_android_physical,533-29-08-2017-08RDD9100100KG,533-29-08-2017-08RDD9100100KG,12:11:56,Precision Landing
+DJI_Mavic_Pro,df019,mobile_android_physical,533-29-08-2017-08RDD9100100KG,533-29-08-2017-08RDD9100100KG,12:11:56,Rectifying aircraft position
+DJI_Mavic_Pro,df019,mobile_android_physical,533-29-08-2017-08RDD9100100KG,533-29-08-2017-08RDD9100100KG,12:11:56,Precision Landing
+DJI_Mavic_Pro,df019,mobile_android_physical,533-29-08-2017-08RDD9100100KG,533-29-08-2017-08RDD9100100KG,12:11:56,Rectifying aircraft position

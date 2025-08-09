@@ -1,0 +1,10 @@
+drone_model,dataset,controller,source_file,date,time,message
+DJI_Inspire_1,df010,mobile_android,DJIFlightRecord_2018-06-20_[09-16-53].csv,6/20/2018,3:16:54.01 PM,Data Recorder File Index is 13.
+DJI_Inspire_1,df010,mobile_android,DJIFlightRecord_2018-06-20_[09-16-53].csv,6/20/2018,3:16:54.74 PM,Battery temperature is below 15 degrees Celsius. Warm up the battery temperature to above 25 degree Celsius to ensure a safe flight.
+DJI_Inspire_1,df010,mobile_android,DJIFlightRecord_2018-06-20_[09-16-53].csv,6/20/2018,3:16:54.84 PM,RTH Altitude: 65FT.
+DJI_Inspire_1,df010,mobile_android,DJIFlightRecord_2018-06-20_[09-16-53].csv,6/20/2018,3:16:54.94 PM,Taking off.
+DJI_Inspire_1,df010,mobile_android,DJIFlightRecord_2018-06-20_[09-16-53].csv,6/20/2018,3:16:58.83 PM,Landing Gear Raising.
+DJI_Inspire_1,df010,mobile_android,DJIFlightRecord_2018-06-20_[09-16-53].csv,6/20/2018,3:17:04.72 PM,Landing Gear Raised.
+DJI_Inspire_1,df010,mobile_android,DJIFlightRecord_2018-06-20_[09-16-53].csv,6/20/2018,3:20:01.13 PM,Landing.
+DJI_Inspire_1,df010,mobile_android,DJIFlightRecord_2018-06-20_[09-16-53].csv,6/20/2018,3:20:01.43 PM,Landing Gear Lowering.
+DJI_Inspire_1,df010,mobile_android,DJIFlightRecord_2018-06-20_[09-16-53].csv,6/20/2018,3:20:07.31 PM,Landing Gear Lowered.

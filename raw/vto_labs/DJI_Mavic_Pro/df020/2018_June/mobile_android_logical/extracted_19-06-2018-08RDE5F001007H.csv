@@ -1,0 +1,4 @@
+drone_model,dataset,controller,source_file,date,time,message
+DJI_Mavic_Pro,df020,mobile_android_logical,19-06-2018-08RDE5F001007H,19/06/2018,18:39:55,Weak GPS signal. Aircraft is in Attitude mode and hovering may be unstable. Fly with caution.
+DJI_Mavic_Pro,df020,mobile_android_logical,19-06-2018-08RDE5F001007H,19/06/2018,18:49:58,Tap the screen to focus.
+DJI_Mavic_Pro,df020,mobile_android_logical,19-06-2018-08RDE5F001007H,19/06/2018,18:55:23,Obstacle Sensing will be disabled when aircraft is landing. Fly with caution.

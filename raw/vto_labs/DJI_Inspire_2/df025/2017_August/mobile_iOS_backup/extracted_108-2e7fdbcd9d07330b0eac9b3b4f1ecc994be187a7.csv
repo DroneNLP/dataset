@@ -1,0 +1,13 @@
+drone_model,dataset,controller,source_file,date,time,message
+DJI_Inspire_2,df025,mobile_iOS_backup,108-2e7fdbcd9d07330b0eac9b3b4f1ecc994be187a7,2017-08-29,13:07:28,Home Point Recorded. RTH Altitude:  30m.
+DJI_Inspire_2,df025,mobile_iOS_backup,108-2e7fdbcd9d07330b0eac9b3b4f1ecc994be187a7,2017-08-29,13:07:33,Landing gear lowered.Obstacle Avoidance Disabled.
+DJI_Inspire_2,df025,mobile_iOS_backup,108-2e7fdbcd9d07330b0eac9b3b4f1ecc994be187a7,2017-08-29,13:08:57,Aircraft is returning to the Home Point. Minimum RTH Altitude is 30m. You can reset the RTH Altitude in Remote Controller Settings after cancelling RTH.
+DJI_Inspire_2,df025,mobile_iOS_backup,108-2e7fdbcd9d07330b0eac9b3b4f1ecc994be187a7,2017-08-29,13:09:29,Obstacle Avoidance will be disabled in landing.
+DJI_Inspire_2,df025,mobile_iOS_backup,108-2e7fdbcd9d07330b0eac9b3b4f1ecc994be187a7,2017-08-29,13:09:30,Landing gear lowered.Obstacle Avoidance Disabled.
+DJI_Inspire_2,df025,mobile_iOS_backup,108-2e7fdbcd9d07330b0eac9b3b4f1ecc994be187a7,2017-08-29,13:10:00,Landing Protection Activated. Aircraft will decelerate during landing.
+DJI_Inspire_2,df025,mobile_iOS_backup,108-2e7fdbcd9d07330b0eac9b3b4f1ecc994be187a7,2017-08-29,13:10:06,Ground Plain. Safe to Land.
+DJI_Inspire_2,df025,mobile_iOS_backup,108-2e7fdbcd9d07330b0eac9b3b4f1ecc994be187a7,2017-08-29,13:10:40,Taking Off
+DJI_Inspire_2,df025,mobile_iOS_backup,108-2e7fdbcd9d07330b0eac9b3b4f1ecc994be187a7,2017-08-29,13:10:41,Taking Off
+DJI_Inspire_2,df025,mobile_iOS_backup,108-2e7fdbcd9d07330b0eac9b3b4f1ecc994be187a7,2017-08-29,13:10:42,Home Point Recorded. RTH Altitude:  30m.
+DJI_Inspire_2,df025,mobile_iOS_backup,108-2e7fdbcd9d07330b0eac9b3b4f1ecc994be187a7,2017-08-29,13:11:55,Fly with caution and ensure the aircraft remains within your line of sight.
+DJI_Inspire_2,df025,mobile_iOS_backup,108-2e7fdbcd9d07330b0eac9b3b4f1ecc994be187a7,2017-08-29,13:12:21,Fly with caution and ensure the aircraft remains within your line of sight.

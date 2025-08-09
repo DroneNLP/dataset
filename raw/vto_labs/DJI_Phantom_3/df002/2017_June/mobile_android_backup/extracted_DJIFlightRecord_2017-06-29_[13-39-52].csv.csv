@@ -1,0 +1,4 @@
+drone_model,dataset,controller,source_file,date,time,message
+DJI_Phantom_3,df002,mobile_android_backup,DJIFlightRecord_2017-06-29_[13-39-52].csv,6/29/2017,39:55.1,RTH Altitude: 98FT.; Data Recorder File Index is 1.
+DJI_Phantom_3,df002,mobile_android_backup,DJIFlightRecord_2017-06-29_[13-39-52].csv,6/29/2017,39:55.1,Home Point Recorded.; Taking off.
+DJI_Phantom_3,df002,mobile_android_backup,DJIFlightRecord_2017-06-29_[13-39-52].csv,6/29/2017,49:42.9,Low Power. Returning home.

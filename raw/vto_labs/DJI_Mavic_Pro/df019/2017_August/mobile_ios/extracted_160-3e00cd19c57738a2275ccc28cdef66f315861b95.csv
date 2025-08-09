@@ -1,0 +1,14 @@
+drone_model,dataset,controller,source_file,date,time,message
+DJI_Mavic_Pro,df019,mobile_ios,160-3e00cd19c57738a2275ccc28cdef66f315861b95,2017-08-29,11:56:11,Taking Off
+DJI_Mavic_Pro,df019,mobile_ios,160-3e00cd19c57738a2275ccc28cdef66f315861b95,2017-08-29,11:56:12,Taking Off
+DJI_Mavic_Pro,df019,mobile_ios,160-3e00cd19c57738a2275ccc28cdef66f315861b95,2017-08-29,11:56:13,Home Point Recorded. RTH Altitude:  30m.
+DJI_Mavic_Pro,df019,mobile_ios,160-3e00cd19c57738a2275ccc28cdef66f315861b95,2017-08-29,11:56:13,Tap the screen lightly to focus.
+DJI_Mavic_Pro,df019,mobile_ios,160-3e00cd19c57738a2275ccc28cdef66f315861b95,2017-08-29,11:56:45,Max Flight Distance Reached. Adjust in Main Controller Settings if necessary.
+DJI_Mavic_Pro,df019,mobile_ios,160-3e00cd19c57738a2275ccc28cdef66f315861b95,2017-08-29,11:57:29,Max Flight Distance Reached. Adjust in Main Controller Settings if necessary.
+DJI_Mavic_Pro,df019,mobile_ios,160-3e00cd19c57738a2275ccc28cdef66f315861b95,2017-08-29,11:58:00,Max Flight Distance Reached. Adjust in Main Controller Settings if necessary.
+DJI_Mavic_Pro,df019,mobile_ios,160-3e00cd19c57738a2275ccc28cdef66f315861b95,2017-08-29,11:59:07,Max Flight Distance Reached. Adjust in Main Controller Settings if necessary.
+DJI_Mavic_Pro,df019,mobile_ios,160-3e00cd19c57738a2275ccc28cdef66f315861b95,2017-08-29,11:59:20,Landing
+DJI_Mavic_Pro,df019,mobile_ios,160-3e00cd19c57738a2275ccc28cdef66f315861b95,2017-08-29,11:59:20,Obstacle Avoidance will be disabled in landing.
+DJI_Mavic_Pro,df019,mobile_ios,160-3e00cd19c57738a2275ccc28cdef66f315861b95,2017-08-29,11:59:34,Landing Canceled
+DJI_Mavic_Pro,df019,mobile_ios,160-3e00cd19c57738a2275ccc28cdef66f315861b95,2017-08-29,11:59:35,Max Flight Distance Reached. Adjust in Main Controller Settings if necessary.
+DJI_Mavic_Pro,df019,mobile_ios,160-3e00cd19c57738a2275ccc28cdef66f315861b95,2017-08-29,12:02:05,Obstacle Avoidance will be disabled in landing.

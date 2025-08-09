@@ -1,0 +1,65 @@
+
+[2017-08-29 12:14:15.174]need upgrade groups: (
+    "group name: OFDM\nproduct type: 16777479\n"
+)
+[2017-08-29 12:14:15.267]need upgrade groups: (
+    "group name: OFDM\nproduct type: 16777479\n"
+)
+[2017-08-29 12:14:16.001]need upgrade groups: (
+    "group name: OFDM\nproduct type: 16777479\n"
+)
+[2017-08-29 12:20:43.482]need upgrade groups: (
+    "group name: OFDM\nproduct type: 16777479\n"
+)
+[2017-08-29 12:20:53.701]need upgrade groups: (
+    "group name: OFDM\nproduct type: 16777479\n"
+)
+[2017-08-29 12:20:53.705]set callback: <__NSStackBlock__: 0x16fdd5e08>
+[2017-08-29 12:20:53.718]handle state init => download_init
+[2017-08-29 12:20:56.928]need upgrade groups: (
+    "group name: OFDM\nproduct type: 16777479\n"
+)
+[2017-08-29 12:20:56.932]set callback: <__NSStackBlock__: 0x16fdd5ce8>
+[2017-08-29 12:20:56.932]need upgrade groups: (
+    "group name: OFDM\nproduct type: 16777479\n"
+)
+[2017-08-29 12:20:56.934]set callback: <__NSStackBlock__: 0x16fdd5ce8>
+[2017-08-29 12:20:56.934]need upgrade groups: (
+    "group name: OFDM\nproduct type: 16777479\n"
+)
+[2017-08-29 12:20:56.936]set callback: <__NSStackBlock__: 0x16fdd5ce8>
+[2017-08-29 12:20:56.953]need upgrade groups: (
+    "group name: OFDM\nproduct type: 16777479\n"
+)
+[2017-08-29 12:20:56.955]set callback: <__NSStackBlock__: 0x16fdd5ce8>
+[2017-08-29 12:20:56.955]need upgrade groups: (
+    "group name: OFDM\nproduct type: 16777479\n"
+)
+[2017-08-29 12:20:56.957]set callback: <__NSStackBlock__: 0x16fdd5ce8>
+[2017-08-29 12:20:56.958]need upgrade groups: (
+    "group name: OFDM\nproduct type: 16777479\n"
+)
+[2017-08-29 12:20:56.960]set callback: <__NSStackBlock__: 0x16fdd5ce8>
+[2017-08-29 12:20:58.375]need upgrade groups: (
+    "group name: OFDM\nproduct type: 16777479\n"
+)
+[2017-08-29 12:20:58.377]set callback: <__NSStackBlock__: 0x16fdd5ce8>
+[2017-08-29 12:20:58.419]need upgrade groups: (
+    "group name: OFDM\nproduct type: 16777479\n"
+)
+[2017-08-29 12:20:58.420]set callback: <__NSStackBlock__: 0x16fdd5ce8>
+[2017-08-29 12:20:58.467]need upgrade groups: (
+    "group name: OFDM\nproduct type: 16777479\n"
+)
+[2017-08-29 12:20:58.469]set callback: <__NSStackBlock__: 0x16fdd5ce8>
+[2017-08-29 12:20:59.470]need upgrade groups: (
+    "group name: OFDM\nproduct type: 16777479\n"
+)
+[2017-08-29 12:20:59.472]set callback: <__NSStackBlock__: 0x16fdd5ce8>
+[2017-08-29 12:20:59.974]set callback: <__NSStackBlock__: 0x16fdd6668>
+[2017-08-29 12:21:15.003]set callback: <__NSStackBlock__: 0x16fdd5618>
+[2017-08-29 12:29:17.174]need upgrade groups: (
+    "group name: OFDM\nproduct type: 16777479\n"
+)
+[2017-08-29 12:29:28.656]set callback: <__NSStackBlock__: 0x16fdd5618>
+[2017-08-29 12:29:28.718]set callback: <__NSStackBlock__: 0x16fdd5618>
