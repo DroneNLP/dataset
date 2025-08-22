@@ -1,0 +1,17 @@
+1. Prepare a script to cleanse (ensure ending period for each sample)
+2. Tokenize the message to accommodate the logs characteristics:
+    a. Segment separator: period, colon, and comma.
+    b. Space after these punctuations.
+    c. Keep parentheses and dashed attached to the words.
+    d. Preserve decimal values
+    e. Keep units attached to the values
+2. Get pseudo-label from ADFLER-xlnet-base-cased -> save to CoNLL and CSV (simpletransformers library) compatible.
+3. Perform a series of corrections:
+    a. BIOES tagging validation check.
+    b. Check for the label for segment-separator punctuations. Ensure the label is appropriate.
+    c. Check for the single-word entity spans' label.
+    d. Check for the segments with parentheses.
+    e. Check for the entity type correctness based on the definition of Event and NonEvent entity types.
+4. Train a new model (xlnet-base-cased) based on the newly annotated dataset.
+5. Use the mdoel to predict the VTO dataset.
+6. Perform step 3 on the VTP dataset.
