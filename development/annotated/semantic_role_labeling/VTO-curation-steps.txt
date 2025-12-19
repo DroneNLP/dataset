@@ -1,0 +1,6 @@
+1. Assign MessageID to merged VTO message
+2. Assing UID (Unique ID) to each Message
+3. Create a unique message dataset (unique_df)
+4. Perform prediction on unique_df
+5. Curate the label of unique_df
+6. Apply the label to all message
