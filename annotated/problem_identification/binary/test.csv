@@ -1,0 +1,456 @@
+text,labels
+Flight Mode Set to Attitude,Normal
+Set Flight Mode to GPS to fly safe,Normal
+Flight Mode Set to Attitude,Normal
+Set Flight Mode to GPS to fly safe,Normal
+Home Point Recorded.,Normal
+Flight Mode Set to Attitude,Normal
+Set Flight Mode to GPS to fly safe,Normal
+Flight Mode Set to Attitude,Normal
+Set Flight Mode to GPS to fly safe,Normal
+Take off in P-Mode,Normal
+"Aircraft is in Attitude mode, so that it will not hover. Please fly with caution.",Problem
+Flight Mode Set to Attitude,Normal
+Set Flight Mode to GPS to fly safe,Normal
+Flight Mode Set to Attitude,Normal
+Set Flight Mode to GPS to fly safe,Normal
+Flight Mode Set to Attitude,Normal
+Set Flight Mode to GPS to fly safe,Normal
+Flight Mode Set to Attitude,Normal
+Set Flight Mode to GPS to fly safe,Normal
+Flight Mode Set to Attitude,Normal
+Set Flight Mode to GPS to fly safe,Normal
+Take off in P-Mode,Normal
+Battery Signal Error. Check battery connection.,Problem
+Battery Signal Error. Check battery connection.,Problem
+"Aircraft is in Attitude mode, so that it will not hover. Please fly with caution.",Problem
+Flight Mode Set to Attitude,Normal
+Set Flight Mode to GPS to fly safe,Normal
+Compass Stuck. Restart Aircraft. Contact DJI Support if this persists.,Problem
+Maximum Flight Distance Reached. Adjust distance in MC Settings if required.,Problem
+Maximum Flight Distance Reached. Adjust distance in MC Settings if required.,Problem
+Data Recorder File Index is 13.,Normal
+RTH Altitude : 98FT.,Normal
+Taking off.,Normal
+Maximum Flight Distance Reached. Adjust distance in MC Settings if required.,Problem
+Maximum Flight Distance Reached. Adjust distance in MC Settings if required.,Problem
+Strong wireless interference. Please fly with caution.,Problem
+Strong Interference Detected. Be careful when flying long distances.,Problem
+Taking Off.,Normal
+Strong Interference Detected. Be careful when flying long distances.,Problem
+Strong Interference Detected. Be careful when flying long distances.,Problem
+Strong Interference Detected. Be careful when flying long distances.,Problem
+Strong Interference Detected. Be careful when flying long distances.,Problem
+Strong Interference Detected. Be careful when flying long distances.,Problem
+Strong Interference Detected. Be careful when flying long distances.,Problem
+Strong Interference Detected. Be careful when flying long distances.,Problem
+Strong Interference Detected. Be careful when flying long distances.,Problem
+Compass Error. Exit P-GPS Mode,Problem
+Strong Interference Detected. Be careful when flying long distances.,Problem
+Strong Interference Detected. Be careful when flying long distances.,Problem
+Strong Interference Detected. Be careful when flying long distances.,Problem
+Strong Interference Detected. Be careful when flying long distances.,Problem
+Strong wireless interference. Please fly with caution.,Problem
+Strong wireless interference. Please fly with caution.,Problem
+Strong wireless interference. Please fly with caution.,Problem
+Strong wireless interference. Please fly with caution.,Problem
+Strong wireless interference. Please fly with caution.,Problem
+Strong wireless interference. Please fly with caution.,Problem
+Strong wireless interference. Please fly with caution.,Problem
+Landing.,Normal
+"Aircraft is in Attitude mode, so that it will not hover. Please fly with caution.",Problem
+"Aircraft is in Attitude mode, so that it will not hover. Please fly with caution.",Problem
+Home Point Recorded.,Normal
+Taking Off.,Normal
+Return-to-Home Altitude : 98FT,Normal
+Low Power. Returning home.,Problem
+"Aircraft is in Attitude mode, so that it will not hover. Please fly with caution.",Problem
+RTH Altitude : 98FT. Data Recorder File Index is 1.,Normal
+Home Point Recorded. Taking off.,Normal
+Low Power. Returning home.,Problem
+Taking Off.,Normal
+Max Flight Distance Reached. Adjust in Main Controller Settings if necessary.,Problem
+Aircraft out of Range,Problem
+Aircraft out of Range,Problem
+Aircraft out of Range,Problem
+Aircraft out of Range,Problem
+Aircraft out of Range,Problem
+Aircraft out of Range,Problem
+Aircraft out of Range,Problem
+Aircraft out of Range,Problem
+Aircraft out of Range,Problem
+Aircraft out of Range,Problem
+Cannot change current flight mode. Enable Multiple Flight Modes in Settings menu to change.,Problem
+Max Flight Distance Reached. Adjust in Main Controller Settings if necessary.,Problem
+Aircraft out of Range,Problem
+Aircraft out of Range,Problem
+Aircraft out of Range,Problem
+Aircraft out of Range,Problem
+Aircraft out of Range,Problem
+Max Flight Distance Reached. Adjust in Main Controller Settings if necessary.,Problem
+Cannot change current flight mode. Enable Multiple Flight Modes in Settings menu to change.,Problem
+Returning to the Home Point,Normal
+Returning to the Home Point,Normal
+Landing Canceled.,Normal
+Strong Interference. Fly with caution.,Problem
+Motors Started.,Normal
+Cannot enter the selected flight mode. Try again later.,Problem
+Right Dial Locked. Lightly press to adjust.,Problem
+Right Dial Locked. Lightly press to adjust.,Problem
+Motors Started.,Normal
+Braking now! Return sticks to midpoints first.,Problem
+Braking now! Return sticks to midpoints first.,Problem
+Braking now! Return sticks to midpoints first.,Problem
+Braking now! Return sticks to midpoints first.,Problem
+Braking now! Return sticks to midpoints first.,Problem
+"Home Point Recorded, Return-to-Home Altitude : 98FT",Normal
+Braking now! Return sticks to midpoints first.,Problem
+Braking now! Return sticks to midpoints first.,Problem
+Strong Interference. Fly with caution.,Problem
+Right Dial Locked. Lightly press to adjust.,Problem
+Strong Interference. Fly with caution.,Problem
+Strong Interference. Fly with caution.,Problem
+Strong Interference. Fly with caution.,Problem
+Taking Off.,Normal
+Strong Interference. Fly with caution.,Problem
+"Home Point Recorded, Return-to-Home Altitude : 98FT",Normal
+Strong Interference. Fly with caution.,Problem
+Strong Interference. Fly with caution.,Problem
+Braking now! Return sticks to midpoints first.,Problem
+Braking now! Return sticks to midpoints first.,Problem
+Braking now! Return sticks to midpoints first.,Problem
+Data Recorder File Index is 4.,Normal
+Motors Started.,Normal
+Downlink Restored (after 0m 1.4s).,Normal
+Downlink Restored (after 0m 0.9s).,Normal
+Downlink Restored (after 0m 1.2s).,Normal
+Downlink Restored (after 0m 1.1s).,Normal
+Downlink Restored (after 0m 1s).,Normal
+Downlink Restored (after 0m 1.6s).,Normal
+Downlink Restored (after 0m 1.1s).,Normal
+Downlink Restored (after 0m 1.2s).,Normal
+Downlink Restored (after 0m 1.4s).,Normal
+Downlink Restored (after 0m 1.2s).,Normal
+Downlink Restored (after 0m 1s).,Normal
+"Home Point Recorded, Return-to-Home Altitude : 98FT.",Normal
+Downlink Lost.,Problem
+Downlink Lost.,Problem
+Downlink Lost.,Problem
+Downlink Lost.,Problem
+Downlink Lost.,Problem
+Downlink Lost.,Problem
+Braking now! Return sticks to midpoints first.,Problem
+Downlink Lost.,Problem
+Braking now! Return sticks to midpoints first.,Problem
+Braking now! Return sticks to midpoints first.,Problem
+Braking now! Return sticks to midpoints first.,Problem
+Braking now! Return sticks to midpoints first.,Problem
+Data Recorder File Index is 4.,Normal
+Taking off.,Normal
+Home Point Updated.,Normal
+Exited Visual Avoidance System.,Normal
+Aircraft is close to Home Point. Return-to-Home Mode is now Auto Landing Mode.,Normal
+Exited Visual Avoidance System.,Normal
+"Home Point Recorded, Return-to-Home Altitude : 98FT.",Normal
+Aircraft is close to Home Point. Return-to-Home Mode is now Auto Landing Mode.,Normal
+Strong Interference. Fly with caution.,Problem
+Strong Interference. Fly with caution.,Problem
+Strong Interference. Fly with caution.,Problem
+Braking now! Return sticks to midpoints first.,Problem
+Braking now! Return sticks to midpoints first.,Problem
+Taking Off.,Normal
+Taking Off.,Normal
+Home Point Recorded. RTH Altitude : 30m.,Normal
+Obstacle Avoided. Revise Flight Route,Problem
+Home Point Recorded. RTH Altitude : 30m.,Normal
+Fly with caution and ensure the aircraft remains within your line of sight.,Problem
+Fly with caution and ensure the aircraft remains within your line of sight.,Problem
+Fly with caution and ensure the aircraft remains within your line of sight.,Problem
+Remote Controller Right Dial Locked. Lightly press it to adjust.,Problem
+Remote Controller Right Dial Locked. Lightly press it to adjust.,Problem
+Satellite positioning off. Fly with Caution.,Problem
+Strong Interference. Fly with caution.,Problem
+Strong Interference. Fly with caution.,Problem
+"Home Point Recorded, Return-to-Home Altitude : 98FT",Normal
+Strong Interference. Fly with caution.,Problem
+Strong Interference. Fly with caution.,Problem
+Strong Interference. Fly with caution.,Problem
+Strong Interference. Fly with caution.,Problem
+Strong Interference. Fly with caution.,Problem
+Lens not connected,Problem
+Satellite positioning off. Fly with Caution.,Problem
+Taking Off.,Normal
+"Home Point Recorded, Return-to-Home Altitude : 98FT",Normal
+Maximum Flight Altitude Reached. Adjust altitude in MC Settings if required.,Problem
+Braking now! Return sticks to midpoints first.,Problem
+Braking now! Return sticks to midpoints first.,Problem
+Data Recorder File Index is 7.,Normal
+Large Wind Velocity.,Problem
+Taking off.,Normal
+"Home Point Recorded, Return-to-Home Altitude : 98FT.",Normal
+Maximum Flight Altitude Reached.,Problem
+Braking now! Return sticks to midpoints first.,Problem
+Taking Off.,Normal
+Taking Off.,Normal
+Home Point Recorded. RTH Altitude : 30m.,Normal
+Obstacle Avoided. Revise Flight Route,Problem
+Obstacle Avoided. Revise Flight Route,Problem
+Obstacle Avoided. Revise Flight Route,Problem
+Obstacle Avoided. Revise Flight Route,Problem
+Obstacle Avoided. Revise Flight Route,Problem
+Obstacle Avoided. Revise Flight Route,Problem
+Obstacle Avoided. Revise Flight Route,Problem
+Taking Off.,Normal
+Taking Off.,Normal
+Home Point Recorded. RTH Altitude : 30m.,Normal
+Camera Settings Adjusted to ActiveTrack,Normal
+Camera Settings Adjusted to ActiveTrack,Normal
+Drag a box around or tap a target on screen. Then tap Go.,Normal
+Subject too Large. Move Away and retry,Problem
+Aircraft is in QuickShot Mode. Ensure your enviornment is free of potential obstacles.,Problem
+Drag a box around or tap a target on screen. Then tap Go.,Normal
+Drag a box around or tap a target on screen. Then tap Go.,Normal
+Aircraft is in QuickShot Mode. Ensure your enviornment is free of potential obstacles.,Problem
+Camera Settings Adjusted to ActiveTrack,Normal
+Camera Settings Adjusted to ActiveTrack,Normal
+Drag a box around or tap a target on screen. Then tap Go.,Normal
+Cannot Identify Subject,Problem
+Tap to choose a valid zone.,Normal
+Drag a box around or tap a target on screen. Then tap Go.,Normal
+Subject lost. Searching ...,Problem
+Subject too Small. Get Closer and retry,Problem
+Subject too Small. Get Closer and retry,Problem
+Drag a box around or tap a target on screen. Then tap Go.,Normal
+Aircraft is in QuickShot Mode. Ensure your enviornment is free of potential obstacles.,Problem
+Aircraft is returning to the Home Point. Minimum RTH Altitude is 30m. You can reset the RTH Altitude in Remote Controller Settings after cancelling RTH.,Normal
+Obstacle Avoidance will be disabled in landing.,Normal
+The remaining battery is only enough for RTH. Return home now.,Problem
+Landing Canceled.,Normal
+The remaining battery is only enough for RTH. Return home now.,Problem
+Critically Low Power. Aircraft Landing,Problem
+Obstacle Avoidance will be disabled in landing.,Normal
+Command Failed,Problem
+Backward Obstacle Sensing is not functioning.,Problem
+Backward Obstacle Sensing is not functioning.,Problem
+Backward Obstacle Sensing is not functioning.,Problem
+Ambient Light is too weak.,Problem
+Home Point recorded. Return-to-Home Altitude : 98FT,Normal
+High wind velocity. Ensure the aircraft remains within your line of sight and fly with caution.,Problem
+Weak signal. Avoid blocking the antennas and keep the antennas parallel to and facing toward the aircraft during flight.,Problem
+High wind velocity. Fly with caution and land in a safe place ASAP.,Problem
+Forward Obstacle Sensing is not functioning.,Problem
+Attitude is too large. Backward Obstacle Sensing is not functioning.,Problem
+Obstacle Sensing will be disabled when aircraft is landing. Fly with caution.,Problem
+Forward Obstacle Sensing is not functioning.,Problem
+Ambient Light is too weak.,Problem
+Data Recorder File Index is 4.,Normal
+Home Point Updated.,Normal
+Downlink Restored (after 0m 5.6s).,Normal
+Downlink Restored (after 0m 5.8s).,Normal
+Downlink Restored (after 0m 11s).,Normal
+Downlink Restored (after 0m 2.2s).,Normal
+Attitude is too large. Backward Obstacle Sensing is not functioning.,Problem
+Obstacle Sensing will be disabled when aircraft is landing. Fly with caution.,Problem
+Home Point recorded. Return-to-Home Altitude : 98FT.,Normal
+High wind velocity. Ensure the aircraft remains within your line of sight and fly with caution.,Problem
+High wind velocity. Ensure the aircraft remains within your line of sight and fly with caution.,Problem
+Weak signal. Avoid blocking the antennas and keep the antennas parallel to and facing toward the aircraft during flight. Downlink Lost.,Problem
+Downlink Lost.,Problem
+High wind velocity. Ensure the aircraft remains within your line of sight and fly with caution. Downlink Lost.,Problem
+Downlink Lost.,Problem
+Downlink Lost.,Problem
+High wind velocity. Ensure the aircraft remains within your line of sight and fly with caution.,Problem
+High wind velocity. Ensure the aircraft remains within your line of sight and fly with caution.,Problem
+High wind velocity. Fly with caution and land in a safe place ASAP.,Problem
+Forward Obstacle Sensing is not functioning.,Problem
+High wind velocity. Ensure the aircraft remains within your line of sight and fly with caution.,Problem
+High wind velocity. Ensure the aircraft remains within your line of sight and fly with caution.,Problem
+High wind velocity. Fly with caution and land in a safe place ASAP.,Problem
+High wind velocity. Ensure the aircraft remains within your line of sight and fly with caution.,Problem
+High wind velocity. Ensure the aircraft remains within your line of sight and fly with caution.,Problem
+Home Point Recorded. RTH Altitude : 30m.,Normal
+Fly with caution and ensure the aircraft remains within your line of sight.,Problem
+Fly with caution and ensure the aircraft remains within your line of sight.,Problem
+Fly with caution and ensure the aircraft remains within your line of sight.,Problem
+High wind velocity. Fly with caution and land in a safe place ASAP.,Problem
+Fly with caution and ensure the aircraft remains within your line of sight.,Problem
+Fly with caution and ensure the aircraft remains within your line of sight.,Problem
+Fly with caution and ensure the aircraft remains within your line of sight.,Problem
+Home Point recorded. Return-to-Home Altitude : 98FT,Normal
+High wind velocity. Ensure the aircraft remains within your line of sight and fly with caution.,Problem
+High wind velocity. Fly with caution and land in a safe place ASAP.,Problem
+Warning,Problem
+The remaining battery is only enough for RTH. Return home now.,Problem
+Low power. Returning home.,Problem
+Obstacle Sensing will be disabled when aircraft is landing. Fly with caution.,Problem
+Precision Landing,Normal
+Correcting Landing Position,Normal
+Precision Landing,Normal
+Correcting Landing Position,Normal
+Precision Landing,Normal
+Correcting Landing Position,Normal
+Precision Landing,Normal
+Correcting Landing Position,Normal
+Forward Obstacle Sensing is not functioning.,Problem
+Ambient Light is too weak.,Problem
+Backward Obstacle Sensing is not functioning.,Problem
+Ambient Light is too weak.,Problem
+Data Recorder File Index is 5.,Normal
+Home Point Updated.,Normal
+Home Point recorded. Return-to-Home Altitude : 98FT.,Normal
+RTH : Preascending.,Normal
+RTH : Heading alignment.,Normal
+RTH : Ascending to RTH altitude.,Normal
+RTH : Cruise.,Normal
+Obstacle Sensing will be disabled when aircraft is landing. Fly with caution.,Problem
+Low power. Returning home.,Problem
+Precision Landing. Correcting Landing Position.,Normal
+Precision Landing. Correcting Landing Position.,Normal
+Precision Landing. Correcting Landing Position.,Normal
+Precision Landing. Correcting Landing Position.,Normal
+Precision Landing. Correcting Landing Position.,Normal
+Precision Landing. Correcting Landing Position.,Normal
+Precision Landing. Correcting Landing Position.,Normal
+Precision Landing. Correcting Landing Position.,Normal
+Precision Landing. Correcting Landing Position.,Normal
+Precision Landing. Correcting Landing Position.,Normal
+Precision Landing. Correcting Landing Position.,Normal
+Precision Landing. Correcting Landing Position.,Normal
+Precision Landing. Correcting Landing Position.,Normal
+Precision Landing. Correcting Landing Position.,Normal
+High wind velocity. Ensure the aircraft remains within your line of sight and fly with caution.,Problem
+High wind velocity. Ensure the aircraft remains within your line of sight and fly with caution.,Problem
+High wind velocity. Ensure the aircraft remains within your line of sight and fly with caution.,Problem
+High wind velocity. Fly with caution and land in a safe place ASAP.,Problem
+High wind velocity. Ensure the aircraft remains within your line of sight and fly with caution. High wind velocity. Fly with caution and land in a safe place ASAP.,Problem
+WarningThe remaining battery is only enough for RTH. Return home now.,Problem
+Home Point Recorded. RTH Altitude : 30m.,Normal
+Fly with caution and ensure the aircraft remains within your line of sight.,Problem
+Fly with caution and ensure the aircraft remains within your line of sight.,Problem
+Fly with caution and ensure the aircraft remains within your line of sight.,Problem
+Fly with caution and ensure the aircraft remains within your line of sight.,Problem
+Fly with caution and ensure the aircraft remains within your line of sight.,Problem
+Fly with caution and ensure the aircraft remains within your line of sight.,Problem
+Fly with caution and ensure the aircraft remains within your line of sight.,Problem
+Fly with caution and ensure the aircraft remains within your line of sight.,Problem
+Fly with caution and ensure the aircraft remains within your line of sight.,Problem
+Fly with caution and ensure the aircraft remains within your line of sight.,Problem
+High wind velocity. Fly with caution and land in a safe place ASAP.,Problem
+Remote Controller Right Dial Locked. Lightly press it to adjust.,Problem
+Max Flight Distance Reached. Adjust in Main Controller Settings if necessary.,Problem
+Weak signal. Adjust antenna and avoid signal block.,Problem
+"Aircraft is in Attitude mode, so that it will not hover. Please fly with caution.",Problem
+"Aircraft is in Attitude mode, so that it will not hover. Please fly with caution.",Problem
+"Aircraft is in Attitude mode, so that it will not hover. Please fly with caution.",Problem
+"Aircraft is in Attitude mode, so that it will not hover. Please fly with caution.",Problem
+Cannot Takeoff in Travel Mode. Exit Travel Mode.,Problem
+Cannot Takeoff in Travel Mode. Exit Travel Mode.,Problem
+Cannot Takeoff in Travel Mode. Exit Travel Mode.,Problem
+"Aircraft is in Attitude mode, so that it will not hover. Please fly with caution.",Problem
+"Aircraft is in Attitude mode, so that it will not hover. Please fly with caution.",Problem
+"Aircraft is in Attitude mode, so that it will not hover. Please fly with caution.",Problem
+"Aircraft is in Attitude mode, so that it will not hover. Please fly with caution.",Problem
+Cannot Takeoff in Travel Mode. Exit Travel Mode.,Problem
+"Aircraft is in Attitude mode, so that it will not hover. Please fly with caution.",Problem
+"Aircraft is in Attitude mode, so that it will not hover. Please fly with caution.",Problem
+"Aircraft is in Attitude mode, so that it will not hover. Please fly with caution.",Problem
+Cannot Takeoff in Travel Mode. Exit Travel Mode.,Problem
+"Aircraft is in Attitude mode, so that it will not hover. Please fly with caution.",Problem
+Take off and retry this function.,Problem
+Cannot Takeoff in Travel Mode. Exit Travel Mode.,Problem
+"Aircraft is in Attitude mode, so that it will not hover. Please fly with caution.",Problem
+"Aircraft is in Attitude mode, so that it will not hover. Please fly with caution.",Problem
+Take off in P-Mode,Normal
+Cannot Takeoff in Travel Mode. Exit Travel Mode.,Problem
+Landing Gear Lowering.,Normal
+Landing Gear Lowered.,Normal
+"Aircraft is in Attitude mode, so that it will not hover. Please fly with caution.",Problem
+Return-to-Home Altitude : 65FT,Normal
+Landing.,Normal
+Take off in P-Mode,Normal
+Flight Mode Set to Attitude,Normal
+Set Flight Mode to GPS to fly safe,Normal
+"Aircraft is in Attitude mode, so that it will not hover. Please fly with caution.",Problem
+Take off and retry this function.,Problem
+Flight Mode Set to Attitude,Normal
+Set Flight Mode to GPS to fly safe,Normal
+Take off and retry this function.,Problem
+"Aircraft is in Attitude mode, so that it will not hover. Please fly with caution.",Problem
+Take off in P-Mode,Normal
+Take off in P-Mode,Normal
+Take off in P-Mode,Normal
+"Aircraft is in Attitude mode, so that it will not hover. Please fly with caution.",Problem
+"Aircraft is in Attitude mode, so that it will not hover. Please fly with caution.",Problem
+Landing Gear Raising.,Normal
+Landing Gear Paused.,Normal
+Weak GPS signal. Aircraft is in Attitude mode and hovering may be unstable. Fly with caution.,Problem
+Weak GPS signal. Aircraft is in Attitude mode and hovering may be unstable. Fly with caution.,Problem
+Weak GPS signal. Aircraft is in Attitude mode and hovering may be unstable. Fly with caution.,Problem
+Home Point recorded. Return-to-Home Altitude : 98FT,Normal
+Home Point recorded. Return-to-Home Altitude : 98FT,Normal
+Aircraft is close to the Home Point. Initiating Return to Home will now trigger Auto Landing.,Normal
+Data Recorder File Index is 5.,Normal
+RTH Altitude : 65FT.,Normal
+Landing.,Normal
+Data Recorder File Index is 2.,Normal
+Home Point Updated.,Normal
+Home Point recorded. Return-to-Home Altitude : 98FT.,Normal
+Downlink Restored (after 0m 11.3s).,Normal
+Aircraft is close to the Home Point. Initiating Return to Home will now trigger Auto Landing.,Normal
+Downlink Lost.,Problem
+Home Point Recorded. RTH Altitude : 30m.,Normal
+Fly with caution and ensure the aircraft remains within your line of sight.,Problem
+Mobile device CPU fully loaded. Related performance will be affected.,Problem
+Fly with caution and ensure the aircraft remains within your line of sight.,Problem
+Fly with caution and ensure the aircraft remains within your line of sight.,Problem
+Strong wireless interference. Please fly with caution.,Problem
+Strong wireless interference. Please fly with caution.,Problem
+Strong wireless interference. Please fly with caution.,Problem
+Strong wireless interference. Please fly with caution.,Problem
+Strong wireless interference. Please fly with caution.,Problem
+Strong wireless interference. Please fly with caution.,Problem
+Strong wireless interference. Please fly with caution.,Problem
+Strong wireless interference. Please fly with caution.,Problem
+Satellite Positioning Off. Fly with caution.,Problem
+Strong wireless interference. Please fly with caution.,Problem
+Strong wireless interference. Please fly with caution.,Problem
+Strong wireless interference. Please fly with caution.,Problem
+Strong wireless interference. Please fly with caution.,Problem
+Strong wireless interference. Please fly with caution.,Problem
+Strong wireless interference. Please fly with caution.,Problem
+Strong wireless interference. Please fly with caution.,Problem
+Strong wireless interference. Please fly with caution.,Problem
+Your aircraft has entered a Warning Zone (Class D). Please fly with caution.,Problem
+Fly with caution and ensure the aircraft remains within your line of sight.,Problem
+Home Point Recorded. RTH Altitude : 30m.,Normal
+Taking Off.,Normal
+Taking Off.,Normal
+Home Point Recorded. RTH Altitude : 30m.,Normal
+Your palm is too far away from the aircraft. Please step closer.,Problem
+Your palm is too far away from the aircraft. Please step closer.,Problem
+Your palm is too far away from the aircraft. Please step closer.,Problem
+PalmControl in Process,Normal
+PalmControl in Process,Normal
+Away and Follow in progress.,Normal
+Your palm is too far away from the aircraft. Please step closer.,Problem
+Aircraft is now following you.,Normal
+Drag a box around or tap a target on screen. Then tap Go.,Normal
+Cannot Identify Subject,Problem
+Subject lost. Searching ...,Problem
+Cannot Identify Subject,Problem
+Subject lost. Searching ...,Problem
+Subject lost. Searching ...,Problem
+Drag a box around or tap a target on screen. Then tap Go.,Normal
+Max Flight Distance Reached. Adjust in Main Controller Settings if necessary.,Problem
+Aircraft is entering a restricted area,Problem
+Drag a box around or tap a target on screen. Then tap Go.,Normal
+Subject too Small. Get Closer and retry,Problem
+Aircraft is entering a restricted area,Problem
+Max Flight Distance Reached. Adjust in Main Controller Settings if necessary.,Problem
+The remaining battery is only enough for RTH. Return home now.,Problem
+Low Power. Aircraft is returning to the Home Point.,Problem
+Obstacle Avoidance will be disabled in landing.,Normal
+The remaining battery is only enough for RTH. Return home now.,Problem
+Home Point Recorded. RTH Altitude : 30m.,Normal
+Fly with caution and ensure the aircraft remains within your line of sight.,Problem
+Aircraft close to Home Point. go home shifts to landing.,Normal
