@@ -3,8 +3,8 @@
 - **Objective:** Provide two text-classification datasets (binary and multiclass) for identifying anomalous or problematic drone flight-log messages to support digital forensics investigations of drone devices.
 
 **Dataset Structure**
-- **Binary task:** Located in [development/annotated/problem_identification/binary](development/annotated/problem_identification/binary). Each of `train.csv` and `test.csv` contains two columns: `text` and `labels`. The labels are `Normal` and `Problem` and were chosen to be directly compatible with the SimpleTransformers library.
-- **Multiclass (severity) task:** Located in [development/annotated/problem_identification/multiclass](development/annotated/problem_identification/multiclass). There are two subfolders: `duplicate` and `unique` (samples with or without duplicate messages). Each CSV contains two columns: `message` and `label`. The classes are `Normal`, `Low`, `Medium`, and `High` describing severity levels.
+- **Binary task:** Located in `/development/annotated/problem_identification/binary`. Each of `train.csv` and `test.csv` contains two columns: `text` and `labels`. The labels are `Normal` and `Problem` and were chosen to be directly compatible with the SimpleTransformers library.
+- **Multiclass (severity) task:** Located in `development/annotated/problem_identification/severity`. There are two subfolders: `duplicate` and `unique` (samples with or without duplicate messages). Each CSV contains two columns: `message` and `label`. The classes are `Normal`, `Low`, `Medium`, and `High` describing severity levels.
 
 **Labels**
 - **Binary:** `Normal`, `Problem` (2 classes).
@@ -46,7 +46,7 @@ import pandas as pd
 from simpletransformers.classification import ClassificationModel
 
 mapping = {'Normal':0, 'Low':1, 'Medium':2, 'High':3}
-df = pd.read_csv('development/annotated/problem_identification/multiclass/unique/train.csv')
+df = pd.read_csv('development/annotated/problem_identification/severity/unique/filtered_train.csv')
 df = df.rename(columns={'message':'text', 'label':'labels'})
 df['labels'] = df['labels'].map(mapping)
 
